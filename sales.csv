@@ -1,0 +1,3001 @@
+﻿order_id,date,product,category,continent,country,quantity,unit_price,revenue
+1153,2025-11-01,Sunglasses,Accessories,Asia,Japan,3,30,90
+2001,2025-11-01,Sunglasses,Accessories,Europe,France,3,30,90
+2451,2025-11-01,Backpack,Accessories,North America,United States,3,40,120
+2449,2025-11-01,Smart Watch,Electronics,Europe,Germany,1,90,90
+1475,2025-11-01,T-Shirt,Clothing,Asia,United Arab Emirates,1,25,25
+3695,2025-11-01,Sunglasses,Accessories,North America,United States,1,30,30
+3795,2025-11-01,Backpack,Accessories,Europe,France,3,40,120
+3997,2025-11-01,T-Shirt,Clothing,Europe,Spain,2,25,50
+1180,2025-11-01,Sneakers,Clothing,Europe,France,3,60,180
+3584,2025-11-01,Sneakers,Clothing,Europe,Spain,2,60,120
+1160,2025-11-01,Headphones,Electronics,Asia,India,1,45,45
+3510,2025-11-02,Smart Watch,Electronics,North America,Mexico,2,90,180
+1465,2025-11-02,T-Shirt,Clothing,Europe,United Kingdom,3,25,75
+2953,2025-11-02,Sunglasses,Accessories,South America,Chile,3,30,90
+2015,2025-11-02,T-Shirt,Clothing,Asia,United Arab Emirates,2,25,50
+2032,2025-11-02,Headphones,Electronics,Asia,Jordan,2,45,90
+1061,2025-11-02,T-Shirt,Clothing,Europe,Spain,1,25,25
+1697,2025-11-02,Charger,Electronics,North America,Canada,2,15,30
+2879,2025-11-02,Smart Watch,Electronics,Europe,Spain,2,90,180
+2284,2025-11-02,Headphones,Electronics,South America,Chile,1,45,45
+2233,2025-11-02,Sneakers,Clothing,North America,Canada,2,60,120
+3486,2025-11-02,Headphones,Electronics,Asia,Japan,1,45,45
+1361,2025-11-03,Headphones,Electronics,North America,Mexico,1,45,45
+3346,2025-11-03,T-Shirt,Clothing,Asia,Japan,3,25,75
+1445,2025-11-03,Charger,Electronics,Oceania,Australia,3,15,45
+2327,2025-11-03,Smart Watch,Electronics,Europe,France,1,90,90
+3682,2025-11-03,Sunglasses,Accessories,Africa,South Africa,1,30,30
+1376,2025-11-03,Backpack,Accessories,Antarctica,Antarctica,3,40,120
+1557,2025-11-03,T-Shirt,Clothing,Africa,Morocco,2,25,50
+3354,2025-11-04,Sneakers,Clothing,Asia,Japan,1,60,60
+2764,2025-11-04,Smart Watch,Electronics,North America,Mexico,3,90,270
+2539,2025-11-04,Headphones,Electronics,Asia,United Arab Emirates,3,45,135
+2371,2025-11-04,Smart Watch,Electronics,Asia,Saudi Arabia,3,90,270
+2706,2025-11-04,Headphones,Electronics,Asia,Saudi Arabia,2,45,90
+1410,2025-11-04,Backpack,Accessories,Europe,France,1,40,40
+1981,2025-11-04,Sneakers,Clothing,Oceania,Australia,3,60,180
+2834,2025-11-04,Backpack,Accessories,Europe,United Kingdom,3,40,120
+2852,2025-11-04,Smart Watch,Electronics,North America,Canada,3,90,270
+1316,2025-11-04,Backpack,Accessories,Oceania,New Zealand,2,40,80
+1226,2025-11-04,Backpack,Accessories,North America,Mexico,2,40,80
+3647,2025-11-05,Headphones,Electronics,Europe,Germany,2,45,90
+2864,2025-11-05,Sneakers,Clothing,North America,United States,2,60,120
+1171,2025-11-05,Charger,Electronics,Asia,Saudi Arabia,3,15,45
+1249,2025-11-05,Smart Watch,Electronics,North America,Canada,3,90,270
+1372,2025-11-05,Smart Watch,Electronics,Oceania,New Zealand,1,90,90
+2738,2025-11-05,Charger,Electronics,Africa,Egypt,2,15,30
+1030,2025-11-05,Backpack,Accessories,South America,Brazil,2,40,80
+1548,2025-11-05,Headphones,Electronics,Oceania,New Zealand,3,45,135
+1839,2025-11-05,Backpack,Accessories,Oceania,Australia,1,40,40
+1096,2025-11-05,T-Shirt,Clothing,North America,Mexico,3,25,75
+3769,2025-11-05,T-Shirt,Clothing,Asia,United Arab Emirates,2,25,50
+3623,2025-11-05,T-Shirt,Clothing,Asia,India,1,25,25
+1583,2025-11-05,Smart Watch,Electronics,Europe,United Kingdom,3,90,270
+1941,2025-11-06,Sunglasses,Accessories,North America,United States,1,30,30
+2252,2025-11-06,T-Shirt,Clothing,Asia,United Arab Emirates,3,25,75
+2083,2025-11-06,Sneakers,Clothing,South America,Chile,3,60,180
+2322,2025-11-06,Sneakers,Clothing,South America,Chile,3,60,180
+2565,2025-11-06,Charger,Electronics,Oceania,Australia,2,15,30
+2045,2025-11-07,Headphones,Electronics,Europe,United Kingdom,1,45,45
+2564,2025-11-07,Headphones,Electronics,Europe,Germany,3,45,135
+3513,2025-11-07,T-Shirt,Clothing,North America,Mexico,1,25,25
+1407,2025-11-07,Smart Watch,Electronics,Asia,United Arab Emirates,1,90,90
+1571,2025-11-07,Backpack,Accessories,North America,Canada,2,40,80
+1685,2025-11-07,Sneakers,Clothing,Europe,Spain,2,60,120
+2184,2025-11-07,Backpack,Accessories,Asia,Japan,1,40,40
+3187,2025-11-08,Backpack,Accessories,Asia,India,3,40,120
+3718,2025-11-08,Sneakers,Clothing,Asia,Jordan,2,60,120
+3234,2025-11-08,T-Shirt,Clothing,Europe,United Kingdom,3,25,75
+2482,2025-11-08,Smart Watch,Electronics,South America,Argentina,3,90,270
+3313,2025-11-08,Sunglasses,Accessories,Africa,Nigeria,1,30,30
+1163,2025-11-08,T-Shirt,Clothing,North America,Canada,2,25,50
+2347,2025-11-08,Headphones,Electronics,North America,Mexico,1,45,45
+1208,2025-11-08,Charger,Electronics,South America,Argentina,1,15,15
+3868,2025-11-08,T-Shirt,Clothing,South America,Chile,3,25,75
+3583,2025-11-08,T-Shirt,Clothing,Asia,India,2,25,50
+3904,2025-11-08,Charger,Electronics,Europe,Spain,1,15,15
+3322,2025-11-08,Sneakers,Clothing,Europe,United Kingdom,2,60,120
+3387,2025-11-09,Sunglasses,Accessories,North America,United States,1,30,30
+3626,2025-11-09,Smart Watch,Electronics,North America,United States,1,90,90
+2616,2025-11-09,Sneakers,Clothing,Europe,Spain,3,60,180
+1995,2025-11-09,Charger,Electronics,Oceania,Australia,1,15,15
+1314,2025-11-09,Smart Watch,Electronics,Europe,Spain,2,90,180
+3890,2025-11-09,Backpack,Accessories,Europe,Spain,3,40,120
+1425,2025-11-09,T-Shirt,Clothing,North America,Mexico,2,25,50
+3008,2025-11-09,Sneakers,Clothing,Europe,Germany,3,60,180
+1440,2025-11-09,Sneakers,Clothing,Asia,India,2,60,120
+2361,2025-11-09,Sunglasses,Accessories,Oceania,New Zealand,2,30,60
+1624,2025-11-10,T-Shirt,Clothing,North America,Canada,3,25,75
+3380,2025-11-10,Headphones,Electronics,Europe,France,1,45,45
+2704,2025-11-10,Backpack,Accessories,Europe,Spain,2,40,80
+2265,2025-11-10,T-Shirt,Clothing,Asia,Jordan,3,25,75
+3736,2025-11-10,Smart Watch,Electronics,North America,Mexico,3,90,270
+2537,2025-11-10,Smart Watch,Electronics,North America,United States,2,90,180
+1260,2025-11-10,T-Shirt,Clothing,Asia,Saudi Arabia,1,25,25
+1472,2025-11-10,Sunglasses,Accessories,Europe,France,3,30,90
+1643,2025-11-10,Charger,Electronics,Asia,Japan,1,15,15
+3148,2025-11-10,Sunglasses,Accessories,North America,United States,1,30,30
+1530,2025-11-10,Charger,Electronics,North America,Mexico,2,15,30
+2792,2025-11-10,Sneakers,Clothing,North America,United States,2,60,120
+1960,2025-11-10,T-Shirt,Clothing,Asia,Japan,1,25,25
+2984,2025-11-11,Headphones,Electronics,South America,Argentina,3,45,135
+3873,2025-11-11,Sneakers,Clothing,North America,Mexico,1,60,60
+2471,2025-11-11,T-Shirt,Clothing,North America,United States,3,25,75
+2191,2025-11-11,Backpack,Accessories,Europe,Germany,2,40,80
+2749,2025-11-11,Backpack,Accessories,Europe,France,2,40,80
+1367,2025-11-11,Sunglasses,Accessories,Africa,South Africa,2,30,60
+3064,2025-11-11,Charger,Electronics,Oceania,Australia,3,15,45
+3560,2025-11-12,Sunglasses,Accessories,Europe,Germany,1,30,30
+1879,2025-11-12,Smart Watch,Electronics,Oceania,Australia,3,90,270
+1568,2025-11-12,T-Shirt,Clothing,South America,Brazil,3,25,75
+1840,2025-11-12,T-Shirt,Clothing,Europe,France,2,25,50
+3149,2025-11-12,Headphones,Electronics,Europe,Germany,2,45,90
+2390,2025-11-12,Charger,Electronics,North America,United States,1,15,15
+3067,2025-11-12,Charger,Electronics,Europe,Germany,3,15,45
+1396,2025-11-12,Backpack,Accessories,Asia,Jordan,3,40,120
+1646,2025-11-12,Charger,Electronics,Oceania,New Zealand,1,15,15
+2693,2025-11-12,T-Shirt,Clothing,North America,Canada,3,25,75
+1337,2025-11-12,Backpack,Accessories,North America,United States,3,40,120
+1579,2025-11-12,T-Shirt,Clothing,North America,United States,1,25,25
+2377,2025-11-12,Smart Watch,Electronics,South America,Brazil,3,90,270
+2994,2025-11-12,Sunglasses,Accessories,Asia,United Arab Emirates,1,30,30
+3973,2025-11-12,Backpack,Accessories,South America,Argentina,3,40,120
+2345,2025-11-12,Sunglasses,Accessories,Asia,Saudi Arabia,1,30,30
+1556,2025-11-12,Backpack,Accessories,Europe,France,1,40,40
+3797,2025-11-12,Sneakers,Clothing,South America,Chile,1,60,60
+2656,2025-11-13,T-Shirt,Clothing,Europe,Spain,3,25,75
+2227,2025-11-13,Sunglasses,Accessories,North America,Mexico,1,30,30
+2861,2025-11-13,T-Shirt,Clothing,South America,Brazil,1,25,25
+1909,2025-11-13,Sneakers,Clothing,Asia,India,1,60,60
+1036,2025-11-13,Smart Watch,Electronics,North America,Mexico,3,90,270
+3671,2025-11-13,Backpack,Accessories,North America,Mexico,3,40,120
+2543,2025-11-13,Sunglasses,Accessories,Asia,India,2,30,60
+1899,2025-11-13,T-Shirt,Clothing,South America,Brazil,2,25,50
+1088,2025-11-13,Charger,Electronics,South America,Argentina,2,15,30
+1446,2025-11-14,Headphones,Electronics,North America,Canada,3,45,135
+2820,2025-11-14,T-Shirt,Clothing,Asia,Saudi Arabia,1,25,25
+2296,2025-11-14,Backpack,Accessories,Asia,Saudi Arabia,3,40,120
+2025,2025-11-14,Sunglasses,Accessories,Asia,Japan,3,30,90
+3398,2025-11-14,T-Shirt,Clothing,Oceania,Australia,1,25,25
+2714,2025-11-14,Charger,Electronics,Europe,France,2,15,30
+3863,2025-11-14,Sneakers,Clothing,South America,Brazil,3,60,180
+2702,2025-11-14,Sneakers,Clothing,Europe,France,3,60,180
+1210,2025-11-14,Sunglasses,Accessories,Africa,Egypt,2,30,60
+1423,2025-11-15,Smart Watch,Electronics,North America,Canada,1,90,90
+3084,2025-11-15,Sunglasses,Accessories,North America,Canada,3,30,90
+3617,2025-11-15,Sunglasses,Accessories,Asia,Saudi Arabia,3,30,90
+1215,2025-11-15,Backpack,Accessories,Europe,Spain,1,40,40
+1764,2025-11-15,T-Shirt,Clothing,Europe,France,1,25,25
+3051,2025-11-15,T-Shirt,Clothing,Europe,United Kingdom,1,25,25
+3367,2025-11-15,Backpack,Accessories,Africa,Nigeria,2,40,80
+3914,2025-11-15,Sunglasses,Accessories,Europe,United Kingdom,2,30,60
+3047,2025-11-16,Charger,Electronics,Asia,Japan,2,15,30
+3746,2025-11-16,Smart Watch,Electronics,North America,Mexico,1,90,90
+3562,2025-11-16,Headphones,Electronics,Asia,Japan,2,45,90
+3364,2025-11-16,Sneakers,Clothing,Oceania,New Zealand,2,60,120
+3761,2025-11-16,Charger,Electronics,Europe,Spain,2,15,30
+2635,2025-11-16,T-Shirt,Clothing,Asia,Jordan,3,25,75
+2413,2025-11-16,Sneakers,Clothing,North America,United States,3,60,180
+2993,2025-11-16,Sneakers,Clothing,Asia,Jordan,3,60,180
+2455,2025-11-16,Headphones,Electronics,Europe,United Kingdom,3,45,135
+2630,2025-11-16,Headphones,Electronics,North America,Mexico,3,45,135
+1757,2025-11-16,Sunglasses,Accessories,Asia,United Arab Emirates,1,30,30
+2814,2025-11-17,Smart Watch,Electronics,Europe,Spain,3,90,270
+1695,2025-11-17,Sunglasses,Accessories,Asia,India,2,30,60
+3501,2025-11-17,Backpack,Accessories,Europe,United Kingdom,1,40,40
+1403,2025-11-17,T-Shirt,Clothing,Europe,Germany,2,25,50
+3840,2025-11-17,Sunglasses,Accessories,Europe,Germany,2,30,60
+3685,2025-11-17,Backpack,Accessories,Asia,Jordan,3,40,120
+3751,2025-11-17,Sneakers,Clothing,Africa,South Africa,1,60,60
+3224,2025-11-18,Headphones,Electronics,Europe,Spain,2,45,90
+2728,2025-11-18,Headphones,Electronics,South America,Brazil,3,45,135
+3859,2025-11-19,Sneakers,Clothing,North America,United States,3,60,180
+1133,2025-11-19,Backpack,Accessories,Europe,Germany,1,40,40
+1638,2025-11-19,Smart Watch,Electronics,Europe,Germany,3,90,270
+3993,2025-11-19,Sneakers,Clothing,Asia,Japan,3,60,180
+2163,2025-11-19,T-Shirt,Clothing,Africa,Morocco,3,25,75
+1947,2025-11-19,Sneakers,Clothing,Europe,France,3,60,180
+1457,2025-11-20,T-Shirt,Clothing,Asia,Jordan,2,25,50
+1647,2025-11-20,Backpack,Accessories,North America,Mexico,3,40,120
+2868,2025-11-20,Headphones,Electronics,North America,Canada,1,45,45
+2119,2025-11-20,Sneakers,Clothing,Africa,Morocco,1,60,60
+3174,2025-11-20,Backpack,Accessories,North America,Mexico,1,40,40
+3374,2025-11-20,Smart Watch,Electronics,North America,Mexico,1,90,90
+2034,2025-11-20,Sneakers,Clothing,Africa,Egypt,3,60,180
+3315,2025-11-20,Backpack,Accessories,North America,United States,1,40,40
+3690,2025-11-21,Backpack,Accessories,Europe,Spain,3,40,120
+1720,2025-11-21,Headphones,Electronics,Europe,France,2,45,90
+3735,2025-11-21,Headphones,Electronics,North America,Canada,2,45,90
+1830,2025-11-21,Charger,Electronics,North America,United States,3,15,45
+3565,2025-11-21,Sunglasses,Accessories,North America,Mexico,3,30,90
+3525,2025-11-21,Sneakers,Clothing,North America,Mexico,3,60,180
+1906,2025-11-21,Backpack,Accessories,Asia,Saudi Arabia,3,40,120
+3126,2025-11-22,Charger,Electronics,Europe,France,3,15,45
+1633,2025-11-22,Backpack,Accessories,Africa,Morocco,1,40,40
+2394,2025-11-22,Backpack,Accessories,Asia,India,2,40,80
+3631,2025-11-22,Headphones,Electronics,North America,United States,1,45,45
+1071,2025-11-22,Smart Watch,Electronics,Asia,Japan,2,90,180
+1992,2025-11-22,T-Shirt,Clothing,Africa,Morocco,1,25,25
+1413,2025-11-22,Sunglasses,Accessories,Asia,India,3,30,90
+3309,2025-11-23,Headphones,Electronics,North America,Mexico,1,45,45
+3600,2025-11-23,Sneakers,Clothing,Asia,Japan,3,60,180
+1268,2025-11-23,Backpack,Accessories,North America,Mexico,3,40,120
+3407,2025-11-23,Headphones,Electronics,North America,United States,2,45,90
+1111,2025-11-23,Backpack,Accessories,Europe,France,2,40,80
+1178,2025-11-23,Backpack,Accessories,Africa,Egypt,1,40,40
+3466,2025-11-24,Headphones,Electronics,Europe,France,2,45,90
+1912,2025-11-24,Headphones,Electronics,South America,Chile,1,45,45
+1456,2025-11-24,Sunglasses,Accessories,Europe,France,1,30,30
+1893,2025-11-24,Smart Watch,Electronics,Asia,Japan,3,90,270
+1650,2025-11-24,T-Shirt,Clothing,Asia,Jordan,2,25,50
+2582,2025-11-24,Sunglasses,Accessories,South America,Argentina,3,30,90
+3266,2025-11-24,T-Shirt,Clothing,North America,Mexico,3,25,75
+2927,2025-11-24,Sneakers,Clothing,Europe,Spain,1,60,60
+2619,2025-11-24,Backpack,Accessories,North America,Mexico,3,40,120
+3657,2025-11-24,Backpack,Accessories,North America,Mexico,1,40,40
+1381,2025-11-25,Headphones,Electronics,Europe,Germany,1,45,45
+3587,2025-11-25,Sneakers,Clothing,Europe,United Kingdom,2,60,120
+2108,2025-11-25,Charger,Electronics,North America,Mexico,2,15,30
+1990,2025-11-25,Backpack,Accessories,Europe,Germany,3,40,120
+1858,2025-11-25,Smart Watch,Electronics,Asia,Jordan,1,90,90
+2492,2025-11-25,Sunglasses,Accessories,Asia,Jordan,2,30,60
+1929,2025-11-25,Charger,Electronics,South America,Chile,2,15,30
+1577,2025-11-25,Sneakers,Clothing,Europe,Germany,1,60,60
+1578,2025-11-25,Sneakers,Clothing,North America,Canada,3,60,180
+2334,2025-11-25,Sunglasses,Accessories,Oceania,New Zealand,2,30,60
+2682,2025-11-26,Backpack,Accessories,Europe,Germany,1,40,40
+3437,2025-11-26,T-Shirt,Clothing,Asia,Jordan,2,25,50
+3040,2025-11-26,Headphones,Electronics,Europe,Spain,2,45,90
+2631,2025-11-26,Sneakers,Clothing,Europe,Spain,1,60,60
+3923,2025-11-26,Headphones,Electronics,North America,United States,2,45,90
+2990,2025-11-26,Sunglasses,Accessories,Africa,South Africa,3,30,90
+1409,2025-11-26,Smart Watch,Electronics,Asia,India,2,90,180
+1087,2025-11-26,Sneakers,Clothing,Europe,Germany,3,60,180
+1344,2025-11-26,Charger,Electronics,North America,United States,3,15,45
+1419,2025-11-27,Sunglasses,Accessories,Europe,France,2,30,60
+2829,2025-11-27,Charger,Electronics,South America,Brazil,2,15,30
+3494,2025-11-27,Sunglasses,Accessories,North America,United States,2,30,60
+1073,2025-11-27,Backpack,Accessories,South America,Chile,2,40,80
+1321,2025-11-27,Sneakers,Clothing,North America,United States,1,60,60
+2584,2025-11-27,Sunglasses,Accessories,North America,United States,3,30,90
+2524,2025-11-28,Backpack,Accessories,Europe,France,1,40,40
+3874,2025-11-28,Headphones,Electronics,South America,Brazil,2,45,90
+1905,2025-11-28,T-Shirt,Clothing,North America,United States,2,25,50
+1797,2025-11-28,Headphones,Electronics,Asia,United Arab Emirates,3,45,135
+1927,2025-11-28,Smart Watch,Electronics,Africa,Nigeria,2,90,180
+1614,2025-11-28,Smart Watch,Electronics,Asia,Japan,3,90,270
+1904,2025-11-28,T-Shirt,Clothing,Asia,Jordan,2,25,50
+2940,2025-11-28,Sneakers,Clothing,Africa,South Africa,1,60,60
+3636,2025-11-28,Sneakers,Clothing,Europe,Spain,2,60,120
+3528,2025-11-28,Sunglasses,Accessories,Asia,India,1,30,30
+2197,2025-11-28,T-Shirt,Clothing,Oceania,New Zealand,1,25,25
+3953,2025-11-29,Charger,Electronics,North America,United States,3,15,45
+3646,2025-11-29,Sunglasses,Accessories,Europe,Spain,2,30,60
+3055,2025-11-29,Smart Watch,Electronics,North America,Canada,3,90,270
+2889,2025-11-29,Smart Watch,Electronics,Oceania,Australia,3,90,270
+2182,2025-11-29,Backpack,Accessories,Asia,India,2,40,80
+3214,2025-11-29,Sunglasses,Accessories,Asia,United Arab Emirates,2,30,60
+1634,2025-11-29,Sneakers,Clothing,North America,Canada,1,60,60
+3937,2025-11-29,T-Shirt,Clothing,Asia,Jordan,3,25,75
+3085,2025-11-29,Smart Watch,Electronics,Europe,United Kingdom,2,90,180
+2130,2025-11-29,Smart Watch,Electronics,Asia,United Arab Emirates,3,90,270
+1357,2025-11-29,Smart Watch,Electronics,Antarctica,Antarctica,2,90,180
+1745,2025-11-30,Backpack,Accessories,Europe,United Kingdom,3,40,120
+1857,2025-11-30,Headphones,Electronics,North America,United States,3,45,135
+3610,2025-11-30,Sneakers,Clothing,Europe,Germany,1,60,60
+3427,2025-11-30,Charger,Electronics,Asia,Saudi Arabia,3,15,45
+1821,2025-11-30,Sneakers,Clothing,Europe,France,2,60,120
+2356,2025-11-30,Sneakers,Clothing,Oceania,New Zealand,1,60,60
+2114,2025-11-30,Smart Watch,Electronics,North America,United States,1,90,90
+2987,2025-11-30,Charger,Electronics,Europe,United Kingdom,2,15,30
+2456,2025-12-01,Sunglasses,Accessories,South America,Argentina,1,30,30
+3075,2025-12-01,Backpack,Accessories,Oceania,New Zealand,3,40,120
+3495,2025-12-01,Charger,Electronics,Asia,Japan,3,15,45
+1874,2025-12-01,Headphones,Electronics,Asia,Jordan,1,45,45
+3212,2025-12-01,Sneakers,Clothing,North America,Mexico,2,60,120
+3662,2025-12-01,Headphones,Electronics,Europe,France,1,45,45
+3035,2025-12-01,Smart Watch,Electronics,Africa,Nigeria,3,90,270
+1900,2025-12-01,Sneakers,Clothing,Oceania,New Zealand,2,60,120
+1701,2025-12-02,Smart Watch,Electronics,Oceania,Australia,3,90,270
+2744,2025-12-02,Backpack,Accessories,Oceania,Australia,3,40,120
+2970,2025-12-02,Sneakers,Clothing,Africa,Nigeria,1,60,60
+3320,2025-12-02,Charger,Electronics,North America,United States,2,15,30
+2222,2025-12-02,Headphones,Electronics,Oceania,Australia,3,45,135
+3496,2025-12-02,T-Shirt,Clothing,Asia,Saudi Arabia,1,25,25
+3306,2025-12-03,T-Shirt,Clothing,South America,Brazil,2,25,50
+2464,2025-12-03,Sneakers,Clothing,North America,United States,2,60,120
+3654,2025-12-03,Smart Watch,Electronics,North America,Mexico,2,90,180
+3970,2025-12-03,Smart Watch,Electronics,South America,Chile,1,90,90
+1070,2025-12-03,Smart Watch,Electronics,Asia,Japan,3,90,270
+3738,2025-12-03,Charger,Electronics,South America,Chile,2,15,30
+3800,2025-12-04,Charger,Electronics,Oceania,New Zealand,3,15,45
+3190,2025-12-04,Sunglasses,Accessories,Europe,Germany,2,30,60
+1319,2025-12-04,Charger,Electronics,Asia,Saudi Arabia,1,15,15
+3504,2025-12-05,Sneakers,Clothing,Asia,Japan,1,60,60
+2480,2025-12-05,T-Shirt,Clothing,North America,Mexico,2,25,50
+2931,2025-12-05,Sneakers,Clothing,North America,Mexico,3,60,180
+2941,2025-12-05,Headphones,Electronics,Europe,France,2,45,90
+2559,2025-12-05,T-Shirt,Clothing,Oceania,Australia,3,25,75
+3739,2025-12-05,Sneakers,Clothing,Asia,India,1,60,60
+3250,2025-12-06,Headphones,Electronics,Oceania,New Zealand,2,45,90
+2817,2025-12-06,Sunglasses,Accessories,Europe,Spain,1,30,30
+2198,2025-12-06,T-Shirt,Clothing,Asia,India,1,25,25
+1128,2025-12-06,Headphones,Electronics,Asia,Jordan,2,45,90
+1306,2025-12-06,Sneakers,Clothing,North America,United States,1,60,60
+2641,2025-12-06,Charger,Electronics,Asia,Jordan,1,15,15
+1678,2025-12-06,T-Shirt,Clothing,Asia,Japan,1,25,25
+3864,2025-12-07,Sneakers,Clothing,North America,Mexico,1,60,60
+1822,2025-12-07,Sneakers,Clothing,Oceania,New Zealand,2,60,120
+1780,2025-12-07,Headphones,Electronics,Europe,United Kingdom,1,45,45
+1062,2025-12-07,Backpack,Accessories,South America,Chile,3,40,120
+3141,2025-12-08,Smart Watch,Electronics,Oceania,Australia,2,90,180
+2253,2025-12-08,Backpack,Accessories,Europe,Germany,3,40,120
+2526,2025-12-08,Smart Watch,Electronics,Europe,Germany,2,90,180
+3865,2025-12-08,Charger,Electronics,Europe,Spain,3,15,45
+1562,2025-12-08,Sneakers,Clothing,Oceania,New Zealand,2,60,120
+3039,2025-12-08,T-Shirt,Clothing,Europe,Spain,2,25,50
+1242,2025-12-08,Smart Watch,Electronics,Europe,France,3,90,270
+2153,2025-12-08,Backpack,Accessories,Asia,India,3,40,120
+2211,2025-12-08,Sunglasses,Accessories,Asia,Saudi Arabia,3,30,90
+3707,2025-12-08,Charger,Electronics,Asia,United Arab Emirates,3,15,45
+2888,2025-12-09,Sneakers,Clothing,North America,Canada,2,60,120
+2053,2025-12-09,T-Shirt,Clothing,North America,Mexico,1,25,25
+2457,2025-12-09,Headphones,Electronics,Europe,Spain,1,45,45
+1953,2025-12-09,Backpack,Accessories,Asia,Japan,1,40,40
+1182,2025-12-09,T-Shirt,Clothing,North America,Mexico,2,25,50
+1352,2025-12-09,Sunglasses,Accessories,Europe,United Kingdom,3,30,90
+3188,2025-12-09,T-Shirt,Clothing,North America,United States,1,25,25
+1110,2025-12-09,Charger,Electronics,Europe,Spain,1,15,15
+1411,2025-12-09,Smart Watch,Electronics,Europe,France,3,90,270
+3151,2025-12-09,Backpack,Accessories,Europe,Spain,1,40,40
+2209,2025-12-10,Headphones,Electronics,Oceania,Australia,2,45,90
+2863,2025-12-10,Charger,Electronics,North America,Canada,2,15,30
+1588,2025-12-10,T-Shirt,Clothing,Asia,Japan,1,25,25
+3651,2025-12-10,T-Shirt,Clothing,North America,United States,3,25,75
+3837,2025-12-10,T-Shirt,Clothing,Asia,Saudi Arabia,3,25,75
+3134,2025-12-10,T-Shirt,Clothing,North America,Mexico,1,25,25
+1387,2025-12-10,Charger,Electronics,Asia,Saudi Arabia,2,15,30
+1466,2025-12-11,Sneakers,Clothing,South America,Brazil,2,60,120
+1441,2025-12-11,Headphones,Electronics,North America,United States,2,45,90
+1021,2025-12-11,Headphones,Electronics,Europe,Germany,1,45,45
+2576,2025-12-11,Sunglasses,Accessories,Europe,United Kingdom,3,30,90
+1969,2025-12-11,Charger,Electronics,Oceania,New Zealand,1,15,15
+3608,2025-12-11,Sneakers,Clothing,Asia,Jordan,3,60,180
+3293,2025-12-11,Charger,Electronics,Asia,Saudi Arabia,3,15,45
+3602,2025-12-11,Headphones,Electronics,Africa,Morocco,2,45,90
+1782,2025-12-11,Smart Watch,Electronics,Europe,Spain,3,90,270
+1256,2025-12-12,Sunglasses,Accessories,Asia,Jordan,3,30,90
+1602,2025-12-12,Smart Watch,Electronics,Europe,United Kingdom,1,90,90
+2382,2025-12-12,Sneakers,Clothing,Asia,Japan,3,60,180
+1713,2025-12-12,Backpack,Accessories,Europe,Spain,2,40,80
+3271,2025-12-12,Charger,Electronics,Europe,United Kingdom,1,15,15
+2791,2025-12-12,Sunglasses,Accessories,Africa,Morocco,1,30,30
+2623,2025-12-12,Sneakers,Clothing,Asia,Jordan,2,60,120
+2813,2025-12-12,Sunglasses,Accessories,Asia,Saudi Arabia,2,30,60
+3273,2025-12-12,Charger,Electronics,North America,Mexico,2,15,30
+1544,2025-12-12,T-Shirt,Clothing,Asia,Jordan,3,25,75
+1694,2025-12-13,Sneakers,Clothing,South America,Brazil,1,60,60
+1777,2025-12-13,Headphones,Electronics,North America,Mexico,1,45,45
+3906,2025-12-13,Sunglasses,Accessories,North America,Canada,1,30,30
+3260,2025-12-13,Charger,Electronics,North America,Mexico,2,15,30
+2422,2025-12-13,Sneakers,Clothing,Oceania,Australia,3,60,180
+3977,2025-12-13,T-Shirt,Clothing,Europe,France,1,25,25
+1478,2025-12-14,Headphones,Electronics,South America,Brazil,3,45,135
+3028,2025-12-14,Backpack,Accessories,Europe,Spain,1,40,40
+1908,2025-12-14,Backpack,Accessories,Europe,Spain,3,40,120
+2303,2025-12-14,Backpack,Accessories,South America,Brazil,3,40,120
+2685,2025-12-14,Headphones,Electronics,South America,Chile,1,45,45
+2462,2025-12-14,Sneakers,Clothing,Europe,United Kingdom,2,60,120
+2268,2025-12-14,T-Shirt,Clothing,South America,Argentina,2,25,50
+2845,2025-12-14,Smart Watch,Electronics,North America,Mexico,3,90,270
+3444,2025-12-14,Sneakers,Clothing,North America,Mexico,1,60,60
+1707,2025-12-14,Backpack,Accessories,Europe,Germany,1,40,40
+2718,2025-12-14,Sneakers,Clothing,Europe,France,2,60,120
+2639,2025-12-15,Charger,Electronics,North America,United States,1,15,15
+3928,2025-12-15,T-Shirt,Clothing,Asia,United Arab Emirates,3,25,75
+2535,2025-12-15,Charger,Electronics,Europe,Germany,2,15,30
+2787,2025-12-15,Sneakers,Clothing,South America,Brazil,2,60,120
+3855,2025-12-15,Smart Watch,Electronics,Europe,Spain,3,90,270
+1784,2025-12-15,Sneakers,Clothing,Africa,Egypt,1,60,60
+1922,2025-12-15,Sunglasses,Accessories,Oceania,Australia,2,30,60
+2313,2025-12-15,Smart Watch,Electronics,North America,Mexico,2,90,180
+2844,2025-12-15,Backpack,Accessories,Europe,Spain,2,40,80
+3462,2025-12-16,Charger,Electronics,North America,Canada,2,15,30
+3233,2025-12-16,T-Shirt,Clothing,Asia,Japan,2,25,50
+1432,2025-12-16,Headphones,Electronics,North America,Mexico,3,45,135
+1938,2025-12-16,Sneakers,Clothing,Africa,South Africa,1,60,60
+1077,2025-12-16,T-Shirt,Clothing,Africa,South Africa,1,25,25
+2088,2025-12-16,Sunglasses,Accessories,North America,Canada,3,30,90
+3954,2025-12-16,Sunglasses,Accessories,North America,Mexico,3,30,90
+3599,2025-12-16,Headphones,Electronics,Europe,Spain,3,45,135
+1397,2025-12-16,Charger,Electronics,Europe,Germany,3,15,45
+1666,2025-12-17,Smart Watch,Electronics,Asia,India,2,90,180
+2827,2025-12-17,Sneakers,Clothing,Europe,Spain,3,60,180
+2977,2025-12-17,T-Shirt,Clothing,North America,Canada,2,25,50
+3351,2025-12-17,T-Shirt,Clothing,Asia,United Arab Emirates,2,25,50
+2668,2025-12-17,T-Shirt,Clothing,Africa,South Africa,3,25,75
+2023,2025-12-17,Smart Watch,Electronics,Asia,India,3,90,270
+3934,2025-12-17,Charger,Electronics,South America,Argentina,3,15,45
+2444,2025-12-17,Backpack,Accessories,Europe,United Kingdom,1,40,40
+2054,2025-12-17,Sneakers,Clothing,South America,Argentina,3,60,180
+1159,2025-12-17,Smart Watch,Electronics,Africa,Nigeria,1,90,90
+3843,2025-12-17,Headphones,Electronics,Asia,Jordan,2,45,90
+1991,2025-12-17,Smart Watch,Electronics,North America,Canada,2,90,180
+1712,2025-12-17,Sneakers,Clothing,Europe,Germany,3,60,180
+3613,2025-12-17,Sneakers,Clothing,Oceania,Australia,2,60,120
+3984,2025-12-17,Headphones,Electronics,Europe,France,2,45,90
+3042,2025-12-18,Smart Watch,Electronics,South America,Brazil,1,90,90
+2042,2025-12-18,Smart Watch,Electronics,Asia,Jordan,1,90,90
+2115,2025-12-18,Charger,Electronics,South America,Chile,2,15,30
+1945,2025-12-18,T-Shirt,Clothing,Africa,South Africa,3,25,75
+2579,2025-12-18,Headphones,Electronics,Europe,France,3,45,135
+2886,2025-12-18,Sunglasses,Accessories,Europe,France,3,30,90
+3632,2025-12-18,Charger,Electronics,North America,Canada,3,15,45
+2126,2025-12-18,Sneakers,Clothing,North America,Canada,1,60,60
+1076,2025-12-19,T-Shirt,Clothing,North America,United States,1,25,25
+2678,2025-12-19,Backpack,Accessories,Europe,United Kingdom,1,40,40
+2950,2025-12-19,Smart Watch,Electronics,Oceania,New Zealand,1,90,90
+2675,2025-12-19,Sunglasses,Accessories,Asia,Jordan,3,30,90
+3205,2025-12-19,Backpack,Accessories,North America,Mexico,1,40,40
+2005,2025-12-19,Smart Watch,Electronics,North America,Canada,3,90,270
+1907,2025-12-19,Smart Watch,Electronics,Asia,Japan,2,90,180
+3913,2025-12-19,Sneakers,Clothing,North America,United States,1,60,60
+1286,2025-12-19,Backpack,Accessories,North America,Mexico,3,40,120
+2774,2025-12-19,Backpack,Accessories,North America,Canada,2,40,80
+1619,2025-12-19,Headphones,Electronics,Europe,United Kingdom,2,45,90
+3277,2025-12-19,Backpack,Accessories,Europe,France,1,40,40
+1776,2025-12-19,Sneakers,Clothing,Europe,Spain,2,60,120
+1006,2025-12-19,Sneakers,Clothing,Europe,France,3,60,180
+2795,2025-12-19,Sneakers,Clothing,Oceania,Australia,1,60,60
+3090,2025-12-20,Charger,Electronics,North America,Canada,2,15,30
+2022,2025-12-20,Smart Watch,Electronics,Europe,United Kingdom,1,90,90
+1635,2025-12-20,Sunglasses,Accessories,North America,United States,3,30,90
+1759,2025-12-20,Smart Watch,Electronics,Antarctica,Antarctica,1,90,90
+3258,2025-12-20,Backpack,Accessories,Asia,India,2,40,80
+1014,2025-12-20,Smart Watch,Electronics,South America,Chile,2,90,180
+2720,2025-12-21,Charger,Electronics,North America,United States,2,15,30
+3248,2025-12-21,Sneakers,Clothing,Europe,France,2,60,120
+2694,2025-12-21,Backpack,Accessories,Asia,United Arab Emirates,3,40,120
+3698,2025-12-21,Sunglasses,Accessories,Asia,India,1,30,30
+2432,2025-12-21,Backpack,Accessories,Europe,Germany,1,40,40
+1200,2025-12-21,Charger,Electronics,Asia,United Arab Emirates,3,15,45
+1796,2025-12-21,Charger,Electronics,Europe,Spain,2,15,30
+1273,2025-12-21,T-Shirt,Clothing,Europe,United Kingdom,1,25,25
+1008,2025-12-21,Backpack,Accessories,North America,United States,3,40,120
+1999,2025-12-21,Headphones,Electronics,Asia,India,1,45,45
+2968,2025-12-22,Backpack,Accessories,Asia,India,1,40,40
+1601,2025-12-22,Backpack,Accessories,North America,Canada,2,40,80
+1876,2025-12-22,T-Shirt,Clothing,Asia,United Arab Emirates,2,25,50
+2850,2025-12-22,Sunglasses,Accessories,Asia,India,2,30,60
+1045,2025-12-22,T-Shirt,Clothing,Europe,United Kingdom,2,25,50
+3170,2025-12-22,Sunglasses,Accessories,Asia,Saudi Arabia,3,30,90
+3911,2025-12-22,T-Shirt,Clothing,Europe,Spain,3,25,75
+1520,2025-12-22,T-Shirt,Clothing,North America,Mexico,2,25,50
+1877,2025-12-23,Backpack,Accessories,Europe,France,3,40,120
+2477,2025-12-23,Sunglasses,Accessories,Oceania,Australia,3,30,90
+3114,2025-12-23,Backpack,Accessories,Europe,United Kingdom,2,40,80
+1873,2025-12-23,Sneakers,Clothing,Asia,United Arab Emirates,3,60,180
+2019,2025-12-23,Headphones,Electronics,North America,United States,3,45,135
+1138,2025-12-23,T-Shirt,Clothing,Europe,Germany,3,25,75
+1871,2025-12-23,Backpack,Accessories,Europe,Germany,3,40,120
+1048,2025-12-24,Charger,Electronics,Europe,Spain,3,15,45
+2439,2025-12-24,Headphones,Electronics,Europe,United Kingdom,1,45,45
+3826,2025-12-24,Smart Watch,Electronics,Africa,Nigeria,2,90,180
+3601,2025-12-24,Backpack,Accessories,North America,Canada,2,40,80
+3625,2025-12-24,T-Shirt,Clothing,Europe,Germany,2,25,50
+1064,2025-12-24,Smart Watch,Electronics,South America,Brazil,1,90,90
+2570,2025-12-24,Charger,Electronics,North America,United States,3,15,45
+1184,2025-12-24,Smart Watch,Electronics,Europe,Germany,1,90,90
+2170,2025-12-25,Sneakers,Clothing,Asia,India,2,60,120
+1870,2025-12-25,Sunglasses,Accessories,Africa,Egypt,3,30,90
+3543,2025-12-25,Sneakers,Clothing,South America,Argentina,3,60,180
+3956,2025-12-25,Charger,Electronics,North America,United States,3,15,45
+1958,2025-12-25,T-Shirt,Clothing,North America,Canada,3,25,75
+2809,2025-12-25,Sneakers,Clothing,Europe,Spain,1,60,60
+2981,2025-12-25,Sunglasses,Accessories,Europe,United Kingdom,3,30,90
+2237,2025-12-25,Backpack,Accessories,North America,Mexico,1,40,40
+1918,2025-12-25,Sneakers,Clothing,Europe,Germany,2,60,120
+1277,2025-12-25,Headphones,Electronics,Europe,Germany,3,45,135
+2080,2025-12-25,Sunglasses,Accessories,North America,Mexico,1,30,30
+1585,2025-12-26,Smart Watch,Electronics,Asia,Jordan,3,90,270
+2247,2025-12-26,Sneakers,Clothing,Oceania,New Zealand,2,60,120
+3274,2025-12-26,Charger,Electronics,Asia,Jordan,1,15,15
+1811,2025-12-26,Sunglasses,Accessories,North America,Canada,1,30,30
+3483,2025-12-26,Headphones,Electronics,Africa,Egypt,1,45,45
+2065,2025-12-26,Sneakers,Clothing,Asia,Japan,3,60,180
+1206,2025-12-26,Headphones,Electronics,Asia,India,2,45,90
+3135,2025-12-27,Headphones,Electronics,Europe,France,2,45,90
+1677,2025-12-27,T-Shirt,Clothing,North America,Canada,3,25,75
+1855,2025-12-27,Smart Watch,Electronics,North America,Mexico,2,90,180
+2627,2025-12-27,Smart Watch,Electronics,Asia,Japan,2,90,180
+1653,2025-12-27,Backpack,Accessories,Europe,United Kingdom,1,40,40
+3425,2025-12-27,Headphones,Electronics,North America,United States,2,45,90
+2389,2025-12-27,Smart Watch,Electronics,Asia,Japan,2,90,180
+3057,2025-12-27,Sneakers,Clothing,Africa,South Africa,3,60,180
+2921,2025-12-28,T-Shirt,Clothing,Europe,Germany,2,25,50
+2066,2025-12-28,Sneakers,Clothing,Europe,France,3,60,180
+1152,2025-12-28,Charger,Electronics,Europe,France,1,15,15
+3289,2025-12-28,Charger,Electronics,North America,Canada,3,15,45
+2192,2025-12-28,Charger,Electronics,Europe,France,2,15,30
+3813,2025-12-28,Backpack,Accessories,North America,Canada,3,40,120
+2966,2025-12-28,Charger,Electronics,North America,Mexico,1,15,15
+1550,2025-12-28,Smart Watch,Electronics,Europe,Spain,3,90,270
+3834,2025-12-28,Sunglasses,Accessories,North America,United States,3,30,90
+3481,2025-12-29,Headphones,Electronics,North America,United States,1,45,45
+1312,2025-12-29,Charger,Electronics,Asia,Saudi Arabia,2,15,30
+2172,2025-12-29,T-Shirt,Clothing,Europe,Spain,3,25,75
+1582,2025-12-30,Smart Watch,Electronics,Asia,United Arab Emirates,3,90,270
+3479,2025-12-30,Headphones,Electronics,Europe,Germany,1,45,45
+1401,2025-12-30,Charger,Electronics,Europe,Germany,3,15,45
+1726,2025-12-30,Charger,Electronics,North America,Canada,1,15,15
+2122,2025-12-30,Sunglasses,Accessories,Europe,United Kingdom,3,30,90
+3938,2025-12-30,Backpack,Accessories,North America,Canada,3,40,120
+2549,2025-12-30,Charger,Electronics,Asia,India,3,15,45
+3054,2025-12-30,Sunglasses,Accessories,Europe,France,3,30,90
+2056,2025-12-31,Charger,Electronics,North America,United States,2,15,30
+1668,2025-12-31,Sneakers,Clothing,North America,Canada,2,60,120
+3376,2025-12-31,Sunglasses,Accessories,South America,Argentina,1,30,30
+3263,2025-12-31,Charger,Electronics,Europe,United Kingdom,3,15,45
+3822,2025-12-31,Smart Watch,Electronics,North America,Canada,2,90,180
+1334,2025-12-31,Headphones,Electronics,Europe,France,3,45,135
+3222,2025-12-31,Headphones,Electronics,Asia,Saudi Arabia,2,45,90
+2078,2025-12-31,Sunglasses,Accessories,North America,Mexico,3,30,90
+3487,2025-12-31,Headphones,Electronics,Europe,France,1,45,45
+1207,2025-12-31,Smart Watch,Electronics,Africa,Egypt,1,90,90
+2134,2026-01-01,Sneakers,Clothing,Asia,Saudi Arabia,2,60,120
+2621,2026-01-01,Sunglasses,Accessories,North America,Mexico,2,30,60
+2973,2026-01-01,Headphones,Electronics,Europe,Germany,3,45,135
+1027,2026-01-01,Headphones,Electronics,North America,United States,1,45,45
+1594,2026-01-01,Backpack,Accessories,North America,Mexico,3,40,120
+2815,2026-01-01,Sunglasses,Accessories,Europe,Spain,3,30,90
+1250,2026-01-01,Smart Watch,Electronics,Asia,Japan,1,90,90
+1132,2026-01-01,Headphones,Electronics,Europe,United Kingdom,1,45,45
+2124,2026-01-01,Backpack,Accessories,North America,Mexico,1,40,40
+2140,2026-01-01,Charger,Electronics,Africa,Nigeria,2,15,30
+1802,2026-01-01,Charger,Electronics,Africa,Egypt,1,15,15
+1285,2026-01-02,Headphones,Electronics,Europe,United Kingdom,3,45,135
+1033,2026-01-02,T-Shirt,Clothing,North America,Canada,3,25,75
+3365,2026-01-02,Smart Watch,Electronics,Asia,India,2,90,180
+2346,2026-01-02,Backpack,Accessories,North America,Canada,1,40,40
+3681,2026-01-03,Sunglasses,Accessories,Asia,United Arab Emirates,3,30,90
+1814,2026-01-03,Headphones,Electronics,North America,Canada,1,45,45
+3173,2026-01-03,T-Shirt,Clothing,South America,Brazil,3,25,75
+2727,2026-01-03,Sunglasses,Accessories,North America,Canada,3,30,90
+3021,2026-01-03,Headphones,Electronics,Africa,Nigeria,3,45,135
+3594,2026-01-03,T-Shirt,Clothing,Asia,Jordan,3,25,75
+2006,2026-01-04,Sneakers,Clothing,Africa,South Africa,1,60,60
+3851,2026-01-04,Backpack,Accessories,Europe,France,1,40,40
+2514,2026-01-04,Charger,Electronics,South America,Chile,2,15,30
+1886,2026-01-04,T-Shirt,Clothing,North America,Canada,3,25,75
+1119,2026-01-04,Sneakers,Clothing,Asia,United Arab Emirates,1,60,60
+3469,2026-01-04,Sunglasses,Accessories,Europe,Spain,1,30,30
+2040,2026-01-04,T-Shirt,Clothing,North America,United States,3,25,75
+1596,2026-01-04,Charger,Electronics,Asia,India,1,15,15
+3147,2026-01-04,Smart Watch,Electronics,Europe,Spain,1,90,90
+3930,2026-01-04,Headphones,Electronics,Europe,United Kingdom,3,45,135
+1706,2026-01-05,T-Shirt,Clothing,Oceania,Australia,1,25,25
+1644,2026-01-05,Backpack,Accessories,Asia,United Arab Emirates,1,40,40
+2687,2026-01-05,Sneakers,Clothing,North America,Mexico,2,60,120
+2499,2026-01-05,Charger,Electronics,Oceania,Australia,2,15,30
+3235,2026-01-05,Headphones,Electronics,Asia,Japan,3,45,135
+2867,2026-01-05,Smart Watch,Electronics,Europe,France,2,90,180
+3748,2026-01-05,Charger,Electronics,Asia,India,1,15,15
+1219,2026-01-06,T-Shirt,Clothing,Europe,France,1,25,25
+3963,2026-01-06,Backpack,Accessories,Asia,United Arab Emirates,3,40,120
+2866,2026-01-06,Charger,Electronics,Asia,India,3,15,45
+2263,2026-01-06,Headphones,Electronics,Africa,Egypt,2,45,90
+2645,2026-01-06,Charger,Electronics,Oceania,Australia,3,15,45
+2683,2026-01-07,Sneakers,Clothing,Europe,United Kingdom,1,60,60
+2945,2026-01-07,Sneakers,Clothing,Asia,Saudi Arabia,1,60,60
+2614,2026-01-07,Backpack,Accessories,Oceania,Australia,2,40,80
+2365,2026-01-07,Charger,Electronics,Europe,Spain,3,15,45
+3782,2026-01-07,Sneakers,Clothing,North America,Mexico,2,60,120
+1532,2026-01-07,Charger,Electronics,North America,Mexico,2,15,30
+1755,2026-01-07,Headphones,Electronics,North America,United States,2,45,90
+2254,2026-01-07,Sneakers,Clothing,South America,Argentina,2,60,120
+1971,2026-01-07,Sneakers,Clothing,North America,Mexico,1,60,60
+1702,2026-01-07,Sneakers,Clothing,North America,Canada,2,60,120
+1931,2026-01-07,Sneakers,Clothing,Europe,Spain,3,60,180
+2978,2026-01-08,Charger,Electronics,Europe,Germany,2,15,30
+2897,2026-01-08,T-Shirt,Clothing,Asia,United Arab Emirates,1,25,25
+3032,2026-01-08,Headphones,Electronics,Africa,South Africa,3,45,135
+1497,2026-01-08,Backpack,Accessories,Europe,United Kingdom,1,40,40
+1108,2026-01-08,Sneakers,Clothing,North America,Canada,3,60,180
+2969,2026-01-08,T-Shirt,Clothing,Oceania,Australia,3,25,75
+1137,2026-01-08,Sunglasses,Accessories,North America,United States,3,30,90
+2076,2026-01-08,T-Shirt,Clothing,Europe,France,1,25,25
+3838,2026-01-08,Sunglasses,Accessories,Asia,Jordan,2,30,60
+1672,2026-01-08,Charger,Electronics,South America,Brazil,1,15,15
+2055,2026-01-08,Headphones,Electronics,North America,Mexico,3,45,135
+2021,2026-01-08,Headphones,Electronics,South America,Argentina,2,45,90
+1535,2026-01-08,Headphones,Electronics,Europe,France,3,45,135
+3805,2026-01-08,Sneakers,Clothing,Asia,India,2,60,120
+3416,2026-01-09,Backpack,Accessories,North America,Mexico,1,40,40
+2147,2026-01-09,Sneakers,Clothing,North America,Mexico,1,60,60
+1944,2026-01-09,Smart Watch,Electronics,Europe,United Kingdom,1,90,90
+2276,2026-01-09,Sneakers,Clothing,Asia,Saudi Arabia,1,60,60
+2360,2026-01-09,Smart Watch,Electronics,Europe,France,3,90,270
+2555,2026-01-09,T-Shirt,Clothing,North America,Mexico,3,25,75
+1648,2026-01-09,Smart Watch,Electronics,South America,Brazil,3,90,270
+2871,2026-01-09,Sunglasses,Accessories,North America,Canada,2,30,60
+3976,2026-01-10,T-Shirt,Clothing,Europe,United Kingdom,2,25,50
+2350,2026-01-10,Sunglasses,Accessories,North America,Mexico,1,30,30
+1654,2026-01-10,T-Shirt,Clothing,Europe,United Kingdom,1,25,25
+1525,2026-01-10,Sunglasses,Accessories,Europe,Spain,3,30,90
+3665,2026-01-10,Headphones,Electronics,Asia,Saudi Arabia,2,45,90
+3733,2026-01-10,T-Shirt,Clothing,North America,Mexico,2,25,50
+3575,2026-01-10,Backpack,Accessories,Asia,Japan,1,40,40
+2731,2026-01-11,Backpack,Accessories,Europe,United Kingdom,1,40,40
+3567,2026-01-11,Sneakers,Clothing,Oceania,Australia,2,60,120
+2243,2026-01-11,T-Shirt,Clothing,Asia,Jordan,3,25,75
+2217,2026-01-11,T-Shirt,Clothing,Africa,Nigeria,1,25,25
+1785,2026-01-11,T-Shirt,Clothing,Asia,Jordan,1,25,25
+1531,2026-01-11,Headphones,Electronics,Oceania,New Zealand,1,45,45
+3936,2026-01-11,Smart Watch,Electronics,North America,Mexico,2,90,180
+2562,2026-01-11,Backpack,Accessories,North America,Canada,2,40,80
+3321,2026-01-11,T-Shirt,Clothing,Africa,Nigeria,2,25,50
+2221,2026-01-11,Backpack,Accessories,Africa,Nigeria,2,40,80
+2386,2026-01-12,Headphones,Electronics,Africa,Egypt,2,45,90
+2917,2026-01-12,Sneakers,Clothing,Europe,Germany,1,60,60
+2548,2026-01-12,T-Shirt,Clothing,Europe,United Kingdom,3,25,75
+2186,2026-01-12,Sunglasses,Accessories,Europe,Germany,3,30,90
+1333,2026-01-12,Charger,Electronics,Asia,United Arab Emirates,1,15,15
+3438,2026-01-12,T-Shirt,Clothing,Europe,Spain,3,25,75
+3436,2026-01-12,Sunglasses,Accessories,Asia,Jordan,1,30,30
+1805,2026-01-12,T-Shirt,Clothing,Asia,India,1,25,25
+1546,2026-01-12,Headphones,Electronics,Asia,United Arab Emirates,1,45,45
+2038,2026-01-12,Sunglasses,Accessories,Asia,Saudi Arabia,1,30,30
+3413,2026-01-12,Sunglasses,Accessories,North America,United States,1,30,30
+2264,2026-01-12,Backpack,Accessories,North America,United States,2,40,80
+3547,2026-01-13,T-Shirt,Clothing,Asia,Japan,1,25,25
+2658,2026-01-13,Charger,Electronics,Europe,Germany,1,15,15
+3530,2026-01-13,Headphones,Electronics,Asia,Jordan,3,45,135
+1875,2026-01-13,Sunglasses,Accessories,Europe,Spain,2,30,60
+1400,2026-01-13,Smart Watch,Electronics,North America,Canada,1,90,90
+1673,2026-01-13,Sneakers,Clothing,Europe,Spain,1,60,60
+3814,2026-01-13,T-Shirt,Clothing,Europe,Germany,3,25,75
+1230,2026-01-14,Charger,Electronics,Asia,Saudi Arabia,3,15,45
+1412,2026-01-14,Sunglasses,Accessories,Oceania,New Zealand,2,30,60
+2171,2026-01-14,Charger,Electronics,North America,Canada,1,15,15
+3269,2026-01-14,Backpack,Accessories,South America,Argentina,3,40,120
+3092,2026-01-14,Sneakers,Clothing,Asia,Jordan,3,60,180
+1187,2026-01-14,Sneakers,Clothing,Asia,Japan,3,60,180
+2556,2026-01-14,Charger,Electronics,North America,Canada,2,15,30
+1125,2026-01-14,Sneakers,Clothing,Europe,United Kingdom,1,60,60
+2935,2026-01-14,Smart Watch,Electronics,North America,Canada,2,90,180
+3213,2026-01-14,Sunglasses,Accessories,Africa,Morocco,2,30,60
+1320,2026-01-15,Sneakers,Clothing,Asia,Japan,3,60,180
+3892,2026-01-15,Sunglasses,Accessories,Oceania,Australia,1,30,30
+1142,2026-01-15,Smart Watch,Electronics,North America,Canada,1,90,90
+1768,2026-01-15,T-Shirt,Clothing,North America,Canada,1,25,25
+2289,2026-01-15,Sunglasses,Accessories,North America,United States,1,30,30
+1699,2026-01-15,Sneakers,Clothing,Asia,Jordan,3,60,180
+2899,2026-01-15,Sunglasses,Accessories,Asia,Japan,2,30,60
+3384,2026-01-15,Smart Watch,Electronics,Oceania,New Zealand,2,90,180
+1245,2026-01-15,Smart Watch,Electronics,Africa,South Africa,3,90,270
+2506,2026-01-15,Backpack,Accessories,North America,Mexico,3,40,120
+2674,2026-01-15,Headphones,Electronics,Europe,Germany,1,45,45
+3215,2026-01-16,Sneakers,Clothing,North America,Mexico,1,60,60
+1539,2026-01-16,Charger,Electronics,North America,Mexico,1,15,15
+3754,2026-01-16,T-Shirt,Clothing,North America,Mexico,2,25,50
+2424,2026-01-16,Charger,Electronics,Europe,Germany,1,15,15
+2215,2026-01-16,Headphones,Electronics,North America,Canada,1,45,45
+3217,2026-01-16,Sunglasses,Accessories,Europe,United Kingdom,1,30,30
+1500,2026-01-16,Sneakers,Clothing,Oceania,Australia,3,60,180
+3059,2026-01-16,Smart Watch,Electronics,Oceania,Australia,2,90,180
+2481,2026-01-16,T-Shirt,Clothing,Europe,United Kingdom,1,25,25
+3357,2026-01-16,Smart Watch,Electronics,Europe,France,2,90,180
+2151,2026-01-16,Sneakers,Clothing,Europe,France,2,60,120
+2759,2026-01-17,Sneakers,Clothing,Asia,India,3,60,180
+2295,2026-01-17,Headphones,Electronics,Oceania,New Zealand,1,45,45
+1302,2026-01-17,Smart Watch,Electronics,North America,Mexico,2,90,180
+2008,2026-01-17,Headphones,Electronics,North America,United States,2,45,90
+2569,2026-01-17,Smart Watch,Electronics,South America,Brazil,3,90,270
+3701,2026-01-18,Sunglasses,Accessories,Asia,United Arab Emirates,2,30,60
+2148,2026-01-18,Sneakers,Clothing,South America,Chile,1,60,60
+2669,2026-01-18,T-Shirt,Clothing,North America,United States,3,25,75
+3459,2026-01-18,Smart Watch,Electronics,Asia,Saudi Arabia,2,90,180
+1607,2026-01-18,Backpack,Accessories,Asia,Japan,1,40,40
+2610,2026-01-18,Smart Watch,Electronics,Asia,India,2,90,180
+1595,2026-01-18,Sneakers,Clothing,North America,United States,1,60,60
+1408,2026-01-18,Smart Watch,Electronics,Oceania,New Zealand,3,90,270
+2542,2026-01-18,Sunglasses,Accessories,Asia,Japan,2,30,60
+2588,2026-01-18,Sneakers,Clothing,Africa,Morocco,2,60,120
+3155,2026-01-19,Sunglasses,Accessories,Europe,France,3,30,90
+2510,2026-01-19,Sunglasses,Accessories,Europe,France,2,30,60
+3308,2026-01-19,Sneakers,Clothing,Europe,Germany,3,60,180
+3585,2026-01-19,Headphones,Electronics,Oceania,New Zealand,2,45,90
+1340,2026-01-19,Sunglasses,Accessories,North America,United States,3,30,90
+1157,2026-01-19,Sneakers,Clothing,Europe,Germany,2,60,120
+3545,2026-01-19,Sneakers,Clothing,North America,United States,3,60,180
+3498,2026-01-19,Backpack,Accessories,Africa,Morocco,3,40,120
+3792,2026-01-19,Sneakers,Clothing,Asia,India,3,60,180
+1385,2026-01-20,T-Shirt,Clothing,North America,United States,2,25,50
+2597,2026-01-20,Charger,Electronics,Asia,Jordan,3,15,45
+1192,2026-01-20,Sunglasses,Accessories,Europe,Spain,1,30,30
+3559,2026-01-21,Sunglasses,Accessories,Oceania,Australia,2,30,60
+2589,2026-01-21,Headphones,Electronics,North America,Canada,2,45,90
+2833,2026-01-21,Sunglasses,Accessories,Asia,United Arab Emirates,1,30,30
+2830,2026-01-21,Smart Watch,Electronics,North America,Canada,2,90,180
+1569,2026-01-21,Headphones,Electronics,North America,Canada,1,45,45
+2604,2026-01-21,T-Shirt,Clothing,Europe,Spain,3,25,75
+2666,2026-01-21,T-Shirt,Clothing,Africa,Egypt,1,25,25
+1395,2026-01-21,Sneakers,Clothing,Asia,Jordan,2,60,120
+1689,2026-01-21,Sneakers,Clothing,Africa,Morocco,1,60,60
+3259,2026-01-21,Sunglasses,Accessories,North America,Mexico,1,30,30
+3443,2026-01-21,Sneakers,Clothing,Africa,Morocco,2,60,120
+1791,2026-01-21,Headphones,Electronics,Europe,France,1,45,45
+1348,2026-01-21,Smart Watch,Electronics,Africa,South Africa,3,90,270
+1888,2026-01-22,Sunglasses,Accessories,Africa,South Africa,1,30,30
+2406,2026-01-22,Sunglasses,Accessories,Europe,Germany,2,30,60
+1179,2026-01-22,Sneakers,Clothing,Africa,South Africa,1,60,60
+2563,2026-01-22,T-Shirt,Clothing,Asia,United Arab Emirates,2,25,50
+2763,2026-01-22,Sunglasses,Accessories,North America,United States,2,30,60
+2729,2026-01-23,Headphones,Electronics,Europe,United Kingdom,3,45,135
+2024,2026-01-23,T-Shirt,Clothing,Africa,Morocco,2,25,50
+3360,2026-01-23,Backpack,Accessories,Asia,India,3,40,120
+1792,2026-01-23,Smart Watch,Electronics,Asia,United Arab Emirates,1,90,90
+3908,2026-01-23,Backpack,Accessories,South America,Chile,2,40,80
+2194,2026-01-23,T-Shirt,Clothing,Europe,France,3,25,75
+2895,2026-01-23,Headphones,Electronics,Asia,Jordan,3,45,135
+1240,2026-01-23,Sneakers,Clothing,Asia,India,1,60,60
+1560,2026-01-23,Headphones,Electronics,Asia,Japan,2,45,90
+2596,2026-01-24,Sunglasses,Accessories,Asia,Jordan,3,30,90
+2336,2026-01-24,Smart Watch,Electronics,North America,Mexico,1,90,90
+3765,2026-01-24,Charger,Electronics,Africa,Morocco,3,15,45
+3987,2026-01-24,Headphones,Electronics,North America,United States,2,45,90
+3300,2026-01-24,Charger,Electronics,Europe,Germany,2,15,30
+2707,2026-01-24,Sneakers,Clothing,Asia,India,2,60,120
+2985,2026-01-24,Charger,Electronics,Europe,France,2,15,30
+2474,2026-01-24,Headphones,Electronics,Europe,France,3,45,135
+3165,2026-01-24,Smart Watch,Electronics,Europe,Spain,1,90,90
+1939,2026-01-25,Backpack,Accessories,North America,Mexico,2,40,80
+1645,2026-01-25,Sneakers,Clothing,Europe,Spain,2,60,120
+1593,2026-01-25,Backpack,Accessories,North America,Canada,1,40,40
+3081,2026-01-25,T-Shirt,Clothing,Asia,Jordan,3,25,75
+1491,2026-01-25,Backpack,Accessories,South America,Argentina,3,40,120
+1107,2026-01-25,T-Shirt,Clothing,Asia,Saudi Arabia,1,25,25
+1217,2026-01-25,Headphones,Electronics,South America,Brazil,2,45,90
+1756,2026-01-25,Headphones,Electronics,Europe,Germany,1,45,45
+2421,2026-01-25,Sneakers,Clothing,Asia,India,3,60,180
+3228,2026-01-25,Charger,Electronics,North America,Mexico,1,15,15
+3183,2026-01-25,Backpack,Accessories,Asia,United Arab Emirates,3,40,120
+1610,2026-01-26,Sneakers,Clothing,North America,United States,3,60,180
+2607,2026-01-26,Backpack,Accessories,North America,Mexico,2,40,80
+3571,2026-01-26,T-Shirt,Clothing,Oceania,New Zealand,3,25,75
+3549,2026-01-26,T-Shirt,Clothing,North America,Canada,1,25,25
+3136,2026-01-26,Charger,Electronics,Europe,Germany,3,15,45
+1447,2026-01-26,Charger,Electronics,North America,United States,1,15,15
+2085,2026-01-26,Backpack,Accessories,Oceania,Australia,1,40,40
+2461,2026-01-26,Sunglasses,Accessories,South America,Argentina,2,30,60
+1609,2026-01-26,Sneakers,Clothing,Asia,Jordan,1,60,60
+1464,2026-01-26,T-Shirt,Clothing,South America,Chile,2,25,50
+2811,2026-01-26,Sneakers,Clothing,Asia,Saudi Arabia,1,60,60
+2400,2026-01-26,T-Shirt,Clothing,Europe,Germany,2,25,50
+1823,2026-01-26,T-Shirt,Clothing,Europe,Germany,2,25,50
+1884,2026-01-27,Backpack,Accessories,South America,Chile,2,40,80
+2743,2026-01-27,Sneakers,Clothing,Europe,United Kingdom,3,60,180
+2538,2026-01-27,Headphones,Electronics,North America,Mexico,1,45,45
+3373,2026-01-27,Headphones,Electronics,Europe,United Kingdom,1,45,45
+3247,2026-01-27,Charger,Electronics,Asia,Jordan,1,15,15
+1636,2026-01-27,Sunglasses,Accessories,Europe,Spain,1,30,30
+2433,2026-01-27,Sneakers,Clothing,North America,United States,1,60,60
+2071,2026-01-27,Sneakers,Clothing,Europe,France,3,60,180
+3882,2026-01-27,Sunglasses,Accessories,Asia,Japan,1,30,30
+1002,2026-01-27,Sunglasses,Accessories,North America,United States,1,30,30
+3484,2026-01-28,T-Shirt,Clothing,Asia,Jordan,1,25,25
+3775,2026-01-28,Smart Watch,Electronics,Europe,Germany,3,90,270
+3397,2026-01-28,Charger,Electronics,Africa,South Africa,3,15,45
+3493,2026-01-28,Headphones,Electronics,North America,Mexico,1,45,45
+2592,2026-01-28,Charger,Electronics,North America,United States,2,15,30
+2206,2026-01-28,Charger,Electronics,Europe,France,2,15,30
+1753,2026-01-28,Headphones,Electronics,Europe,France,2,45,90
+2734,2026-01-28,Sunglasses,Accessories,Europe,Germany,2,30,60
+1962,2026-01-28,Smart Watch,Electronics,Europe,Spain,1,90,90
+3534,2026-01-28,Sneakers,Clothing,South America,Brazil,1,60,60
+3570,2026-01-28,Sneakers,Clothing,North America,United States,2,60,120
+1377,2026-01-28,Backpack,Accessories,Asia,United Arab Emirates,1,40,40
+3231,2026-01-28,Backpack,Accessories,Europe,United Kingdom,2,40,80
+2294,2026-01-29,Sunglasses,Accessories,North America,United States,1,30,30
+1123,2026-01-29,Sneakers,Clothing,South America,Brazil,2,60,120
+1928,2026-01-29,Headphones,Electronics,North America,Mexico,3,45,135
+2650,2026-01-29,Sunglasses,Accessories,Asia,United Arab Emirates,2,30,60
+3524,2026-01-29,Headphones,Electronics,Asia,United Arab Emirates,3,45,135
+2918,2026-01-29,Sunglasses,Accessories,Africa,Morocco,1,30,30
+2522,2026-01-29,Headphones,Electronics,Oceania,Australia,1,45,45
+1523,2026-01-29,Headphones,Electronics,Africa,Morocco,1,45,45
+1743,2026-01-30,Smart Watch,Electronics,North America,United States,2,90,180
+2061,2026-01-30,Charger,Electronics,Europe,Spain,2,15,30
+3468,2026-01-30,Sneakers,Clothing,North America,United States,3,60,180
+3276,2026-01-30,Sunglasses,Accessories,North America,United States,1,30,30
+3975,2026-01-30,T-Shirt,Clothing,Europe,France,2,25,50
+3907,2026-01-31,Sneakers,Clothing,Asia,Saudi Arabia,1,60,60
+1201,2026-01-31,Sneakers,Clothing,North America,Canada,2,60,120
+3113,2026-01-31,Sunglasses,Accessories,Asia,India,3,30,90
+1846,2026-01-31,Backpack,Accessories,Europe,France,3,40,120
+2494,2026-01-31,Smart Watch,Electronics,North America,United States,3,90,270
+1704,2026-01-31,Sunglasses,Accessories,South America,Argentina,2,30,60
+3857,2026-01-31,T-Shirt,Clothing,Asia,Japan,1,25,25
+3257,2026-01-31,Sunglasses,Accessories,North America,Mexico,2,30,60
+1389,2026-01-31,Smart Watch,Electronics,South America,Argentina,1,90,90
+1831,2026-01-31,Sunglasses,Accessories,Asia,Saudi Arabia,3,30,90
+3058,2026-02-01,Headphones,Electronics,Europe,United Kingdom,2,45,90
+2100,2026-02-01,Sneakers,Clothing,South America,Argentina,3,60,180
+2196,2026-02-01,Smart Watch,Electronics,Europe,Germany,2,90,180
+3915,2026-02-01,Sunglasses,Accessories,Europe,Germany,1,30,30
+1507,2026-02-01,Sneakers,Clothing,Europe,United Kingdom,1,60,60
+3804,2026-02-01,Sunglasses,Accessories,Oceania,Australia,2,30,60
+2806,2026-02-01,Sunglasses,Accessories,Europe,Germany,3,30,90
+2699,2026-02-01,Headphones,Electronics,Asia,Japan,2,45,90
+1473,2026-02-01,Backpack,Accessories,North America,Canada,2,40,80
+2442,2026-02-01,Backpack,Accessories,Europe,United Kingdom,1,40,40
+3227,2026-02-01,Headphones,Electronics,Asia,India,1,45,45
+1765,2026-02-01,Smart Watch,Electronics,South America,Chile,2,90,180
+3408,2026-02-01,Sunglasses,Accessories,North America,Mexico,1,30,30
+2137,2026-02-02,Headphones,Electronics,North America,Mexico,2,45,90
+1231,2026-02-02,Backpack,Accessories,Africa,Morocco,2,40,80
+3239,2026-02-02,Sunglasses,Accessories,Asia,United Arab Emirates,3,30,90
+2663,2026-02-02,Headphones,Electronics,North America,Canada,2,45,90
+2497,2026-02-02,Backpack,Accessories,Asia,Jordan,1,40,40
+3394,2026-02-02,T-Shirt,Clothing,Africa,Egypt,1,25,25
+2544,2026-02-03,Sneakers,Clothing,Asia,Jordan,1,60,60
+2216,2026-02-03,T-Shirt,Clothing,Europe,Spain,2,25,50
+2463,2026-02-03,Smart Watch,Electronics,Europe,Spain,2,90,180
+1197,2026-02-03,Sunglasses,Accessories,North America,Canada,3,30,90
+2409,2026-02-03,Sneakers,Clothing,North America,United States,2,60,120
+2372,2026-02-03,Charger,Electronics,Europe,Spain,1,15,15
+3708,2026-02-03,Backpack,Accessories,Europe,Spain,3,40,120
+3720,2026-02-03,Backpack,Accessories,Asia,Japan,1,40,40
+3779,2026-02-03,Sneakers,Clothing,Europe,Spain,1,60,60
+1575,2026-02-03,Backpack,Accessories,Europe,Germany,2,40,80
+1429,2026-02-03,Backpack,Accessories,Europe,United Kingdom,2,40,80
+1883,2026-02-04,Sneakers,Clothing,North America,United States,2,60,120
+1356,2026-02-04,Sneakers,Clothing,Europe,Spain,3,60,180
+1034,2026-02-04,Headphones,Electronics,Europe,Germany,2,45,90
+2123,2026-02-04,Charger,Electronics,Europe,United Kingdom,3,15,45
+3432,2026-02-04,Headphones,Electronics,Asia,Jordan,2,45,90
+2220,2026-02-04,Backpack,Accessories,Oceania,New Zealand,1,40,40
+2321,2026-02-04,Sunglasses,Accessories,Europe,Spain,1,30,30
+1044,2026-02-04,Smart Watch,Electronics,Europe,Germany,1,90,90
+2643,2026-02-05,Sneakers,Clothing,Europe,Spain,3,60,180
+1258,2026-02-05,T-Shirt,Clothing,Antarctica,Antarctica,1,25,25
+2020,2026-02-05,Sneakers,Clothing,Europe,United Kingdom,1,60,60
+2603,2026-02-05,Headphones,Electronics,Asia,Jordan,1,45,45
+2799,2026-02-05,Sneakers,Clothing,Oceania,Australia,2,60,120
+2082,2026-02-05,Charger,Electronics,Africa,South Africa,1,15,15
+2472,2026-02-06,Charger,Electronics,North America,Mexico,1,15,15
+1698,2026-02-06,Headphones,Electronics,Asia,Japan,3,45,135
+1696,2026-02-06,Backpack,Accessories,North America,Mexico,1,40,40
+2686,2026-02-06,Sneakers,Clothing,Asia,United Arab Emirates,2,60,120
+1317,2026-02-06,Charger,Electronics,South America,Chile,3,15,45
+2317,2026-02-06,Sneakers,Clothing,Europe,United Kingdom,3,60,180
+3946,2026-02-06,T-Shirt,Clothing,North America,Mexico,1,25,25
+1501,2026-02-06,Headphones,Electronics,North America,Canada,1,45,45
+1378,2026-02-06,T-Shirt,Clothing,Asia,Saudi Arabia,3,25,75
+2509,2026-02-07,Backpack,Accessories,North America,United States,2,40,80
+2546,2026-02-07,Backpack,Accessories,North America,Mexico,1,40,40
+1066,2026-02-07,Smart Watch,Electronics,Europe,United Kingdom,1,90,90
+1063,2026-02-07,Sunglasses,Accessories,Europe,Germany,3,30,90
+3901,2026-02-07,Headphones,Electronics,Europe,Spain,3,45,135
+1586,2026-02-07,Headphones,Electronics,Europe,France,1,45,45
+2580,2026-02-07,T-Shirt,Clothing,Africa,South Africa,2,25,50
+2039,2026-02-08,Backpack,Accessories,Europe,Germany,3,40,120
+2305,2026-02-08,Headphones,Electronics,Asia,Japan,3,45,135
+3604,2026-02-08,Headphones,Electronics,Europe,Spain,1,45,45
+3598,2026-02-08,Sneakers,Clothing,Asia,Jordan,1,60,60
+2947,2026-02-08,Backpack,Accessories,North America,Mexico,3,40,120
+2007,2026-02-08,Smart Watch,Electronics,Europe,Spain,2,90,180
+3083,2026-02-08,Sunglasses,Accessories,Oceania,New Zealand,2,30,60
+3099,2026-02-08,Backpack,Accessories,North America,United States,1,40,40
+3110,2026-02-08,Backpack,Accessories,North America,Canada,1,40,40
+3924,2026-02-08,Smart Watch,Electronics,Europe,Germany,3,90,270
+1112,2026-02-08,Charger,Electronics,Africa,South Africa,2,15,30
+3176,2026-02-08,Sneakers,Clothing,Europe,Germany,2,60,120
+1744,2026-02-08,Backpack,Accessories,Europe,France,1,40,40
+3968,2026-02-09,Backpack,Accessories,North America,Mexico,2,40,80
+2766,2026-02-09,Sunglasses,Accessories,Europe,United Kingdom,3,30,90
+2290,2026-02-09,Sunglasses,Accessories,North America,Mexico,3,30,90
+3960,2026-02-09,T-Shirt,Clothing,Asia,Japan,3,25,75
+2349,2026-02-09,Sneakers,Clothing,Asia,United Arab Emirates,2,60,120
+3648,2026-02-09,Smart Watch,Electronics,North America,United States,3,90,270
+1275,2026-02-09,Sunglasses,Accessories,North America,Canada,1,30,30
+1222,2026-02-09,T-Shirt,Clothing,North America,Canada,2,25,50
+3096,2026-02-09,Headphones,Electronics,North America,Mexico,1,45,45
+1029,2026-02-09,Smart Watch,Electronics,Europe,France,3,90,270
+3037,2026-02-09,Smart Watch,Electronics,North America,United States,1,90,90
+1721,2026-02-10,Sneakers,Clothing,Europe,Germany,2,60,120
+1502,2026-02-10,Backpack,Accessories,Europe,Germany,3,40,120
+1998,2026-02-10,Smart Watch,Electronics,Asia,Jordan,1,90,90
+3355,2026-02-10,Sneakers,Clothing,Asia,Jordan,2,60,120
+3983,2026-02-10,Backpack,Accessories,South America,Brazil,3,40,120
+2828,2026-02-11,Smart Watch,Electronics,North America,Canada,2,90,180
+2314,2026-02-11,Sunglasses,Accessories,Africa,South Africa,2,30,60
+3157,2026-02-11,Sneakers,Clothing,Antarctica,Antarctica,3,60,180
+2894,2026-02-11,Smart Watch,Electronics,Europe,Spain,1,90,90
+3071,2026-02-11,Smart Watch,Electronics,Europe,Spain,1,90,90
+3410,2026-02-11,Headphones,Electronics,Asia,Saudi Arabia,3,45,135
+3013,2026-02-11,Smart Watch,Electronics,North America,Canada,1,90,90
+2245,2026-02-11,Backpack,Accessories,North America,United States,3,40,120
+2758,2026-02-11,Backpack,Accessories,North America,Mexico,2,40,80
+1349,2026-02-11,Backpack,Accessories,North America,United States,1,40,40
+3219,2026-02-11,Sneakers,Clothing,North America,Mexico,3,60,180
+1065,2026-02-12,T-Shirt,Clothing,North America,United States,2,25,50
+3006,2026-02-12,Sunglasses,Accessories,Europe,France,2,30,60
+3514,2026-02-12,Smart Watch,Electronics,Europe,France,2,90,180
+2136,2026-02-12,Backpack,Accessories,Europe,United Kingdom,3,40,120
+1642,2026-02-12,Smart Watch,Electronics,Africa,Morocco,3,90,270
+2753,2026-02-12,Sneakers,Clothing,Africa,Morocco,3,60,180
+3189,2026-02-12,Charger,Electronics,Antarctica,Antarctica,1,15,15
+3132,2026-02-12,Backpack,Accessories,North America,Mexico,1,40,40
+3305,2026-02-13,T-Shirt,Clothing,South America,Argentina,2,25,50
+3338,2026-02-13,Charger,Electronics,North America,Mexico,1,15,15
+2648,2026-02-13,Charger,Electronics,Africa,Egypt,1,15,15
+3392,2026-02-13,T-Shirt,Clothing,North America,United States,2,25,50
+3036,2026-02-13,Sunglasses,Accessories,North America,Mexico,3,30,90
+3745,2026-02-13,Smart Watch,Electronics,Africa,South Africa,2,90,180
+3877,2026-02-13,Smart Watch,Electronics,North America,Mexico,1,90,90
+1175,2026-02-13,Sneakers,Clothing,North America,United States,3,60,180
+1458,2026-02-13,Headphones,Electronics,Europe,Spain,2,45,90
+1603,2026-02-13,Charger,Electronics,South America,Chile,1,15,15
+1015,2026-02-14,Backpack,Accessories,Europe,Spain,2,40,80
+1555,2026-02-14,Headphones,Electronics,North America,Canada,2,45,90
+1679,2026-02-14,Backpack,Accessories,Europe,Germany,2,40,80
+1272,2026-02-14,Sneakers,Clothing,Asia,India,1,60,60
+2320,2026-02-14,Sunglasses,Accessories,Europe,Spain,2,30,60
+2205,2026-02-14,Sunglasses,Accessories,Europe,United Kingdom,1,30,30
+2207,2026-02-14,Smart Watch,Electronics,Africa,Morocco,3,90,270
+3841,2026-02-15,Sneakers,Clothing,Oceania,Australia,1,60,60
+1516,2026-02-15,Smart Watch,Electronics,North America,United States,3,90,270
+2859,2026-02-15,Smart Watch,Electronics,Oceania,Australia,3,90,270
+1950,2026-02-15,Sneakers,Clothing,Africa,South Africa,3,60,180
+1669,2026-02-15,Charger,Electronics,North America,Canada,1,15,15
+1804,2026-02-15,Backpack,Accessories,South America,Brazil,2,40,80
+3435,2026-02-15,Sunglasses,Accessories,Oceania,New Zealand,2,30,60
+2370,2026-02-15,Sunglasses,Accessories,Africa,South Africa,1,30,30
+2244,2026-02-15,Backpack,Accessories,Asia,India,2,40,80
+3677,2026-02-15,Sneakers,Clothing,Asia,Japan,3,60,180
+3633,2026-02-15,Smart Watch,Electronics,Asia,India,2,90,180
+1942,2026-02-16,T-Shirt,Clothing,South America,Chile,1,25,25
+2854,2026-02-16,Smart Watch,Electronics,North America,Mexico,1,90,90
+2090,2026-02-16,Charger,Electronics,Europe,Spain,2,15,30
+3122,2026-02-16,Headphones,Electronics,Asia,Jordan,1,45,45
+1350,2026-02-16,Backpack,Accessories,Asia,United Arab Emirates,1,40,40
+2841,2026-02-16,Charger,Electronics,Europe,France,2,15,30
+2375,2026-02-16,Charger,Electronics,South America,Argentina,3,15,45
+3844,2026-02-16,T-Shirt,Clothing,South America,Argentina,1,25,25
+2839,2026-02-16,T-Shirt,Clothing,Africa,South Africa,2,25,50
+2684,2026-02-16,Charger,Electronics,Africa,Nigeria,2,15,30
+3922,2026-02-16,Smart Watch,Electronics,Europe,Germany,1,90,90
+2319,2026-02-16,Charger,Electronics,North America,Mexico,1,15,15
+2741,2026-02-16,Sunglasses,Accessories,North America,Canada,2,30,60
+2035,2026-02-16,Headphones,Electronics,North America,United States,3,45,135
+1639,2026-02-16,Sneakers,Clothing,North America,Canada,3,60,180
+1973,2026-02-17,T-Shirt,Clothing,Asia,Jordan,3,25,75
+3456,2026-02-17,Headphones,Electronics,South America,Argentina,2,45,90
+2572,2026-02-17,Smart Watch,Electronics,Oceania,New Zealand,1,90,90
+2075,2026-02-17,Charger,Electronics,South America,Argentina,3,15,45
+2403,2026-02-17,T-Shirt,Clothing,Asia,Japan,3,25,75
+3423,2026-02-17,Sneakers,Clothing,Asia,Saudi Arabia,1,60,60
+1829,2026-02-17,Smart Watch,Electronics,Europe,Germany,3,90,270
+2944,2026-02-17,Backpack,Accessories,Europe,France,1,40,40
+3950,2026-02-17,Charger,Electronics,North America,Canada,2,15,30
+2626,2026-02-18,Sunglasses,Accessories,North America,Canada,2,30,60
+3391,2026-02-18,Sunglasses,Accessories,North America,United States,1,30,30
+2165,2026-02-18,Sunglasses,Accessories,Africa,Egypt,2,30,60
+3762,2026-02-18,Smart Watch,Electronics,North America,United States,2,90,180
+3999,2026-02-18,T-Shirt,Clothing,North America,Canada,2,25,50
+1509,2026-02-18,Charger,Electronics,Asia,United Arab Emirates,2,15,30
+3472,2026-02-19,Headphones,Electronics,North America,United States,2,45,90
+1997,2026-02-19,Headphones,Electronics,Asia,United Arab Emirates,1,45,45
+1329,2026-02-19,Backpack,Accessories,Europe,Spain,2,40,80
+1640,2026-02-19,Headphones,Electronics,Oceania,Australia,2,45,90
+1649,2026-02-19,Sneakers,Clothing,North America,Canada,1,60,60
+3672,2026-02-19,Smart Watch,Electronics,Europe,France,1,90,90
+3944,2026-02-19,Charger,Electronics,Europe,Spain,2,15,30
+3589,2026-02-19,Sneakers,Clothing,Europe,Germany,2,60,120
+1911,2026-02-19,Charger,Electronics,North America,United States,2,15,30
+1467,2026-02-19,Backpack,Accessories,South America,Argentina,2,40,80
+1196,2026-02-19,Smart Watch,Electronics,Asia,Saudi Arabia,1,90,90
+1832,2026-02-19,Sneakers,Clothing,Europe,France,2,60,120
+3446,2026-02-19,Headphones,Electronics,Africa,Egypt,2,45,90
+1270,2026-02-19,Backpack,Accessories,North America,Canada,3,40,120
+3870,2026-02-19,T-Shirt,Clothing,North America,Mexico,2,25,50
+2624,2026-02-20,Headphones,Electronics,Africa,Nigeria,2,45,90
+3860,2026-02-20,T-Shirt,Clothing,North America,Canada,3,25,75
+2176,2026-02-20,Backpack,Accessories,North America,Canada,1,40,40
+1816,2026-02-21,Headphones,Electronics,North America,Canada,1,45,45
+1046,2026-02-21,Sunglasses,Accessories,Europe,Spain,1,30,30
+3554,2026-02-21,Sunglasses,Accessories,Europe,Spain,1,30,30
+1235,2026-02-21,T-Shirt,Clothing,Europe,Spain,3,25,75
+1293,2026-02-21,Charger,Electronics,Europe,Spain,2,15,30
+2609,2026-02-21,Charger,Electronics,Europe,France,1,15,15
+2608,2026-02-21,Charger,Electronics,North America,Mexico,1,15,15
+2017,2026-02-22,Backpack,Accessories,Asia,United Arab Emirates,3,40,120
+2960,2026-02-22,Backpack,Accessories,Africa,Egypt,2,40,80
+2501,2026-02-22,T-Shirt,Clothing,North America,United States,3,25,75
+2159,2026-02-22,Smart Watch,Electronics,North America,United States,1,90,90
+2971,2026-02-22,Backpack,Accessories,Europe,Spain,1,40,40
+1493,2026-02-22,Smart Watch,Electronics,Asia,India,2,90,180
+3451,2026-02-22,Sunglasses,Accessories,Africa,South Africa,3,30,90
+3821,2026-02-22,Smart Watch,Electronics,Europe,Germany,3,90,270
+1715,2026-02-22,Sneakers,Clothing,South America,Chile,3,60,180
+2964,2026-02-22,Smart Watch,Electronics,Asia,Japan,2,90,180
+1967,2026-02-22,Charger,Electronics,Asia,Japan,1,15,15
+1265,2026-02-23,Charger,Electronics,North America,United States,3,15,45
+3503,2026-02-23,Backpack,Accessories,Asia,India,3,40,120
+1558,2026-02-23,Sneakers,Clothing,North America,Canada,2,60,120
+3561,2026-02-23,Charger,Electronics,Oceania,Australia,2,15,30
+2988,2026-02-23,Headphones,Electronics,Africa,Nigeria,1,45,45
+3759,2026-02-23,T-Shirt,Clothing,Africa,Egypt,1,25,25
+3845,2026-02-24,Backpack,Accessories,Africa,Nigeria,1,40,40
+1080,2026-02-24,Smart Watch,Electronics,Africa,Morocco,3,90,270
+1436,2026-02-24,Backpack,Accessories,North America,United States,2,40,80
+2117,2026-02-24,T-Shirt,Clothing,South America,Brazil,1,25,25
+3642,2026-02-24,Charger,Electronics,South America,Chile,3,15,45
+3992,2026-02-24,Charger,Electronics,Oceania,New Zealand,2,15,30
+3180,2026-02-24,Charger,Electronics,South America,Chile,3,15,45
+3377,2026-02-24,Backpack,Accessories,North America,United States,1,40,40
+1976,2026-02-24,T-Shirt,Clothing,Europe,Spain,1,25,25
+1968,2026-02-24,Charger,Electronics,South America,Argentina,3,15,45
+2928,2026-02-25,Headphones,Electronics,Europe,Germany,1,45,45
+1101,2026-02-25,Sunglasses,Accessories,North America,Mexico,2,30,60
+1279,2026-02-25,Charger,Electronics,Oceania,New Zealand,2,15,30
+2107,2026-02-25,Smart Watch,Electronics,Asia,Saudi Arabia,3,90,270
+1155,2026-02-25,Headphones,Electronics,South America,Argentina,2,45,90
+1798,2026-02-25,T-Shirt,Clothing,Asia,Japan,2,25,50
+3324,2026-02-25,Backpack,Accessories,Asia,United Arab Emirates,3,40,120
+2659,2026-02-25,Sneakers,Clothing,Europe,United Kingdom,2,60,120
+2865,2026-02-25,Smart Watch,Electronics,Asia,Jordan,2,90,180
+1600,2026-02-25,T-Shirt,Clothing,North America,Mexico,2,25,50
+1963,2026-02-25,Sunglasses,Accessories,Europe,United Kingdom,2,30,60
+3192,2026-02-26,Backpack,Accessories,Asia,United Arab Emirates,1,40,40
+1809,2026-02-26,Charger,Electronics,Europe,United Kingdom,1,15,15
+1261,2026-02-26,Smart Watch,Electronics,Asia,Jordan,2,90,180
+2434,2026-02-26,Sneakers,Clothing,Oceania,Australia,2,60,120
+3434,2026-02-26,Headphones,Electronics,North America,Mexico,2,45,90
+2111,2026-02-26,Smart Watch,Electronics,North America,Canada,1,90,90
+1183,2026-02-26,Charger,Electronics,Europe,Spain,3,15,45
+1492,2026-02-27,Charger,Electronics,Asia,Japan,2,15,30
+1914,2026-02-27,Backpack,Accessories,Oceania,Australia,3,40,120
+2843,2026-02-27,Sunglasses,Accessories,South America,Brazil,2,30,60
+3420,2026-02-27,T-Shirt,Clothing,Asia,Jordan,3,25,75
+3011,2026-02-28,Smart Watch,Electronics,North America,United States,3,90,270
+2660,2026-02-28,Headphones,Electronics,North America,United States,1,45,45
+1751,2026-02-28,Headphones,Electronics,Europe,Germany,2,45,90
+2961,2026-02-28,Headphones,Electronics,North America,Mexico,2,45,90
+3184,2026-03-01,Smart Watch,Electronics,North America,Mexico,1,90,90
+1476,2026-03-01,Backpack,Accessories,North America,Canada,3,40,120
+3573,2026-03-01,Sunglasses,Accessories,North America,Mexico,1,30,30
+2768,2026-03-01,Smart Watch,Electronics,Asia,Saudi Arabia,3,90,270
+3555,2026-03-01,Sunglasses,Accessories,Asia,Saudi Arabia,1,30,30
+3667,2026-03-01,Smart Watch,Electronics,Europe,Germany,1,90,90
+2554,2026-03-02,Charger,Electronics,Africa,Nigeria,3,15,45
+2436,2026-03-02,Headphones,Electronics,Asia,India,3,45,135
+1448,2026-03-02,Headphones,Electronics,South America,Argentina,3,45,135
+1001,2026-03-02,Sneakers,Clothing,Asia,United Arab Emirates,3,60,180
+3788,2026-03-02,Sunglasses,Accessories,North America,Mexico,2,30,60
+1628,2026-03-02,Backpack,Accessories,North America,United States,2,40,80
+1145,2026-03-02,Headphones,Electronics,Oceania,New Zealand,2,45,90
+3816,2026-03-02,Sunglasses,Accessories,North America,United States,2,30,60
+2092,2026-03-02,Headphones,Electronics,Europe,France,2,45,90
+1865,2026-03-03,Sneakers,Clothing,Africa,Nigeria,2,60,120
+1379,2026-03-03,Headphones,Electronics,Europe,United Kingdom,1,45,45
+2877,2026-03-03,Charger,Electronics,North America,Mexico,2,15,30
+1750,2026-03-04,Sunglasses,Accessories,Asia,Saudi Arabia,3,30,90
+2125,2026-03-04,Headphones,Electronics,North America,United States,2,45,90
+1382,2026-03-04,Smart Watch,Electronics,North America,United States,3,90,270
+3216,2026-03-04,Headphones,Electronics,Asia,Jordan,3,45,135
+2388,2026-03-04,T-Shirt,Clothing,Oceania,Australia,2,25,50
+2330,2026-03-05,Sunglasses,Accessories,North America,United States,3,30,90
+1252,2026-03-05,Backpack,Accessories,South America,Chile,2,40,80
+3580,2026-03-05,T-Shirt,Clothing,Asia,Saudi Arabia,3,25,75
+3290,2026-03-05,Headphones,Electronics,Asia,Saudi Arabia,2,45,90
+3756,2026-03-05,Smart Watch,Electronics,North America,United States,2,90,180
+3898,2026-03-05,T-Shirt,Clothing,Africa,Egypt,1,25,25
+2636,2026-03-05,Smart Watch,Electronics,Asia,India,1,90,90
+2924,2026-03-05,Sneakers,Clothing,Oceania,New Zealand,2,60,120
+3744,2026-03-06,T-Shirt,Clothing,North America,Mexico,3,25,75
+1049,2026-03-06,Sneakers,Clothing,Europe,United Kingdom,2,60,120
+2002,2026-03-06,Sunglasses,Accessories,North America,Canada,1,30,30
+3511,2026-03-06,T-Shirt,Clothing,Europe,Germany,2,25,50
+2651,2026-03-06,Backpack,Accessories,Oceania,New Zealand,1,40,40
+1919,2026-03-06,Sunglasses,Accessories,Europe,United Kingdom,3,30,90
+3281,2026-03-06,Backpack,Accessories,North America,United States,3,40,120
+2566,2026-03-06,Sunglasses,Accessories,South America,Brazil,1,30,30
+1813,2026-03-06,Charger,Electronics,Asia,Japan,3,15,45
+1825,2026-03-06,Sneakers,Clothing,Europe,Germany,1,60,60
+3702,2026-03-07,Headphones,Electronics,North America,Canada,1,45,45
+1860,2026-03-07,T-Shirt,Clothing,Asia,Japan,1,25,25
+2225,2026-03-07,Backpack,Accessories,Africa,Morocco,1,40,40
+3680,2026-03-07,Charger,Electronics,Europe,United Kingdom,1,15,15
+3302,2026-03-07,Charger,Electronics,North America,United States,2,15,30
+3717,2026-03-07,Sneakers,Clothing,Asia,India,1,60,60
+2095,2026-03-07,Sunglasses,Accessories,North America,Mexico,3,30,90
+1084,2026-03-07,Sunglasses,Accessories,Africa,Morocco,3,30,90
+3812,2026-03-08,Sunglasses,Accessories,Asia,United Arab Emirates,1,30,30
+2883,2026-03-08,Charger,Electronics,Asia,United Arab Emirates,3,15,45
+2943,2026-03-08,Smart Watch,Electronics,Oceania,Australia,3,90,270
+1057,2026-03-08,T-Shirt,Clothing,Africa,South Africa,3,25,75
+3476,2026-03-08,Smart Watch,Electronics,Europe,United Kingdom,3,90,270
+1722,2026-03-08,Sunglasses,Accessories,Asia,Japan,3,30,90
+3875,2026-03-08,Sneakers,Clothing,Europe,France,3,60,180
+1282,2026-03-08,Charger,Electronics,Africa,Egypt,3,15,45
+1102,2026-03-09,Sunglasses,Accessories,Europe,France,2,30,60
+3015,2026-03-09,Headphones,Electronics,Asia,Jordan,3,45,135
+1675,2026-03-09,Sunglasses,Accessories,South America,Chile,1,30,30
+2922,2026-03-09,Charger,Electronics,Asia,India,3,15,45
+3784,2026-03-09,T-Shirt,Clothing,South America,Chile,1,25,25
+1641,2026-03-09,Charger,Electronics,North America,United States,1,15,15
+2533,2026-03-09,Backpack,Accessories,Africa,Egypt,2,40,80
+2415,2026-03-09,Charger,Electronics,Europe,Spain,1,15,15
+1716,2026-03-09,Backpack,Accessories,North America,Canada,3,40,120
+2689,2026-03-10,Headphones,Electronics,Oceania,New Zealand,3,45,135
+1468,2026-03-10,Sunglasses,Accessories,Europe,United Kingdom,3,30,90
+3086,2026-03-10,Smart Watch,Electronics,North America,United States,3,90,270
+3386,2026-03-10,Headphones,Electronics,North America,Mexico,3,45,135
+3727,2026-03-10,Charger,Electronics,Asia,India,1,15,15
+1584,2026-03-10,Charger,Electronics,Europe,France,2,15,30
+1480,2026-03-10,T-Shirt,Clothing,North America,Mexico,1,25,25
+3979,2026-03-10,Backpack,Accessories,Europe,France,1,40,40
+2655,2026-03-10,Backpack,Accessories,Europe,France,3,40,120
+1604,2026-03-10,Headphones,Electronics,Africa,South Africa,1,45,45
+2219,2026-03-11,T-Shirt,Clothing,North America,Canada,1,25,25
+3616,2026-03-11,Headphones,Electronics,North America,United States,3,45,135
+1009,2026-03-11,T-Shirt,Clothing,Asia,United Arab Emirates,1,25,25
+3430,2026-03-11,Headphones,Electronics,North America,Canada,3,45,135
+1003,2026-03-11,T-Shirt,Clothing,North America,Canada,2,25,50
+1728,2026-03-11,Sneakers,Clothing,North America,Mexico,2,60,120
+1295,2026-03-11,Sneakers,Clothing,North America,United States,2,60,120
+3378,2026-03-11,Sunglasses,Accessories,Europe,United Kingdom,2,30,60
+3731,2026-03-11,Charger,Electronics,Europe,Spain,2,15,30
+3488,2026-03-11,Headphones,Electronics,North America,United States,3,45,135
+3533,2026-03-11,Smart Watch,Electronics,North America,United States,3,90,270
+2178,2026-03-11,T-Shirt,Clothing,Africa,Nigeria,2,25,50
+2939,2026-03-12,Charger,Electronics,South America,Chile,2,15,30
+2270,2026-03-12,T-Shirt,Clothing,Asia,Jordan,3,25,75
+3316,2026-03-12,Charger,Electronics,North America,Canada,2,15,30
+2450,2026-03-12,T-Shirt,Clothing,North America,Canada,3,25,75
+3339,2026-03-12,Headphones,Electronics,North America,United States,3,45,135
+3287,2026-03-12,Smart Watch,Electronics,Africa,South Africa,1,90,90
+1148,2026-03-12,Sunglasses,Accessories,Africa,Morocco,2,30,60
+2775,2026-03-12,Backpack,Accessories,Oceania,Australia,1,40,40
+3776,2026-03-12,Smart Watch,Electronics,Asia,India,3,90,270
+3382,2026-03-13,Smart Watch,Electronics,Europe,United Kingdom,3,90,270
+3918,2026-03-13,Charger,Electronics,Europe,Spain,3,15,45
+1724,2026-03-13,T-Shirt,Clothing,South America,Chile,3,25,75
+3185,2026-03-13,T-Shirt,Clothing,Asia,United Arab Emirates,3,25,75
+2408,2026-03-13,Smart Watch,Electronics,Oceania,New Zealand,1,90,90
+2473,2026-03-14,Backpack,Accessories,North America,Mexico,2,40,80
+1917,2026-03-14,Backpack,Accessories,Europe,United Kingdom,3,40,120
+1255,2026-03-14,Sunglasses,Accessories,North America,Canada,3,30,90
+3000,2026-03-14,Headphones,Electronics,Asia,Saudi Arabia,2,45,90
+1038,2026-03-14,Charger,Electronics,Oceania,New Zealand,2,15,30
+2680,2026-03-14,Sneakers,Clothing,Europe,France,3,60,180
+3903,2026-03-14,Sunglasses,Accessories,North America,Canada,3,30,90
+2692,2026-03-14,T-Shirt,Clothing,Asia,Japan,1,25,25
+3418,2026-03-15,T-Shirt,Clothing,Europe,Germany,2,25,50
+1631,2026-03-15,Backpack,Accessories,Asia,Jordan,3,40,120
+2920,2026-03-15,Sneakers,Clothing,Asia,India,2,60,120
+3591,2026-03-15,Sunglasses,Accessories,Europe,Germany,2,30,60
+2696,2026-03-15,Smart Watch,Electronics,North America,United States,3,90,270
+3917,2026-03-15,T-Shirt,Clothing,Europe,Spain,1,25,25
+1920,2026-03-15,Sneakers,Clothing,Asia,Japan,3,60,180
+3172,2026-03-16,Backpack,Accessories,South America,Brazil,3,40,120
+1023,2026-03-16,Headphones,Electronics,Oceania,Australia,3,45,135
+1164,2026-03-16,T-Shirt,Clothing,Asia,Japan,2,25,50
+2240,2026-03-17,Headphones,Electronics,South America,Brazil,2,45,90
+3509,2026-03-17,Backpack,Accessories,North America,Canada,1,40,40
+2662,2026-03-17,Headphones,Electronics,North America,Mexico,1,45,45
+2495,2026-03-17,Smart Watch,Electronics,Oceania,Australia,1,90,90
+3634,2026-03-17,T-Shirt,Clothing,Africa,Nigeria,2,25,50
+1955,2026-03-17,Sneakers,Clothing,Europe,Spain,1,60,60
+1667,2026-03-17,T-Shirt,Clothing,Europe,United Kingdom,2,25,50
+3080,2026-03-17,Charger,Electronics,Africa,Egypt,3,15,45
+2958,2026-03-17,Sneakers,Clothing,South America,Argentina,1,60,60
+2261,2026-03-17,T-Shirt,Clothing,North America,Mexico,3,25,75
+1042,2026-03-17,Sunglasses,Accessories,North America,Canada,2,30,60
+2058,2026-03-18,Charger,Electronics,Europe,United Kingdom,2,15,30
+1985,2026-03-18,Backpack,Accessories,North America,United States,3,40,120
+3730,2026-03-18,Backpack,Accessories,Asia,United Arab Emirates,1,40,40
+1700,2026-03-18,Backpack,Accessories,Oceania,New Zealand,3,40,120
+2046,2026-03-18,Headphones,Electronics,Europe,France,1,45,45
+3452,2026-03-18,Sunglasses,Accessories,North America,Canada,2,30,60
+3272,2026-03-18,Smart Watch,Electronics,North America,Mexico,3,90,270
+3414,2026-03-18,Headphones,Electronics,North America,United States,3,45,135
+3204,2026-03-18,Headphones,Electronics,Asia,United Arab Emirates,3,45,135
+2323,2026-03-19,Sunglasses,Accessories,North America,Mexico,3,30,90
+1613,2026-03-19,Sunglasses,Accessories,Europe,Germany,3,30,90
+2712,2026-03-19,Charger,Electronics,Europe,Spain,1,15,15
+3252,2026-03-19,Charger,Electronics,Asia,India,3,15,45
+3349,2026-03-19,Sneakers,Clothing,North America,United States,3,60,180
+3473,2026-03-19,Sneakers,Clothing,Europe,France,3,60,180
+2069,2026-03-19,Charger,Electronics,Europe,Spain,2,15,30
+3694,2026-03-19,Smart Watch,Electronics,Asia,Japan,3,90,270
+3899,2026-03-19,Sneakers,Clothing,South America,Argentina,3,60,180
+1733,2026-03-19,Headphones,Electronics,South America,Brazil,2,45,90
+3089,2026-03-19,Smart Watch,Electronics,Asia,Jordan,1,90,90
+3825,2026-03-20,Sneakers,Clothing,Oceania,Australia,2,60,120
+1622,2026-03-20,Charger,Electronics,Oceania,Australia,3,15,45
+2711,2026-03-20,Sunglasses,Accessories,North America,United States,1,30,30
+1859,2026-03-21,Headphones,Electronics,North America,United States,1,45,45
+1289,2026-03-21,Sunglasses,Accessories,Asia,United Arab Emirates,2,30,60
+1528,2026-03-21,Charger,Electronics,North America,Canada,3,15,45
+3728,2026-03-21,Backpack,Accessories,Europe,France,3,40,120
+3649,2026-03-21,Backpack,Accessories,South America,Chile,2,40,80
+3564,2026-03-21,Charger,Electronics,Asia,Saudi Arabia,2,15,30
+2357,2026-03-21,Smart Watch,Electronics,Asia,India,3,90,270
+3881,2026-03-21,Sunglasses,Accessories,Asia,Jordan,1,30,30
+3161,2026-03-21,T-Shirt,Clothing,North America,Mexico,3,25,75
+2262,2026-03-22,T-Shirt,Clothing,North America,Mexico,1,25,25
+1688,2026-03-22,Charger,Electronics,Oceania,New Zealand,1,15,15
+3879,2026-03-22,Backpack,Accessories,South America,Brazil,1,40,40
+1740,2026-03-22,Sneakers,Clothing,Europe,United Kingdom,1,60,60
+3542,2026-03-22,Headphones,Electronics,South America,Brazil,1,45,45
+3700,2026-03-22,Sunglasses,Accessories,North America,Canada,1,30,30
+2174,2026-03-23,Sunglasses,Accessories,Asia,United Arab Emirates,2,30,60
+1090,2026-03-23,Backpack,Accessories,Oceania,Australia,2,40,80
+2762,2026-03-23,Smart Watch,Electronics,North America,Mexico,2,90,180
+1567,2026-03-23,Sunglasses,Accessories,North America,Canada,2,30,60
+3162,2026-03-23,Sneakers,Clothing,North America,Mexico,3,60,180
+1343,2026-03-23,Charger,Electronics,Europe,Spain,3,15,45
+3019,2026-03-23,Sneakers,Clothing,North America,Mexico,3,60,180
+1438,2026-03-23,Charger,Electronics,Asia,India,2,15,30
+1253,2026-03-23,Headphones,Electronics,Asia,Jordan,1,45,45
+3182,2026-03-24,Backpack,Accessories,Asia,Jordan,1,40,40
+2752,2026-03-24,Sneakers,Clothing,North America,Canada,2,60,120
+2679,2026-03-24,Charger,Electronics,North America,United States,2,15,30
+1161,2026-03-24,Backpack,Accessories,Asia,United Arab Emirates,3,40,120
+3401,2026-03-24,Headphones,Electronics,Europe,Spain,1,45,45
+2561,2026-03-24,Backpack,Accessories,Europe,Germany,3,40,120
+2786,2026-03-25,T-Shirt,Clothing,Europe,Germany,2,25,50
+3199,2026-03-25,Charger,Electronics,Asia,Jordan,2,15,30
+1218,2026-03-25,Backpack,Accessories,North America,Canada,1,40,40
+2719,2026-03-25,Sunglasses,Accessories,North America,United States,3,30,90
+1166,2026-03-25,Headphones,Electronics,North America,Mexico,1,45,45
+1147,2026-03-25,Headphones,Electronics,South America,Argentina,3,45,135
+1318,2026-03-26,Sneakers,Clothing,North America,United States,1,60,60
+3673,2026-03-26,Smart Watch,Electronics,South America,Argentina,3,90,270
+3448,2026-03-26,Smart Watch,Electronics,North America,Canada,2,90,180
+1522,2026-03-26,Charger,Electronics,Asia,United Arab Emirates,2,15,30
+1580,2026-03-26,Sunglasses,Accessories,Europe,Spain,1,30,30
+3939,2026-03-26,T-Shirt,Clothing,Europe,Spain,2,25,50
+2959,2026-03-26,Headphones,Electronics,Europe,France,1,45,45
+1172,2026-03-26,Headphones,Electronics,Oceania,Australia,3,45,135
+2767,2026-03-26,Headphones,Electronics,South America,Argentina,3,45,135
+2502,2026-03-27,Headphones,Electronics,Asia,Japan,3,45,135
+1783,2026-03-27,Sneakers,Clothing,Asia,India,3,60,180
+1496,2026-03-27,T-Shirt,Clothing,Asia,India,3,25,75
+3400,2026-03-27,Sneakers,Clothing,Europe,Germany,3,60,180
+3124,2026-03-27,Charger,Electronics,Europe,United Kingdom,3,15,45
+3541,2026-03-27,Headphones,Electronics,Africa,Nigeria,2,45,90
+3620,2026-03-27,Sneakers,Clothing,North America,United States,3,60,180
+3323,2026-03-27,Backpack,Accessories,Europe,United Kingdom,3,40,120
+3706,2026-03-27,Sneakers,Clothing,Europe,United Kingdom,3,60,180
+3505,2026-03-27,Charger,Electronics,North America,United States,2,15,30
+1977,2026-03-27,Sneakers,Clothing,North America,Mexico,3,60,180
+1836,2026-03-27,Headphones,Electronics,Asia,India,3,45,135
+2013,2026-03-27,Sneakers,Clothing,Africa,Nigeria,3,60,180
+1665,2026-03-28,Headphones,Electronics,Asia,Japan,3,45,135
+2396,2026-03-28,Headphones,Electronics,Oceania,New Zealand,2,45,90
+2498,2026-03-28,Sneakers,Clothing,North America,Canada,2,60,120
+2598,2026-03-28,Headphones,Electronics,Europe,France,3,45,135
+2014,2026-03-28,Smart Watch,Electronics,South America,Argentina,3,90,270
+1433,2026-03-28,Backpack,Accessories,Asia,United Arab Emirates,1,40,40
+1736,2026-03-28,Sunglasses,Accessories,North America,Canada,1,30,30
+2523,2026-03-28,Sneakers,Clothing,Europe,France,1,60,60
+2354,2026-03-28,Sunglasses,Accessories,North America,Canada,1,30,30
+1630,2026-03-29,Sunglasses,Accessories,North America,Mexico,2,30,60
+2278,2026-03-29,T-Shirt,Clothing,Asia,Saudi Arabia,3,25,75
+2250,2026-03-29,Smart Watch,Electronics,Europe,Germany,3,90,270
+3026,2026-03-29,Headphones,Electronics,Asia,United Arab Emirates,1,45,45
+3230,2026-03-29,T-Shirt,Clothing,Europe,United Kingdom,1,25,25
+1972,2026-03-29,Smart Watch,Electronics,Asia,Saudi Arabia,3,90,270
+2272,2026-03-29,Charger,Electronics,North America,Canada,1,15,15
+2715,2026-03-29,Charger,Electronics,North America,Mexico,2,15,30
+3094,2026-03-29,Smart Watch,Electronics,Asia,Japan,2,90,180
+2398,2026-03-29,Smart Watch,Electronics,Africa,Egypt,3,90,270
+3921,2026-03-29,Backpack,Accessories,South America,Brazil,2,40,80
+3905,2026-03-29,Smart Watch,Electronics,Oceania,Australia,1,90,90
+2326,2026-03-30,Smart Watch,Electronics,Africa,South Africa,3,90,270
+2084,2026-03-30,Sneakers,Clothing,Europe,Spain,1,60,60
+2637,2026-03-30,Sneakers,Clothing,Oceania,New Zealand,1,60,60
+3279,2026-03-30,T-Shirt,Clothing,Europe,Spain,2,25,50
+3986,2026-03-30,T-Shirt,Clothing,North America,Canada,1,25,25
+2476,2026-03-30,Sunglasses,Accessories,Europe,Spain,1,30,30
+1747,2026-03-30,Charger,Electronics,Africa,Nigeria,1,15,15
+1537,2026-03-30,Sunglasses,Accessories,Europe,Spain,1,30,30
+1553,2026-03-30,Backpack,Accessories,Europe,Germany,2,40,80
+3506,2026-03-30,Headphones,Electronics,Africa,South Africa,3,45,135
+3236,2026-03-30,Backpack,Accessories,North America,United States,2,40,80
+1488,2026-03-31,T-Shirt,Clothing,Europe,Spain,2,25,50
+1563,2026-03-31,Sneakers,Clothing,North America,United States,2,60,120
+3552,2026-03-31,Backpack,Accessories,Asia,India,2,40,80
+3537,2026-03-31,Sunglasses,Accessories,Asia,Saudi Arabia,1,30,30
+1611,2026-04-01,Headphones,Electronics,North America,United States,1,45,45
+1693,2026-04-01,Sunglasses,Accessories,Asia,Saudi Arabia,1,30,30
+2567,2026-04-01,Sunglasses,Accessories,Europe,Spain,3,30,90
+1129,2026-04-01,Headphones,Electronics,Oceania,Australia,3,45,135
+3974,2026-04-01,Headphones,Electronics,Asia,Japan,2,45,90
+2096,2026-04-01,Backpack,Accessories,North America,Mexico,3,40,120
+2079,2026-04-02,Charger,Electronics,Oceania,New Zealand,1,15,15
+1771,2026-04-02,Backpack,Accessories,North America,United States,2,40,80
+3331,2026-04-02,Sunglasses,Accessories,Europe,Spain,3,30,90
+2923,2026-04-02,Charger,Electronics,Europe,Spain,2,15,30
+3724,2026-04-02,Headphones,Electronics,Asia,India,2,45,90
+2530,2026-04-02,Smart Watch,Electronics,South America,Chile,1,90,90
+2164,2026-04-02,Charger,Electronics,Asia,India,3,15,45
+2808,2026-04-02,Headphones,Electronics,Europe,France,3,45,135
+2681,2026-04-03,Headphones,Electronics,North America,Mexico,2,45,90
+3326,2026-04-03,Charger,Electronics,North America,Canada,2,15,30
+1841,2026-04-03,Headphones,Electronics,Africa,South Africa,2,45,90
+3614,2026-04-03,Smart Watch,Electronics,Africa,Morocco,2,90,180
+1974,2026-04-03,Sunglasses,Accessories,South America,Chile,1,30,30
+1948,2026-04-03,Sunglasses,Accessories,North America,Mexico,2,30,60
+1566,2026-04-03,T-Shirt,Clothing,North America,Mexico,2,25,50
+3811,2026-04-03,Charger,Electronics,Asia,United Arab Emirates,1,15,15
+2431,2026-04-03,Sunglasses,Accessories,Europe,France,2,30,60
+2540,2026-04-03,Headphones,Electronics,Europe,Germany,1,45,45
+2912,2026-04-03,Headphones,Electronics,North America,United States,2,45,90
+1199,2026-04-04,Smart Watch,Electronics,South America,Argentina,1,90,90
+2185,2026-04-04,Smart Watch,Electronics,South America,Argentina,1,90,90
+3893,2026-04-04,Headphones,Electronics,Europe,France,1,45,45
+1961,2026-04-04,Backpack,Accessories,Europe,United Kingdom,2,40,80
+3885,2026-04-04,Backpack,Accessories,North America,Canada,3,40,120
+2695,2026-04-04,Smart Watch,Electronics,Europe,Germany,1,90,90
+3699,2026-04-04,T-Shirt,Clothing,Asia,Japan,1,25,25
+1592,2026-04-04,Sneakers,Clothing,Europe,United Kingdom,2,60,120
+1521,2026-04-05,Smart Watch,Electronics,Africa,Egypt,3,90,270
+1729,2026-04-05,Charger,Electronics,North America,Mexico,2,15,30
+1810,2026-04-05,Sunglasses,Accessories,Europe,Spain,1,30,30
+1956,2026-04-05,Charger,Electronics,Oceania,Australia,2,15,30
+3507,2026-04-05,Charger,Electronics,North America,Mexico,1,15,15
+3240,2026-04-05,Sunglasses,Accessories,North America,Canada,1,30,30
+3962,2026-04-05,T-Shirt,Clothing,North America,United States,2,25,50
+2232,2026-04-05,Sunglasses,Accessories,North America,United States,1,30,30
+1263,2026-04-06,T-Shirt,Clothing,Europe,United Kingdom,1,25,25
+2667,2026-04-06,Headphones,Electronics,South America,Chile,3,45,135
+1758,2026-04-07,Backpack,Accessories,Oceania,Australia,3,40,120
+3482,2026-04-07,Sneakers,Clothing,North America,Mexico,1,60,60
+3361,2026-04-07,Headphones,Electronics,Oceania,Australia,2,45,90
+3712,2026-04-07,Sunglasses,Accessories,North America,Mexico,1,30,30
+3101,2026-04-07,Backpack,Accessories,Africa,Nigeria,1,40,40
+1099,2026-04-07,Charger,Electronics,Europe,Spain,3,15,45
+1872,2026-04-07,Headphones,Electronics,Asia,Saudi Arabia,1,45,45
+2516,2026-04-07,Smart Watch,Electronics,Europe,France,1,90,90
+3714,2026-04-07,Backpack,Accessories,Asia,Japan,3,40,120
+3031,2026-04-07,Backpack,Accessories,Oceania,New Zealand,1,40,40
+3853,2026-04-07,Charger,Electronics,Asia,Saudi Arabia,2,15,30
+1570,2026-04-07,Smart Watch,Electronics,Asia,India,2,90,180
+1657,2026-04-08,Backpack,Accessories,Oceania,New Zealand,3,40,120
+2916,2026-04-08,T-Shirt,Clothing,North America,Canada,2,25,50
+3985,2026-04-08,Sneakers,Clothing,Oceania,New Zealand,1,60,60
+3327,2026-04-08,Headphones,Electronics,Europe,Germany,2,45,90
+1934,2026-04-08,T-Shirt,Clothing,Europe,Spain,1,25,25
+2836,2026-04-08,Smart Watch,Electronics,North America,Canada,3,90,270
+3872,2026-04-09,Smart Watch,Electronics,Africa,Morocco,1,90,90
+1581,2026-04-09,T-Shirt,Clothing,South America,Brazil,1,25,25
+1050,2026-04-09,Sneakers,Clothing,Europe,Spain,2,60,120
+1686,2026-04-09,Sunglasses,Accessories,North America,Mexico,3,30,90
+1156,2026-04-09,Charger,Electronics,North America,United States,1,15,15
+1116,2026-04-09,Charger,Electronics,North America,United States,3,15,45
+2385,2026-04-09,Headphones,Electronics,Antarctica,Antarctica,2,45,90
+1598,2026-04-09,Charger,Electronics,North America,United States,1,15,15
+3527,2026-04-09,Sneakers,Clothing,North America,Mexico,2,60,120
+1394,2026-04-09,Smart Watch,Electronics,South America,Argentina,3,90,270
+3197,2026-04-09,Headphones,Electronics,Oceania,Australia,2,45,90
+1538,2026-04-09,Sunglasses,Accessories,North America,Mexico,3,30,90
+2057,2026-04-10,Smart Watch,Electronics,North America,Mexico,3,90,270
+1305,2026-04-10,Sunglasses,Accessories,Asia,Japan,3,30,90
+2146,2026-04-10,Sneakers,Clothing,Asia,Jordan,1,60,60
+1691,2026-04-10,Smart Watch,Electronics,Africa,Nigeria,2,90,180
+3285,2026-04-10,Backpack,Accessories,Europe,Germany,2,40,80
+3232,2026-04-10,Sunglasses,Accessories,Asia,Saudi Arabia,2,30,60
+3557,2026-04-10,T-Shirt,Clothing,North America,Mexico,1,25,25
+1483,2026-04-10,Sneakers,Clothing,North America,United States,1,60,60
+1081,2026-04-10,Sneakers,Clothing,Europe,United Kingdom,3,60,180
+3544,2026-04-10,Backpack,Accessories,Asia,India,1,40,40
+2605,2026-04-10,Smart Watch,Electronics,Asia,Jordan,2,90,180
+3732,2026-04-11,Sneakers,Clothing,Europe,France,1,60,60
+2093,2026-04-11,Sunglasses,Accessories,North America,Canada,1,30,30
+3295,2026-04-11,Smart Watch,Electronics,Oceania,New Zealand,3,90,270
+1827,2026-04-11,Sneakers,Clothing,Europe,Spain,1,60,60
+2288,2026-04-11,Sneakers,Clothing,North America,Mexico,3,60,180
+1296,2026-04-11,Charger,Electronics,South America,Chile,1,15,15
+1887,2026-04-11,Smart Watch,Electronics,Asia,Saudi Arabia,2,90,180
+1866,2026-04-11,Charger,Electronics,North America,United States,2,15,30
+1417,2026-04-11,T-Shirt,Clothing,Asia,Jordan,1,25,25
+1572,2026-04-12,Headphones,Electronics,Europe,Germany,2,45,90
+3719,2026-04-12,Sneakers,Clothing,Oceania,Australia,1,60,60
+2366,2026-04-12,Charger,Electronics,Oceania,Australia,1,15,15
+2298,2026-04-12,Headphones,Electronics,North America,Mexico,2,45,90
+1024,2026-04-12,Smart Watch,Electronics,North America,Mexico,3,90,270
+3688,2026-04-12,Headphones,Electronics,North America,Mexico,1,45,45
+1680,2026-04-12,Backpack,Accessories,North America,Mexico,3,40,120
+3341,2026-04-12,Backpack,Accessories,North America,Canada,2,40,80
+1730,2026-04-12,Backpack,Accessories,Asia,Jordan,2,40,80
+2892,2026-04-13,Backpack,Accessories,North America,United States,3,40,120
+1711,2026-04-13,T-Shirt,Clothing,Oceania,Australia,1,25,25
+2308,2026-04-13,Headphones,Electronics,Europe,France,1,45,45
+2059,2026-04-13,Backpack,Accessories,Europe,United Kingdom,3,40,120
+1534,2026-04-13,Headphones,Electronics,North America,Canada,2,45,90
+2547,2026-04-13,Sneakers,Clothing,North America,United States,1,60,60
+3824,2026-04-13,Charger,Electronics,Europe,France,1,15,15
+1471,2026-04-13,Sunglasses,Accessories,Asia,United Arab Emirates,1,30,30
+2255,2026-04-13,Charger,Electronics,Africa,Egypt,2,15,30
+3622,2026-04-13,Sneakers,Clothing,Asia,India,1,60,60
+2353,2026-04-14,Charger,Electronics,North America,Mexico,3,15,45
+3270,2026-04-14,Smart Watch,Electronics,Europe,Germany,1,90,90
+3929,2026-04-14,Sneakers,Clothing,Asia,Saudi Arabia,1,60,60
+3450,2026-04-14,Sunglasses,Accessories,North America,Mexico,3,30,90
+1303,2026-04-14,Smart Watch,Electronics,Africa,Nigeria,2,90,180
+3668,2026-04-15,T-Shirt,Clothing,Europe,France,1,25,25
+3175,2026-04-15,Smart Watch,Electronics,Europe,Spain,2,90,180
+1437,2026-04-15,Backpack,Accessories,Europe,Germany,3,40,120
+2141,2026-04-15,Headphones,Electronics,North America,Mexico,3,45,135
+2208,2026-04-16,Sunglasses,Accessories,Europe,Spain,1,30,30
+2475,2026-04-16,Smart Watch,Electronics,Africa,Nigeria,3,90,270
+1533,2026-04-16,Smart Watch,Electronics,South America,Brazil,2,90,180
+3280,2026-04-16,T-Shirt,Clothing,North America,Canada,1,25,25
+3169,2026-04-16,Smart Watch,Electronics,Africa,Morocco,1,90,90
+3763,2026-04-16,T-Shirt,Clothing,Europe,Germany,1,25,25
+1705,2026-04-17,Smart Watch,Electronics,Africa,South Africa,2,90,180
+2011,2026-04-17,Headphones,Electronics,Europe,Spain,3,45,135
+3029,2026-04-17,Headphones,Electronics,South America,Chile,2,45,90
+2067,2026-04-17,Smart Watch,Electronics,Asia,India,2,90,180
+1322,2026-04-17,Sunglasses,Accessories,South America,Argentina,2,30,60
+3871,2026-04-17,Smart Watch,Electronics,Oceania,Australia,3,90,270
+1144,2026-04-17,Sunglasses,Accessories,Europe,France,2,30,60
+2778,2026-04-17,Backpack,Accessories,North America,United States,3,40,120
+1499,2026-04-18,Sunglasses,Accessories,Africa,Morocco,1,30,30
+2946,2026-04-18,Charger,Electronics,Europe,United Kingdom,2,15,30
+1620,2026-04-18,T-Shirt,Clothing,Oceania,Australia,1,25,25
+2003,2026-04-18,Headphones,Electronics,North America,United States,1,45,45
+3335,2026-04-18,Headphones,Electronics,Africa,Nigeria,1,45,45
+3333,2026-04-18,Smart Watch,Electronics,Oceania,New Zealand,3,90,270
+1390,2026-04-18,Smart Watch,Electronics,South America,Argentina,1,90,90
+2646,2026-04-18,Sneakers,Clothing,North America,Canada,1,60,60
+1068,2026-04-18,Backpack,Accessories,Europe,France,1,40,40
+2991,2026-04-19,Backpack,Accessories,Europe,Spain,1,40,40
+3163,2026-04-19,Sunglasses,Accessories,North America,United States,1,30,30
+3961,2026-04-19,Charger,Electronics,Europe,Spain,1,15,15
+3862,2026-04-19,Sneakers,Clothing,Europe,Spain,3,60,180
+2168,2026-04-19,T-Shirt,Clothing,South America,Brazil,2,25,50
+3831,2026-04-19,Smart Watch,Electronics,Europe,Spain,3,90,270
+2052,2026-04-19,Smart Watch,Electronics,Asia,Japan,2,90,180
+2957,2026-04-20,Charger,Electronics,Europe,France,1,15,15
+2632,2026-04-20,T-Shirt,Clothing,Africa,South Africa,1,25,25
+3093,2026-04-20,Headphones,Electronics,Asia,Jordan,3,45,135
+1351,2026-04-20,Charger,Electronics,South America,Argentina,2,15,30
+2236,2026-04-20,Backpack,Accessories,Europe,Spain,1,40,40
+3526,2026-04-20,Sneakers,Clothing,Asia,India,3,60,180
+2469,2026-04-20,Charger,Electronics,Asia,United Arab Emirates,2,15,30
+2491,2026-04-20,T-Shirt,Clothing,Europe,United Kingdom,2,25,50
+2468,2026-04-21,Sunglasses,Accessories,Asia,United Arab Emirates,2,30,60
+1527,2026-04-21,Sunglasses,Accessories,Oceania,New Zealand,1,30,30
+1807,2026-04-21,Smart Watch,Electronics,Europe,France,3,90,270
+2963,2026-04-21,Charger,Electronics,North America,Canada,3,15,45
+1336,2026-04-21,Charger,Electronics,Oceania,Australia,3,15,45
+1239,2026-04-21,Sneakers,Clothing,North America,United States,2,60,120
+3891,2026-04-21,T-Shirt,Clothing,Asia,Jordan,1,25,25
+1089,2026-04-22,Sunglasses,Accessories,Europe,Spain,1,30,30
+3121,2026-04-22,Charger,Electronics,North America,Canada,2,15,30
+1449,2026-04-22,Sunglasses,Accessories,Europe,France,1,30,30
+1151,2026-04-22,Sunglasses,Accessories,Europe,France,1,30,30
+3017,2026-04-22,Headphones,Electronics,Europe,Germany,3,45,135
+1608,2026-04-22,T-Shirt,Clothing,Europe,France,3,25,75
+2420,2026-04-22,Backpack,Accessories,Africa,Morocco,3,40,120
+2512,2026-04-22,T-Shirt,Clothing,Asia,India,2,25,50
+2142,2026-04-22,Backpack,Accessories,North America,Mexico,1,40,40
+1233,2026-04-22,Smart Watch,Electronics,Asia,Saudi Arabia,1,90,90
+3558,2026-04-22,T-Shirt,Clothing,North America,Mexico,3,25,75
+1864,2026-04-22,Backpack,Accessories,Oceania,New Zealand,2,40,80
+2773,2026-04-23,Smart Watch,Electronics,North America,United States,2,90,180
+3034,2026-04-23,Headphones,Electronics,North America,Mexico,1,45,45
+1083,2026-04-23,Charger,Electronics,Africa,Egypt,2,15,30
+2060,2026-04-23,Sunglasses,Accessories,Asia,Saudi Arabia,3,30,90
+1292,2026-04-24,Charger,Electronics,Europe,Germany,2,15,30
+2500,2026-04-24,Sunglasses,Accessories,North America,Canada,3,30,90
+3981,2026-04-24,Sneakers,Clothing,North America,Canada,3,60,180
+3658,2026-04-24,Headphones,Electronics,Asia,Japan,1,45,45
+3955,2026-04-24,T-Shirt,Clothing,North America,Mexico,3,25,75
+1383,2026-04-25,Backpack,Accessories,North America,Mexico,2,40,80
+1086,2026-04-25,Headphones,Electronics,Asia,India,3,45,135
+3536,2026-04-25,Backpack,Accessories,Asia,Jordan,3,40,120
+2999,2026-04-25,Sunglasses,Accessories,Europe,Spain,1,30,30
+3178,2026-04-25,Headphones,Electronics,North America,Canada,1,45,45
+1732,2026-04-25,Smart Watch,Electronics,Asia,Japan,2,90,180
+1717,2026-04-25,Sneakers,Clothing,Asia,Jordan,3,60,180
+1347,2026-04-25,Sneakers,Clothing,Asia,Jordan,2,60,120
+3241,2026-04-26,Smart Watch,Electronics,Asia,Saudi Arabia,1,90,90
+1287,2026-04-26,Headphones,Electronics,Africa,Nigeria,2,45,90
+1789,2026-04-26,Sneakers,Clothing,Oceania,New Zealand,3,60,180
+2081,2026-04-26,T-Shirt,Clothing,Asia,Japan,2,25,50
+2995,2026-04-26,Charger,Electronics,Asia,Japan,2,15,30
+1373,2026-04-26,Backpack,Accessories,Africa,Nigeria,1,40,40
+2936,2026-04-27,Charger,Electronics,Europe,Germany,3,15,45
+1117,2026-04-27,T-Shirt,Clothing,Asia,Saudi Arabia,3,25,75
+1487,2026-04-27,Sunglasses,Accessories,Europe,France,3,30,90
+1375,2026-04-27,Smart Watch,Electronics,Europe,United Kingdom,2,90,180
+2746,2026-04-27,Headphones,Electronics,North America,Canada,3,45,135
+2149,2026-04-27,T-Shirt,Clothing,North America,United States,2,25,50
+1709,2026-04-27,T-Shirt,Clothing,Europe,France,3,25,75
+1442,2026-04-27,T-Shirt,Clothing,South America,Argentina,2,25,50
+3489,2026-04-27,Headphones,Electronics,Europe,Spain,1,45,45
+3605,2026-04-27,Headphones,Electronics,Asia,India,1,45,45
+2577,2026-04-27,Smart Watch,Electronics,Asia,India,3,90,270
+1238,2026-04-27,Smart Watch,Electronics,Asia,United Arab Emirates,2,90,180
+3839,2026-04-27,Sneakers,Clothing,Europe,France,1,60,60
+3050,2026-04-27,Sunglasses,Accessories,Europe,France,1,30,30
+1118,2026-04-28,T-Shirt,Clothing,North America,Canada,3,25,75
+2793,2026-04-28,Smart Watch,Electronics,Africa,Morocco,1,90,90
+1845,2026-04-28,Smart Watch,Electronics,Asia,Saudi Arabia,1,90,90
+2571,2026-04-28,Backpack,Accessories,Africa,South Africa,2,40,80
+2483,2026-04-28,Charger,Electronics,North America,Canada,1,15,15
+2974,2026-04-28,Backpack,Accessories,Europe,Spain,1,40,40
+1889,2026-04-28,Backpack,Accessories,Europe,United Kingdom,1,40,40
+2551,2026-04-28,Sneakers,Clothing,Europe,Germany,1,60,60
+1283,2026-04-28,Smart Watch,Electronics,Europe,France,2,90,180
+2508,2026-04-29,Smart Watch,Electronics,Europe,Spain,1,90,90
+2239,2026-04-29,T-Shirt,Clothing,Europe,Spain,2,25,50
+2724,2026-04-29,Smart Watch,Electronics,North America,Mexico,2,90,180
+2280,2026-04-29,Charger,Electronics,Asia,Saudi Arabia,1,15,15
+3996,2026-04-29,Charger,Electronics,Asia,Jordan,2,15,30
+1982,2026-04-30,Charger,Electronics,South America,Argentina,3,15,45
+2698,2026-04-30,Charger,Electronics,Asia,Jordan,1,15,15
+1623,2026-04-30,Charger,Electronics,Asia,United Arab Emirates,3,15,45
+2760,2026-04-30,Charger,Electronics,Europe,France,1,15,15
+2633,2026-04-30,Headphones,Electronics,Oceania,New Zealand,3,45,135
+1391,2026-04-30,Smart Watch,Electronics,North America,Mexico,2,90,180
+1966,2026-04-30,T-Shirt,Clothing,Europe,United Kingdom,3,25,75
+1422,2026-04-30,Sneakers,Clothing,North America,Canada,2,60,120
+3497,2026-04-30,Smart Watch,Electronics,Africa,South Africa,1,90,90
+1079,2026-04-30,Sneakers,Clothing,Europe,France,3,60,180
+1139,2026-04-30,Headphones,Electronics,North America,Canada,2,45,90
+3916,2026-04-30,Sneakers,Clothing,Europe,France,1,60,60
+3847,2026-04-30,Smart Watch,Electronics,Europe,Germany,1,90,90
+1276,2026-05-01,Charger,Electronics,Oceania,New Zealand,3,15,45
+3181,2026-05-01,Charger,Electronics,North America,Mexico,1,15,15
+3336,2026-05-01,Sunglasses,Accessories,Asia,United Arab Emirates,2,30,60
+3307,2026-05-01,Sunglasses,Accessories,Oceania,New Zealand,1,30,30
+2804,2026-05-01,Sunglasses,Accessories,North America,United States,1,30,30
+2378,2026-05-01,Charger,Electronics,South America,Chile,2,15,30
+3074,2026-05-01,Headphones,Electronics,North America,Mexico,3,45,135
+1676,2026-05-01,T-Shirt,Clothing,Oceania,Australia,2,25,50
+1661,2026-05-02,Sneakers,Clothing,North America,Canada,1,60,60
+2664,2026-05-02,Smart Watch,Electronics,North America,Mexico,1,90,90
+1625,2026-05-02,Headphones,Electronics,Africa,Egypt,1,45,45
+3933,2026-05-03,Sunglasses,Accessories,North America,United States,1,30,30
+3578,2026-05-03,Smart Watch,Electronics,Africa,South Africa,2,90,180
+1193,2026-05-03,Sneakers,Clothing,North America,Canada,1,60,60
+3595,2026-05-03,Headphones,Electronics,North America,Mexico,1,45,45
+2617,2026-05-03,Sunglasses,Accessories,Europe,United Kingdom,3,30,90
+1868,2026-05-03,Charger,Electronics,Asia,India,3,15,45
+2796,2026-05-04,Headphones,Electronics,Oceania,Australia,2,45,90
+2642,2026-05-04,Sunglasses,Accessories,Europe,United Kingdom,1,30,30
+3852,2026-05-04,T-Shirt,Clothing,Asia,India,3,25,75
+2780,2026-05-04,T-Shirt,Clothing,Europe,United Kingdom,3,25,75
+2838,2026-05-04,Headphones,Electronics,Europe,United Kingdom,3,45,135
+2907,2026-05-05,Smart Watch,Electronics,Oceania,New Zealand,2,90,180
+2784,2026-05-05,T-Shirt,Clothing,South America,Argentina,3,25,75
+3245,2026-05-05,Sunglasses,Accessories,South America,Argentina,1,30,30
+1461,2026-05-05,Charger,Electronics,Africa,Morocco,2,15,30
+3948,2026-05-05,Smart Watch,Electronics,Oceania,Australia,2,90,180
+3344,2026-05-05,Charger,Electronics,North America,Canada,2,15,30
+3003,2026-05-05,Sunglasses,Accessories,North America,Mexico,2,30,60
+2470,2026-05-05,T-Shirt,Clothing,Asia,Jordan,1,25,25
+2740,2026-05-05,Smart Watch,Electronics,South America,Brazil,2,90,180
+3532,2026-05-05,Smart Watch,Electronics,North America,Canada,3,90,270
+1915,2026-05-05,Headphones,Electronics,Europe,Spain,3,45,135
+3749,2026-05-05,Sunglasses,Accessories,Oceania,New Zealand,2,30,60
+3221,2026-05-05,Charger,Electronics,Asia,United Arab Emirates,2,15,30
+2986,2026-05-06,T-Shirt,Clothing,South America,Argentina,2,25,50
+3548,2026-05-06,Sunglasses,Accessories,North America,United States,2,30,60
+2157,2026-05-06,Headphones,Electronics,Africa,Nigeria,1,45,45
+2340,2026-05-06,Smart Watch,Electronics,Europe,United Kingdom,2,90,180
+3412,2026-05-06,Sneakers,Clothing,Asia,Japan,2,60,120
+2368,2026-05-06,Sneakers,Clothing,Oceania,Australia,2,60,120
+3464,2026-05-06,T-Shirt,Clothing,Europe,Germany,3,25,75
+1047,2026-05-06,Headphones,Electronics,Antarctica,Antarctica,1,45,45
+3884,2026-05-06,Backpack,Accessories,Oceania,New Zealand,1,40,40
+2150,2026-05-06,Headphones,Electronics,South America,Chile,3,45,135
+2884,2026-05-06,Charger,Electronics,South America,Chile,2,15,30
+2231,2026-05-06,Smart Watch,Electronics,North America,Mexico,1,90,90
+2223,2026-05-06,Charger,Electronics,Europe,United Kingdom,1,15,15
+2507,2026-05-06,T-Shirt,Clothing,Europe,France,1,25,25
+3471,2026-05-06,Backpack,Accessories,Asia,Japan,2,40,80
+2213,2026-05-06,Sunglasses,Accessories,Asia,India,1,30,30
+1916,2026-05-06,Backpack,Accessories,North America,United States,3,40,120
+1212,2026-05-06,Sneakers,Clothing,North America,United States,3,60,180
+2578,2026-05-06,T-Shirt,Clothing,Asia,Saudi Arabia,3,25,75
+1867,2026-05-07,T-Shirt,Clothing,Asia,India,2,25,50
+2949,2026-05-07,Sneakers,Clothing,Europe,France,3,60,180
+2824,2026-05-07,Sunglasses,Accessories,North America,United States,1,30,30
+3304,2026-05-07,Sneakers,Clothing,Europe,Spain,1,60,60
+2983,2026-05-07,Sneakers,Clothing,Europe,Germany,2,60,120
+1913,2026-05-07,Smart Watch,Electronics,South America,Argentina,2,90,180
+3291,2026-05-07,Headphones,Electronics,South America,Argentina,3,45,135
+2606,2026-05-07,Headphones,Electronics,Asia,Jordan,2,45,90
+1392,2026-05-07,T-Shirt,Clothing,Asia,United Arab Emirates,3,25,75
+3286,2026-05-07,Backpack,Accessories,Europe,France,2,40,80
+2417,2026-05-07,Smart Watch,Electronics,Europe,United Kingdom,3,90,270
+2257,2026-05-07,Headphones,Electronics,Europe,United Kingdom,2,45,90
+1007,2026-05-07,Smart Watch,Electronics,Europe,United Kingdom,3,90,270
+1806,2026-05-07,Backpack,Accessories,Oceania,Australia,2,40,80
+3643,2026-05-07,Sneakers,Clothing,Europe,United Kingdom,1,60,60
+2009,2026-05-08,Headphones,Electronics,Africa,Nigeria,3,45,135
+1980,2026-05-08,Smart Watch,Electronics,Oceania,New Zealand,2,90,180
+2452,2026-05-08,Backpack,Accessories,Europe,United Kingdom,3,40,120
+1637,2026-05-08,Backpack,Accessories,Asia,Saudi Arabia,1,40,40
+1288,2026-05-08,Backpack,Accessories,North America,United States,1,40,40
+3061,2026-05-08,Charger,Electronics,Asia,United Arab Emirates,2,15,30
+1092,2026-05-09,Headphones,Electronics,North America,Canada,1,45,45
+3138,2026-05-09,Headphones,Electronics,Europe,Germany,3,45,135
+1324,2026-05-09,Charger,Electronics,Africa,Egypt,2,15,30
+3198,2026-05-09,Smart Watch,Electronics,Asia,Japan,3,90,270
+2467,2026-05-09,Sneakers,Clothing,Europe,Germany,1,60,60
+3709,2026-05-09,Backpack,Accessories,North America,Mexico,3,40,120
+3348,2026-05-09,Backpack,Accessories,South America,Brazil,2,40,80
+3091,2026-05-10,Backpack,Accessories,Europe,United Kingdom,3,40,120
+3389,2026-05-10,Backpack,Accessories,Asia,Jordan,3,40,120
+1861,2026-05-10,T-Shirt,Clothing,Asia,India,3,25,75
+2166,2026-05-10,Sunglasses,Accessories,Asia,United Arab Emirates,3,30,90
+1591,2026-05-10,Sunglasses,Accessories,Oceania,Australia,2,30,60
+2652,2026-05-10,Headphones,Electronics,North America,Mexico,3,45,135
+2218,2026-05-10,Sneakers,Clothing,Asia,Japan,2,60,120
+2291,2026-05-10,Headphones,Electronics,North America,Mexico,2,45,90
+1599,2026-05-10,Smart Watch,Electronics,North America,Mexico,1,90,90
+2344,2026-05-10,Sunglasses,Accessories,Asia,Jordan,3,30,90
+3664,2026-05-10,Sneakers,Clothing,North America,United States,2,60,120
+3774,2026-05-10,Backpack,Accessories,Asia,Saudi Arabia,3,40,120
+1154,2026-05-10,Sneakers,Clothing,North America,Mexico,1,60,60
+1737,2026-05-10,Sunglasses,Accessories,North America,Mexico,3,30,90
+2590,2026-05-11,Sunglasses,Accessories,South America,Argentina,1,30,30
+2279,2026-05-11,Backpack,Accessories,Europe,Spain,3,40,120
+2281,2026-05-11,Sunglasses,Accessories,North America,Mexico,1,30,30
+3887,2026-05-11,T-Shirt,Clothing,North America,United States,3,25,75
+3284,2026-05-11,Sneakers,Clothing,North America,United States,2,60,120
+3012,2026-05-11,Backpack,Accessories,Europe,United Kingdom,1,40,40
+1660,2026-05-11,Sneakers,Clothing,Oceania,Australia,3,60,180
+1127,2026-05-11,Sneakers,Clothing,Asia,Jordan,3,60,180
+3737,2026-05-11,T-Shirt,Clothing,North America,United States,2,25,50
+2248,2026-05-11,Backpack,Accessories,North America,United States,3,40,120
+2697,2026-05-11,Sneakers,Clothing,North America,Canada,3,60,180
+3579,2026-05-11,Headphones,Electronics,Asia,Jordan,2,45,90
+1844,2026-05-11,Sunglasses,Accessories,Asia,United Arab Emirates,1,30,30
+1105,2026-05-11,Headphones,Electronics,Africa,Nigeria,3,45,135
+1498,2026-05-11,Charger,Electronics,Europe,United Kingdom,2,15,30
+2933,2026-05-12,Headphones,Electronics,Europe,United Kingdom,3,45,135
+2414,2026-05-12,T-Shirt,Clothing,Asia,Saudi Arabia,3,25,75
+1404,2026-05-12,Headphones,Electronics,Asia,Saudi Arabia,2,45,90
+2893,2026-05-12,Sunglasses,Accessories,Asia,Japan,3,30,90
+1363,2026-05-12,Backpack,Accessories,Asia,United Arab Emirates,1,40,40
+3692,2026-05-12,Sunglasses,Accessories,Oceania,New Zealand,3,30,90
+3722,2026-05-13,Charger,Electronics,Asia,Saudi Arabia,2,15,30
+1854,2026-05-13,Sneakers,Clothing,Europe,United Kingdom,1,60,60
+3411,2026-05-13,T-Shirt,Clothing,Europe,France,3,25,75
+1769,2026-05-13,Smart Watch,Electronics,Asia,Japan,2,90,180
+2790,2026-05-13,T-Shirt,Clothing,Europe,United Kingdom,1,25,25
+2000,2026-05-13,Headphones,Electronics,Europe,France,3,45,135
+1232,2026-05-13,Smart Watch,Electronics,Oceania,New Zealand,3,90,270
+2781,2026-05-14,Sneakers,Clothing,South America,Argentina,2,60,120
+3226,2026-05-14,T-Shirt,Clothing,Europe,Germany,2,25,50
+2266,2026-05-14,Smart Watch,Electronics,Europe,Germany,2,90,180
+1923,2026-05-14,Smart Watch,Electronics,Europe,Germany,1,90,90
+3512,2026-05-14,Sneakers,Clothing,North America,Canada,2,60,120
+1308,2026-05-14,T-Shirt,Clothing,Europe,Germany,3,25,75
+3943,2026-05-14,Smart Watch,Electronics,Oceania,New Zealand,3,90,270
+1979,2026-05-14,Sunglasses,Accessories,South America,Argentina,3,30,90
+1124,2026-05-15,Charger,Electronics,North America,Mexico,2,15,30
+3063,2026-05-15,Sneakers,Clothing,Europe,Spain,2,60,120
+3445,2026-05-15,Sneakers,Clothing,Europe,Germany,2,60,120
+3723,2026-05-15,Smart Watch,Electronics,North America,Mexico,3,90,270
+1547,2026-05-15,Smart Watch,Electronics,Europe,Germany,1,90,90
+2967,2026-05-15,Headphones,Electronics,North America,Mexico,3,45,135
+1169,2026-05-16,Charger,Electronics,Europe,France,3,15,45
+3909,2026-05-16,T-Shirt,Clothing,Asia,Japan,2,25,50
+2316,2026-05-16,Backpack,Accessories,Europe,Spain,1,40,40
+3869,2026-05-16,Headphones,Electronics,North America,Canada,2,45,90
+3116,2026-05-16,Sunglasses,Accessories,Europe,Spain,3,30,90
+2757,2026-05-16,T-Shirt,Clothing,Oceania,New Zealand,2,25,50
+3808,2026-05-16,Sneakers,Clothing,Europe,France,3,60,180
+2818,2026-05-16,T-Shirt,Clothing,Africa,Morocco,2,25,50
+2708,2026-05-16,Headphones,Electronics,Africa,Nigeria,3,45,135
+3314,2026-05-16,Sneakers,Clothing,Europe,Germany,2,60,120
+3439,2026-05-17,Sneakers,Clothing,South America,Brazil,2,60,120
+2810,2026-05-17,Charger,Electronics,Europe,Germany,3,15,45
+3072,2026-05-17,Sunglasses,Accessories,Asia,Saudi Arabia,1,30,30
+1366,2026-05-17,Sneakers,Clothing,North America,United States,3,60,180
+3447,2026-05-17,Headphones,Electronics,North America,Canada,2,45,90
+1670,2026-05-17,Backpack,Accessories,Oceania,New Zealand,1,40,40
+1482,2026-05-17,Headphones,Electronics,North America,Canada,1,45,45
+1284,2026-05-17,Headphones,Electronics,Europe,Spain,1,45,45
+2301,2026-05-17,Charger,Electronics,Europe,United Kingdom,3,15,45
+3474,2026-05-17,Backpack,Accessories,Oceania,New Zealand,1,40,40
+1687,2026-05-18,T-Shirt,Clothing,North America,Canada,1,25,25
+2776,2026-05-18,Smart Watch,Electronics,Europe,France,3,90,270
+1506,2026-05-18,Headphones,Electronics,Europe,United Kingdom,3,45,135
+1421,2026-05-18,Smart Watch,Electronics,South America,Brazil,3,90,270
+3106,2026-05-18,Smart Watch,Electronics,North America,United States,3,90,270
+3454,2026-05-18,Sneakers,Clothing,North America,Mexico,3,60,180
+1368,2026-05-18,Sneakers,Clothing,Africa,Morocco,3,60,180
+2869,2026-05-18,Charger,Electronics,North America,Mexico,3,15,45
+2374,2026-05-18,T-Shirt,Clothing,Oceania,Australia,2,25,50
+3729,2026-05-19,T-Shirt,Clothing,Asia,India,2,25,50
+1549,2026-05-19,Sneakers,Clothing,North America,Mexico,2,60,120
+2761,2026-05-19,Sunglasses,Accessories,Asia,India,1,30,30
+1342,2026-05-19,Backpack,Accessories,Asia,Japan,1,40,40
+3202,2026-05-19,Sunglasses,Accessories,North America,Mexico,2,30,60
+3359,2026-05-20,Backpack,Accessories,Europe,Germany,1,40,40
+2832,2026-05-20,T-Shirt,Clothing,Europe,France,2,25,50
+3396,2026-05-20,Headphones,Electronics,Europe,Spain,2,45,90
+1315,2026-05-20,Sneakers,Clothing,Europe,United Kingdom,2,60,120
+2599,2026-05-20,Headphones,Electronics,Asia,Saudi Arabia,1,45,45
+1761,2026-05-20,Smart Watch,Electronics,Europe,Spain,1,90,90
+2238,2026-05-20,Smart Watch,Electronics,Asia,United Arab Emirates,2,90,180
+1026,2026-05-20,Headphones,Electronics,Africa,Egypt,2,45,90
+1824,2026-05-20,T-Shirt,Clothing,Africa,Morocco,1,25,25
+1652,2026-05-21,Backpack,Accessories,Asia,India,2,40,80
+1216,2026-05-21,Sunglasses,Accessories,Europe,United Kingdom,3,30,90
+3478,2026-05-21,Sunglasses,Accessories,North America,United States,2,30,60
+3817,2026-05-21,Smart Watch,Electronics,North America,United States,1,90,90
+1994,2026-05-21,Sunglasses,Accessories,Asia,Saudi Arabia,3,30,90
+2028,2026-05-21,Charger,Electronics,Europe,France,1,15,15
+2890,2026-05-22,Headphones,Electronics,Antarctica,Antarctica,3,45,135
+1051,2026-05-22,Sunglasses,Accessories,Asia,India,3,30,90
+3242,2026-05-22,Headphones,Electronics,Africa,South Africa,1,45,45
+3218,2026-05-22,Charger,Electronics,North America,Mexico,2,15,30
+2822,2026-05-22,Headphones,Electronics,South America,Brazil,3,45,135
+3350,2026-05-22,Sneakers,Clothing,Europe,Germany,3,60,180
+3566,2026-05-22,Headphones,Electronics,North America,Mexico,1,45,45
+3104,2026-05-22,Charger,Electronics,Antarctica,Antarctica,2,15,30
+2653,2026-05-23,Charger,Electronics,Asia,Saudi Arabia,1,15,15
+2418,2026-05-23,Sneakers,Clothing,Asia,Saudi Arabia,1,60,60
+1815,2026-05-23,Charger,Electronics,South America,Brazil,2,15,30
+1109,2026-05-23,Headphones,Electronics,Europe,Germany,2,45,90
+2835,2026-05-23,T-Shirt,Clothing,Europe,Germany,2,25,50
+3721,2026-05-23,Backpack,Accessories,North America,Mexico,3,40,120
+2926,2026-05-23,Charger,Electronics,Oceania,New Zealand,2,15,30
+1881,2026-05-23,Sunglasses,Accessories,North America,United States,1,30,30
+1477,2026-05-23,Sneakers,Clothing,Europe,United Kingdom,1,60,60
+1682,2026-05-24,Sunglasses,Accessories,Europe,France,2,30,60
+3145,2026-05-24,Headphones,Electronics,Africa,South Africa,1,45,45
+2688,2026-05-24,Headphones,Electronics,Europe,United Kingdom,3,45,135
+1195,2026-05-24,Charger,Electronics,Asia,United Arab Emirates,2,15,30
+1573,2026-05-25,Smart Watch,Electronics,Asia,India,2,90,180
+2094,2026-05-25,Charger,Electronics,Asia,United Arab Emirates,3,15,45
+3670,2026-05-25,Backpack,Accessories,Oceania,New Zealand,1,40,40
+3518,2026-05-25,Backpack,Accessories,Asia,United Arab Emirates,1,40,40
+3125,2026-05-25,T-Shirt,Clothing,Asia,Japan,1,25,25
+2583,2026-05-25,Charger,Electronics,Europe,United Kingdom,2,15,30
+2399,2026-05-25,Backpack,Accessories,Europe,France,2,40,80
+3686,2026-05-26,Sunglasses,Accessories,Europe,Spain,3,30,90
+1209,2026-05-26,Smart Watch,Electronics,North America,Canada,3,90,270
+2770,2026-05-26,Headphones,Electronics,North America,Canada,2,45,90
+3703,2026-05-26,Sneakers,Clothing,Antarctica,Antarctica,3,60,180
+1186,2026-05-26,Sunglasses,Accessories,North America,United States,1,30,30
+1454,2026-05-26,Sneakers,Clothing,North America,United States,1,60,60
+2989,2026-05-26,Smart Watch,Electronics,Europe,United Kingdom,3,90,270
+3803,2026-05-26,Smart Watch,Electronics,Europe,Spain,1,90,90
+2138,2026-05-26,T-Shirt,Clothing,Asia,Jordan,1,25,25
+2144,2026-05-26,Backpack,Accessories,North America,United States,3,40,120
+2785,2026-05-26,Backpack,Accessories,Asia,Saudi Arabia,3,40,120
+2160,2026-05-26,T-Shirt,Clothing,North America,United States,3,25,75
+3403,2026-05-26,Charger,Electronics,Europe,France,2,15,30
+2932,2026-05-26,Headphones,Electronics,North America,Mexico,3,45,135
+2177,2026-05-26,Sunglasses,Accessories,North America,Canada,2,30,60
+3876,2026-05-26,Smart Watch,Electronics,Asia,Japan,2,90,180
+3772,2026-05-27,Backpack,Accessories,Europe,United Kingdom,2,40,80
+2161,2026-05-27,Charger,Electronics,Asia,Saudi Arabia,1,15,15
+2260,2026-05-27,Sunglasses,Accessories,Africa,Morocco,2,30,60
+3052,2026-05-27,Sunglasses,Accessories,North America,Mexico,1,30,30
+3830,2026-05-27,Backpack,Accessories,Africa,Morocco,3,40,120
+3020,2026-05-27,Charger,Electronics,Africa,Egypt,2,15,30
+2293,2026-05-27,Backpack,Accessories,Europe,Spain,2,40,80
+1019,2026-05-27,Backpack,Accessories,Europe,Germany,1,40,40
+2310,2026-05-27,T-Shirt,Clothing,Asia,Saudi Arabia,2,25,50
+1444,2026-05-27,Sunglasses,Accessories,Asia,Japan,2,30,60
+3611,2026-05-27,Backpack,Accessories,North America,Mexico,1,40,40
+3207,2026-05-28,Sunglasses,Accessories,North America,Mexico,1,30,30
+2175,2026-05-28,Backpack,Accessories,Asia,Saudi Arabia,1,40,40
+2062,2026-05-28,Smart Watch,Electronics,Oceania,Australia,1,90,90
+2553,2026-05-28,T-Shirt,Clothing,Europe,United Kingdom,1,25,25
+1313,2026-05-28,Sunglasses,Accessories,Oceania,Australia,2,30,60
+2337,2026-05-28,Backpack,Accessories,Africa,Morocco,2,40,80
+1281,2026-05-29,Charger,Electronics,Africa,Egypt,3,15,45
+3016,2026-05-29,T-Shirt,Clothing,Asia,United Arab Emirates,1,25,25
+2896,2026-05-29,Sunglasses,Accessories,Europe,United Kingdom,2,30,60
+3415,2026-05-29,Sneakers,Clothing,Oceania,New Zealand,3,60,180
+2259,2026-05-29,Smart Watch,Electronics,South America,Brazil,1,90,90
+1405,2026-05-29,Charger,Electronics,North America,United States,2,15,30
+3597,2026-05-29,Headphones,Electronics,Asia,India,2,45,90
+3379,2026-05-29,Backpack,Accessories,Africa,Egypt,3,40,120
+1353,2026-05-29,Headphones,Electronics,Europe,Spain,1,45,45
+1895,2026-05-30,Headphones,Electronics,North America,Canada,1,45,45
+2825,2026-05-30,Smart Watch,Electronics,Asia,Saudi Arabia,1,90,90
+3798,2026-05-30,T-Shirt,Clothing,North America,Canada,2,25,50
+2532,2026-05-30,Sneakers,Clothing,Oceania,New Zealand,1,60,60
+3283,2026-05-30,Smart Watch,Electronics,North America,United States,2,90,180
+1290,2026-05-30,Sunglasses,Accessories,Europe,France,2,30,60
+2821,2026-05-30,Charger,Electronics,North America,United States,2,15,30
+1451,2026-05-30,T-Shirt,Clothing,Asia,Saudi Arabia,2,25,50
+1658,2026-05-30,Headphones,Electronics,Asia,Japan,2,45,90
+3193,2026-05-31,Sneakers,Clothing,Europe,United Kingdom,2,60,120
+2622,2026-05-31,Sneakers,Clothing,South America,Argentina,2,60,120
+2713,2026-05-31,T-Shirt,Clothing,North America,Mexico,1,25,25
+1597,2026-06-01,Sneakers,Clothing,Oceania,New Zealand,1,60,60
+2826,2026-06-01,T-Shirt,Clothing,Asia,India,1,25,25
+1892,2026-06-01,Charger,Electronics,North America,Canada,1,15,15
+3421,2026-06-01,Charger,Electronics,Asia,India,1,15,15
+3988,2026-06-01,Headphones,Electronics,North America,Canada,3,45,135
+3538,2026-06-01,Sneakers,Clothing,North America,Canada,2,60,120
+1627,2026-06-01,Headphones,Electronics,North America,Canada,3,45,135
+1505,2026-06-01,Backpack,Accessories,Asia,Japan,3,40,120
+3849,2026-06-01,T-Shirt,Clothing,North America,United States,2,25,50
+2601,2026-06-02,T-Shirt,Clothing,Europe,Spain,2,25,50
+2513,2026-06-02,T-Shirt,Clothing,Asia,Jordan,1,25,25
+1028,2026-06-02,Smart Watch,Electronics,Asia,United Arab Emirates,3,90,270
+2273,2026-06-02,T-Shirt,Clothing,Oceania,New Zealand,1,25,25
+1431,2026-06-02,Headphones,Electronics,North America,United States,3,45,135
+2505,2026-06-02,Headphones,Electronics,Europe,United Kingdom,3,45,135
+1426,2026-06-02,Headphones,Electronics,North America,Canada,2,45,90
+1274,2026-06-02,Backpack,Accessories,Africa,South Africa,3,40,120
+2557,2026-06-02,T-Shirt,Clothing,Asia,Jordan,3,25,75
+1834,2026-06-02,T-Shirt,Clothing,Europe,Germany,1,25,25
+1529,2026-06-02,Backpack,Accessories,Oceania,New Zealand,1,40,40
+2070,2026-06-02,Headphones,Electronics,North America,Mexico,3,45,135
+2325,2026-06-02,Smart Watch,Electronics,Europe,United Kingdom,2,90,180
+1996,2026-06-02,Smart Watch,Electronics,Asia,Japan,1,90,90
+3966,2026-06-02,Backpack,Accessories,North America,Mexico,1,40,40
+2437,2026-06-03,T-Shirt,Clothing,Africa,South Africa,1,25,25
+1341,2026-06-03,Sunglasses,Accessories,Oceania,New Zealand,1,30,30
+2132,2026-06-03,Sneakers,Clothing,North America,Canada,3,60,180
+1018,2026-06-03,Sunglasses,Accessories,North America,United States,1,30,30
+3693,2026-06-03,Sneakers,Clothing,North America,Canada,3,60,180
+1551,2026-06-03,Backpack,Accessories,Asia,Japan,2,40,80
+2504,2026-06-04,Backpack,Accessories,Asia,Jordan,1,40,40
+1843,2026-06-04,Smart Watch,Electronics,North America,Mexico,3,90,270
+3033,2026-06-04,Smart Watch,Electronics,North America,Canada,3,90,270
+3791,2026-06-04,Backpack,Accessories,Europe,Germany,1,40,40
+1933,2026-06-04,Sunglasses,Accessories,Africa,Egypt,2,30,60
+1957,2026-06-04,Sunglasses,Accessories,Asia,Japan,2,30,60
+3609,2026-06-04,Backpack,Accessories,North America,United States,3,40,120
+2779,2026-06-04,Smart Watch,Electronics,Europe,Spain,1,90,90
+1762,2026-06-04,Headphones,Electronics,Asia,Japan,1,45,45
+3244,2026-06-04,T-Shirt,Clothing,Europe,Spain,3,25,75
+3523,2026-06-04,T-Shirt,Clothing,Europe,Spain,3,25,75
+2860,2026-06-04,Smart Watch,Electronics,Europe,Germany,1,90,90
+1903,2026-06-04,Sneakers,Clothing,Europe,Germany,3,60,180
+1211,2026-06-04,T-Shirt,Clothing,Europe,United Kingdom,2,25,50
+2716,2026-06-04,Backpack,Accessories,Africa,South Africa,3,40,120
+3001,2026-06-04,Charger,Electronics,Europe,France,2,15,30
+2942,2026-06-05,Backpack,Accessories,Europe,Germany,2,40,80
+1891,2026-06-05,Headphones,Electronics,Africa,Egypt,3,45,135
+3932,2026-06-05,Backpack,Accessories,North America,Canada,2,40,80
+1131,2026-06-05,Sunglasses,Accessories,Asia,Jordan,3,30,90
+3150,2026-06-05,Headphones,Electronics,North America,Mexico,3,45,135
+2908,2026-06-05,Smart Watch,Electronics,North America,Canada,3,90,270
+2443,2026-06-05,Sunglasses,Accessories,Europe,France,3,30,90
+2671,2026-06-05,Charger,Electronics,Africa,Egypt,2,15,30
+2901,2026-06-06,Smart Watch,Electronics,Europe,Spain,1,90,90
+3424,2026-06-06,T-Shirt,Clothing,Oceania,Australia,2,25,50
+1925,2026-06-06,Sunglasses,Accessories,North America,United States,2,30,60
+3767,2026-06-06,Backpack,Accessories,North America,Canada,1,40,40
+1016,2026-06-06,Sneakers,Clothing,Africa,Nigeria,2,60,120
+3842,2026-06-06,Smart Watch,Electronics,North America,United States,1,90,90
+3790,2026-06-06,Sneakers,Clothing,North America,Canada,1,60,60
+1269,2026-06-06,Charger,Electronics,Africa,South Africa,1,15,15
+3629,2026-06-06,Sunglasses,Accessories,North America,Mexico,2,30,60
+2772,2026-06-06,Headphones,Electronics,North America,Canada,1,45,45
+2733,2026-06-06,Smart Watch,Electronics,South America,Argentina,1,90,90
+1890,2026-06-06,Headphones,Electronics,Asia,India,1,45,45
+1204,2026-06-06,Charger,Electronics,North America,Canada,1,15,15
+3381,2026-06-07,Sunglasses,Accessories,Asia,United Arab Emirates,1,30,30
+2751,2026-06-07,Sneakers,Clothing,North America,Canada,3,60,180
+2410,2026-06-07,Charger,Electronics,Asia,United Arab Emirates,1,15,15
+2851,2026-06-07,Smart Watch,Electronics,Europe,France,1,90,90
+2575,2026-06-07,Sunglasses,Accessories,Asia,Jordan,2,30,60
+2802,2026-06-07,Headphones,Electronics,Oceania,Australia,1,45,45
+2030,2026-06-07,Headphones,Electronics,Asia,Jordan,1,45,45
+2131,2026-06-08,Sunglasses,Accessories,Asia,Japan,2,30,60
+3109,2026-06-08,Charger,Electronics,Europe,Germany,2,15,30
+1617,2026-06-08,Backpack,Accessories,North America,United States,1,40,40
+2919,2026-06-08,Smart Watch,Electronics,North America,Mexico,3,90,270
+2286,2026-06-08,Charger,Electronics,Oceania,Australia,2,15,30
+1165,2026-06-08,T-Shirt,Clothing,Asia,Saudi Arabia,1,25,25
+3679,2026-06-08,T-Shirt,Clothing,Europe,United Kingdom,2,25,50
+1167,2026-06-08,Headphones,Electronics,Europe,France,1,45,45
+3861,2026-06-09,T-Shirt,Clothing,Asia,United Arab Emirates,3,25,75
+3186,2026-06-09,Headphones,Electronics,Africa,Nigeria,2,45,90
+2235,2026-06-09,Sneakers,Clothing,Oceania,Australia,2,60,120
+3725,2026-06-09,Charger,Electronics,Asia,India,1,15,15
+2750,2026-06-09,Sneakers,Clothing,North America,United States,1,60,60
+2246,2026-06-09,Sunglasses,Accessories,Oceania,Australia,1,30,30
+3912,2026-06-09,Backpack,Accessories,South America,Brazil,3,40,120
+3144,2026-06-09,Sunglasses,Accessories,Europe,Spain,1,30,30
+3128,2026-06-09,Backpack,Accessories,North America,Canada,3,40,120
+3683,2026-06-09,Charger,Electronics,South America,Argentina,2,15,30
+1512,2026-06-09,Backpack,Accessories,Africa,Egypt,2,40,80
+3461,2026-06-09,Backpack,Accessories,North America,Mexico,1,40,40
+1141,2026-06-09,Sneakers,Clothing,Asia,Jordan,3,60,180
+3856,2026-06-10,Sunglasses,Accessories,South America,Brazil,3,30,90
+3810,2026-06-10,T-Shirt,Clothing,Oceania,New Zealand,2,25,50
+2459,2026-06-10,Charger,Electronics,Asia,Japan,2,15,30
+3780,2026-06-10,Headphones,Electronics,Africa,South Africa,3,45,135
+2587,2026-06-10,Sneakers,Clothing,North America,Canada,1,60,60
+3065,2026-06-10,Charger,Electronics,North America,Canada,3,15,45
+1229,2026-06-11,Sneakers,Clothing,Africa,Morocco,2,60,120
+2199,2026-06-11,Charger,Electronics,Oceania,New Zealand,2,15,30
+1082,2026-06-11,Charger,Electronics,Asia,Saudi Arabia,2,15,30
+2891,2026-06-11,Headphones,Electronics,Oceania,New Zealand,2,45,90
+3372,2026-06-11,T-Shirt,Clothing,Europe,France,2,25,50
+1140,2026-06-11,Charger,Electronics,North America,United States,2,15,30
+3883,2026-06-11,Sneakers,Clothing,Africa,Nigeria,1,60,60
+2287,2026-06-11,Backpack,Accessories,North America,Mexico,2,40,80
+2705,2026-06-11,Headphones,Electronics,North America,Canada,3,45,135
+3637,2026-06-11,T-Shirt,Clothing,North America,Canada,3,25,75
+2355,2026-06-12,Backpack,Accessories,Europe,United Kingdom,2,40,80
+2649,2026-06-12,Sneakers,Clothing,Europe,Germany,2,60,120
+3945,2026-06-12,Smart Watch,Electronics,Europe,United Kingdom,1,90,90
+3076,2026-06-12,Sunglasses,Accessories,Europe,Germany,1,30,30
+3179,2026-06-12,Sunglasses,Accessories,Oceania,Australia,2,30,60
+3409,2026-06-12,T-Shirt,Clothing,Asia,Saudi Arabia,1,25,25
+3164,2026-06-12,Headphones,Electronics,North America,Mexico,2,45,90
+1742,2026-06-13,Sunglasses,Accessories,North America,Mexico,2,30,60
+2517,2026-06-13,Smart Watch,Electronics,Europe,United Kingdom,1,90,90
+2528,2026-06-13,Sunglasses,Accessories,Asia,Saudi Arabia,3,30,90
+3223,2026-06-13,Sunglasses,Accessories,Africa,Morocco,3,30,90
+3041,2026-06-13,Headphones,Electronics,North America,Canada,1,45,45
+3156,2026-06-13,Backpack,Accessories,Europe,France,2,40,80
+1849,2026-06-13,Headphones,Electronics,Asia,Japan,3,45,135
+3878,2026-06-13,Charger,Electronics,North America,Canada,2,15,30
+3563,2026-06-14,Backpack,Accessories,Oceania,Australia,1,40,40
+1380,2026-06-14,Headphones,Electronics,North America,United States,2,45,90
+3098,2026-06-14,Headphones,Electronics,Oceania,New Zealand,2,45,90
+1924,2026-06-14,Headphones,Electronics,Africa,South Africa,1,45,45
+2335,2026-06-14,Smart Watch,Electronics,Asia,United Arab Emirates,2,90,180
+1937,2026-06-14,Backpack,Accessories,Europe,France,3,40,120
+1536,2026-06-14,Headphones,Electronics,Asia,Jordan,1,45,45
+1310,2026-06-14,Backpack,Accessories,Oceania,Australia,1,40,40
+3492,2026-06-14,Backpack,Accessories,Asia,United Arab Emirates,1,40,40
+1223,2026-06-14,T-Shirt,Clothing,Asia,Japan,3,25,75
+2387,2026-06-14,Headphones,Electronics,Asia,United Arab Emirates,3,45,135
+2885,2026-06-14,Sneakers,Clothing,Africa,South Africa,1,60,60
+1739,2026-06-15,Sunglasses,Accessories,North America,Mexico,1,30,30
+2241,2026-06-15,Sunglasses,Accessories,North America,Canada,3,30,90
+2212,2026-06-15,T-Shirt,Clothing,Europe,United Kingdom,2,25,50
+3854,2026-06-15,Charger,Electronics,North America,Mexico,3,15,45
+3655,2026-06-15,Smart Watch,Electronics,Africa,South Africa,2,90,180
+3596,2026-06-15,T-Shirt,Clothing,North America,Canada,1,25,25
+1331,2026-06-15,T-Shirt,Clothing,Europe,Spain,3,25,75
+2249,2026-06-15,Backpack,Accessories,North America,United States,3,40,120
+1898,2026-06-15,Charger,Electronics,Asia,Japan,1,15,15
+3249,2026-06-15,Sneakers,Clothing,Asia,Japan,2,60,120
+3801,2026-06-15,Sneakers,Clothing,South America,Chile,1,60,60
+3806,2026-06-15,T-Shirt,Clothing,North America,United States,1,25,25
+1459,2026-06-16,Sneakers,Clothing,Europe,United Kingdom,2,60,120
+1262,2026-06-16,Sneakers,Clothing,North America,Canada,1,60,60
+3209,2026-06-16,Headphones,Electronics,North America,United States,1,45,45
+3068,2026-06-16,Headphones,Electronics,Asia,India,1,45,45
+1220,2026-06-16,Sneakers,Clothing,Europe,Spain,3,60,180
+1842,2026-06-16,Sunglasses,Accessories,Europe,Germany,2,30,60
+3572,2026-06-16,Charger,Electronics,Europe,United Kingdom,1,15,15
+2748,2026-06-16,Sunglasses,Accessories,Asia,United Arab Emirates,1,30,30
+3347,2026-06-16,T-Shirt,Clothing,North America,United States,1,25,25
+1683,2026-06-16,T-Shirt,Clothing,North America,Canada,3,25,75
+3650,2026-06-16,Charger,Electronics,Asia,Japan,1,15,15
+1300,2026-06-17,Backpack,Accessories,Europe,Germany,3,40,120
+3794,2026-06-17,Sneakers,Clothing,Europe,United Kingdom,2,60,120
+1470,2026-06-17,T-Shirt,Clothing,North America,Mexico,1,25,25
+2954,2026-06-17,Headphones,Electronics,Oceania,Australia,2,45,90
+1158,2026-06-17,Sneakers,Clothing,Africa,Morocco,3,60,180
+1655,2026-06-17,Backpack,Accessories,Asia,Jordan,2,40,80
+3210,2026-06-17,Sneakers,Clothing,South America,Brazil,3,60,180
+3669,2026-06-17,Sunglasses,Accessories,Asia,Japan,2,30,60
+3103,2026-06-17,Smart Watch,Electronics,North America,Canada,2,90,180
+1224,2026-06-17,Smart Watch,Electronics,Africa,Morocco,1,90,90
+2898,2026-06-18,Charger,Electronics,Europe,France,1,15,15
+1651,2026-06-18,Smart Watch,Electronics,North America,Canada,1,90,90
+2902,2026-06-18,Sneakers,Clothing,Asia,Japan,3,60,180
+2428,2026-06-18,Smart Watch,Electronics,North America,Mexico,1,90,90
+3337,2026-06-18,Smart Watch,Electronics,Europe,France,2,90,180
+3422,2026-06-19,T-Shirt,Clothing,Oceania,New Zealand,2,25,50
+3030,2026-06-19,T-Shirt,Clothing,North America,Mexico,2,25,50
+2881,2026-06-19,Sunglasses,Accessories,Europe,France,1,30,30
+1257,2026-06-19,Sunglasses,Accessories,Asia,United Arab Emirates,3,30,90
+1025,2026-06-19,Headphones,Electronics,Asia,United Arab Emirates,2,45,90
+3455,2026-06-19,Sunglasses,Accessories,Europe,France,2,30,60
+2794,2026-06-19,Headphones,Electronics,Asia,Jordan,2,45,90
+3940,2026-06-19,Sneakers,Clothing,Europe,United Kingdom,3,60,180
+1561,2026-06-19,Backpack,Accessories,North America,United States,1,40,40
+1590,2026-06-19,T-Shirt,Clothing,Asia,Japan,2,25,50
+2777,2026-06-20,Charger,Electronics,Africa,South Africa,3,15,45
+3910,2026-06-20,Backpack,Accessories,South America,Brazil,3,40,120
+1612,2026-06-20,Sneakers,Clothing,Europe,Spain,2,60,120
+1703,2026-06-20,T-Shirt,Clothing,Europe,Spain,1,25,25
+3998,2026-06-20,Sneakers,Clothing,Oceania,Australia,2,60,120
+2856,2026-06-20,Smart Watch,Electronics,Asia,Japan,1,90,90
+2726,2026-06-20,Charger,Electronics,Europe,United Kingdom,2,15,30
+1545,2026-06-20,Sneakers,Clothing,North America,United States,1,60,60
+1078,2026-06-21,Backpack,Accessories,Europe,United Kingdom,1,40,40
+1435,2026-06-21,Charger,Electronics,Europe,Spain,1,15,15
+3159,2026-06-21,Charger,Electronics,Asia,Saudi Arabia,2,15,30
+1041,2026-06-21,Headphones,Electronics,Oceania,New Zealand,3,45,135
+3007,2026-06-21,Headphones,Electronics,Asia,United Arab Emirates,2,45,90
+1134,2026-06-21,T-Shirt,Clothing,North America,United States,3,25,75
+3569,2026-06-21,Backpack,Accessories,Europe,France,2,40,80
+2329,2026-06-21,Charger,Electronics,North America,Canada,1,15,15
+3428,2026-06-22,Sunglasses,Accessories,Europe,Spain,3,30,90
+1489,2026-06-22,Sneakers,Clothing,North America,Canada,3,60,180
+1043,2026-06-22,Sneakers,Clothing,Asia,India,3,60,180
+3485,2026-06-22,Headphones,Electronics,Asia,Japan,3,45,135
+3678,2026-06-22,Charger,Electronics,Europe,Germany,1,15,15
+3370,2026-06-22,Sunglasses,Accessories,North America,Canada,2,30,60
+3107,2026-06-22,Sneakers,Clothing,Africa,Egypt,3,60,180
+2187,2026-06-22,Smart Watch,Electronics,North America,United States,1,90,90
+3676,2026-06-22,Smart Watch,Electronics,North America,Canada,3,90,270
+2438,2026-06-23,Sunglasses,Accessories,Europe,Germany,3,30,90
+3757,2026-06-23,Sunglasses,Accessories,Asia,United Arab Emirates,2,30,60
+3522,2026-06-23,Backpack,Accessories,Europe,United Kingdom,3,40,120
+3786,2026-06-23,Sunglasses,Accessories,Europe,Germany,3,30,90
+2997,2026-06-23,Smart Watch,Electronics,Europe,France,2,90,180
+3621,2026-06-23,T-Shirt,Clothing,Asia,Saudi Arabia,3,25,75
+1414,2026-06-24,Smart Watch,Electronics,South America,Argentina,1,90,90
+3130,2026-06-24,Headphones,Electronics,Oceania,New Zealand,3,45,135
+3294,2026-06-24,Sunglasses,Accessories,North America,Canada,1,30,30
+3704,2026-06-24,Charger,Electronics,Asia,Japan,1,15,15
+3900,2026-06-24,Charger,Electronics,North America,United States,1,15,15
+2383,2026-06-25,Sneakers,Clothing,Asia,Japan,2,60,120
+3942,2026-06-25,Headphones,Electronics,Asia,Saudi Arabia,2,45,90
+1462,2026-06-25,Sneakers,Clothing,North America,Mexico,2,60,120
+1775,2026-06-25,Backpack,Accessories,Asia,United Arab Emirates,1,40,40
+2332,2026-06-25,Backpack,Accessories,Oceania,Australia,3,40,120
+3819,2026-06-25,Sunglasses,Accessories,North America,Canada,1,30,30
+1104,2026-06-25,Backpack,Accessories,Asia,India,1,40,40
+1035,2026-06-25,Sneakers,Clothing,North America,Mexico,3,60,180
+3073,2026-06-25,Charger,Electronics,Asia,Saudi Arabia,2,15,30
+2503,2026-06-26,Sunglasses,Accessories,North America,Mexico,2,30,60
+3858,2026-06-26,Headphones,Electronics,Europe,France,3,45,135
+1213,2026-06-26,Sunglasses,Accessories,Asia,India,3,30,90
+2951,2026-06-26,Charger,Electronics,Asia,India,2,15,30
+2304,2026-06-27,Sunglasses,Accessories,Asia,United Arab Emirates,3,30,90
+2116,2026-06-27,Backpack,Accessories,Europe,Spain,1,40,40
+1988,2026-06-27,Smart Watch,Electronics,Asia,Japan,1,90,90
+2341,2026-06-27,Backpack,Accessories,Oceania,Australia,2,40,80
+2309,2026-06-27,Backpack,Accessories,Asia,India,2,40,80
+2638,2026-06-27,T-Shirt,Clothing,Asia,Japan,1,25,25
+2087,2026-06-27,Backpack,Accessories,Europe,Germany,1,40,40
+1053,2026-06-28,T-Shirt,Clothing,Africa,Morocco,1,25,25
+1786,2026-06-28,Sneakers,Clothing,North America,Mexico,1,60,60
+2425,2026-06-28,T-Shirt,Clothing,Asia,Japan,3,25,75
+1774,2026-06-29,Headphones,Electronics,Europe,Germany,3,45,135
+1542,2026-06-29,Backpack,Accessories,Europe,France,3,40,120
+1935,2026-06-29,Backpack,Accessories,North America,United States,2,40,80
+1882,2026-06-29,Sunglasses,Accessories,North America,Canada,2,30,60
+3330,2026-06-29,Smart Watch,Electronics,Oceania,Australia,2,90,180
+1374,2026-06-29,Smart Watch,Electronics,Asia,United Arab Emirates,1,90,90
+1993,2026-06-29,Backpack,Accessories,Asia,United Arab Emirates,3,40,120
+2105,2026-06-29,Sunglasses,Accessories,Europe,France,2,30,60
+1371,2026-06-29,Charger,Electronics,Europe,United Kingdom,2,15,30
+1954,2026-06-30,Smart Watch,Electronics,Africa,Nigeria,2,90,180
+1434,2026-06-30,Charger,Electronics,Oceania,Australia,1,15,15
+2072,2026-06-30,Headphones,Electronics,Oceania,Australia,1,45,45
+2782,2026-06-30,Headphones,Electronics,North America,United States,3,45,135
+1453,2026-07-01,Smart Watch,Electronics,North America,United States,3,90,270
+3097,2026-07-01,Charger,Electronics,Europe,Germany,1,15,15
+1793,2026-07-01,Headphones,Electronics,Europe,United Kingdom,3,45,135
+3734,2026-07-01,Smart Watch,Electronics,Europe,United Kingdom,2,90,180
+2876,2026-07-01,Backpack,Accessories,North America,United States,3,40,120
+1228,2026-07-01,Sunglasses,Accessories,South America,Brazil,3,30,90
+3684,2026-07-02,T-Shirt,Clothing,North America,Mexico,2,25,50
+1280,2026-07-02,Headphones,Electronics,North America,Canada,1,45,45
+3710,2026-07-02,T-Shirt,Clothing,Europe,Germany,3,25,75
+3458,2026-07-02,Sneakers,Clothing,Asia,India,3,60,180
+2756,2026-07-02,T-Shirt,Clothing,Europe,United Kingdom,2,25,50
+2101,2026-07-03,Sneakers,Clothing,Asia,India,1,60,60
+1358,2026-07-03,Headphones,Electronics,Europe,United Kingdom,1,45,45
+3299,2026-07-03,Backpack,Accessories,Europe,Spain,3,40,120
+1671,2026-07-03,Smart Watch,Electronics,Europe,Germany,3,90,270
+1778,2026-07-03,Charger,Electronics,Europe,France,1,15,15
+2521,2026-07-03,Backpack,Accessories,Europe,Germany,1,40,40
+2593,2026-07-03,Sneakers,Clothing,Europe,France,2,60,120
+2342,2026-07-04,T-Shirt,Clothing,Europe,United Kingdom,2,25,50
+2312,2026-07-04,Charger,Electronics,Asia,Saudi Arabia,3,15,45
+2730,2026-07-04,Smart Watch,Electronics,Asia,Saudi Arabia,2,90,180
+1838,2026-07-04,Sneakers,Clothing,Europe,France,1,60,60
+2976,2026-07-04,Headphones,Electronics,North America,United States,1,45,45
+3366,2026-07-04,Smart Watch,Electronics,Europe,Spain,1,90,90
+2574,2026-07-04,T-Shirt,Clothing,Asia,United Arab Emirates,1,25,25
+3896,2026-07-04,Sunglasses,Accessories,Asia,United Arab Emirates,1,30,30
+2271,2026-07-04,Sunglasses,Accessories,North America,Canada,1,30,30
+1718,2026-07-04,Sneakers,Clothing,Europe,France,3,60,180
+2816,2026-07-04,Headphones,Electronics,North America,Mexico,3,45,135
+3046,2026-07-04,Sneakers,Clothing,Europe,France,1,60,60
+2204,2026-07-05,Sunglasses,Accessories,North America,United States,3,30,90
+2670,2026-07-05,Sunglasses,Accessories,North America,Mexico,3,30,90
+1951,2026-07-05,Sneakers,Clothing,Africa,Nigeria,1,60,60
+2089,2026-07-05,Sunglasses,Accessories,Europe,France,1,30,30
+3499,2026-07-05,T-Shirt,Clothing,North America,Mexico,1,25,25
+3540,2026-07-05,Headphones,Electronics,North America,Canada,3,45,135
+1106,2026-07-05,Sneakers,Clothing,Asia,United Arab Emirates,3,60,180
+2051,2026-07-06,Smart Watch,Electronics,Asia,Jordan,1,90,90
+3550,2026-07-06,Sneakers,Clothing,Asia,India,1,60,60
+1559,2026-07-06,Sneakers,Clothing,Asia,Jordan,1,60,60
+1735,2026-07-06,Charger,Electronics,Europe,Germany,3,15,45
+2026,2026-07-06,Smart Watch,Electronics,Oceania,Australia,1,90,90
+1205,2026-07-07,Smart Watch,Electronics,North America,United States,3,90,270
+2789,2026-07-07,Sneakers,Clothing,North America,Mexico,1,60,60
+3639,2026-07-07,Charger,Electronics,Africa,Egypt,1,15,15
+1984,2026-07-07,Backpack,Accessories,Europe,Spain,2,40,80
+3740,2026-07-07,T-Shirt,Clothing,North America,Canada,3,25,75
+2911,2026-07-07,Backpack,Accessories,Europe,France,1,40,40
+3848,2026-07-07,Backpack,Accessories,Europe,Spain,1,40,40
+1126,2026-07-07,T-Shirt,Clothing,Europe,France,2,25,50
+3371,2026-07-07,Backpack,Accessories,Asia,Japan,2,40,80
+2127,2026-07-08,T-Shirt,Clothing,Oceania,Australia,2,25,50
+1113,2026-07-08,T-Shirt,Clothing,Europe,United Kingdom,3,25,75
+3947,2026-07-08,Sunglasses,Accessories,Asia,United Arab Emirates,1,30,30
+1787,2026-07-08,Sneakers,Clothing,Asia,Jordan,1,60,60
+3117,2026-07-08,T-Shirt,Clothing,North America,Canada,3,25,75
+3969,2026-07-08,T-Shirt,Clothing,Europe,Germany,1,25,25
+2226,2026-07-08,Sunglasses,Accessories,North America,Mexico,3,30,90
+1479,2026-07-09,Sunglasses,Accessories,Asia,Saudi Arabia,1,30,30
+2106,2026-07-09,Headphones,Electronics,South America,Brazil,1,45,45
+1443,2026-07-09,T-Shirt,Clothing,Europe,Germany,3,25,75
+1355,2026-07-09,Charger,Electronics,Africa,Morocco,3,15,45
+2602,2026-07-09,Charger,Electronics,North America,Canada,2,15,30
+1188,2026-07-10,Sunglasses,Accessories,North America,Canada,2,30,60
+1741,2026-07-10,Sunglasses,Accessories,Oceania,New Zealand,1,30,30
+3949,2026-07-11,Charger,Electronics,Europe,United Kingdom,3,15,45
+1143,2026-07-11,Charger,Electronics,Oceania,New Zealand,2,15,30
+1168,2026-07-11,Sneakers,Clothing,Africa,Egypt,2,60,120
+3288,2026-07-11,T-Shirt,Clothing,Asia,India,3,25,75
+1121,2026-07-11,T-Shirt,Clothing,North America,Canada,3,25,75
+2460,2026-07-11,Charger,Electronics,North America,Mexico,1,15,15
+3419,2026-07-11,Headphones,Electronics,North America,Mexico,3,45,135
+3345,2026-07-11,Backpack,Accessories,Europe,Spain,3,40,120
+3440,2026-07-11,T-Shirt,Clothing,North America,Mexico,1,25,25
+2156,2026-07-11,Smart Watch,Electronics,Asia,Saudi Arabia,1,90,90
+2972,2026-07-11,Smart Watch,Electronics,North America,Mexico,2,90,180
+1267,2026-07-12,Sneakers,Clothing,Oceania,New Zealand,2,60,120
+1656,2026-07-12,Sunglasses,Accessories,Asia,India,2,30,60
+1983,2026-07-12,Sneakers,Clothing,North America,United States,1,60,60
+2224,2026-07-13,Smart Watch,Electronics,South America,Brazil,1,90,90
+1621,2026-07-13,Charger,Electronics,Europe,Spain,2,15,30
+3823,2026-07-13,Charger,Electronics,North America,United States,1,15,15
+3920,2026-07-13,Backpack,Accessories,North America,Canada,2,40,80
+1299,2026-07-13,Sunglasses,Accessories,North America,Mexico,1,30,30
+1632,2026-07-14,T-Shirt,Clothing,North America,United States,2,25,50
+3077,2026-07-14,Backpack,Accessories,Europe,Spain,2,40,80
+3049,2026-07-14,Sunglasses,Accessories,Africa,Nigeria,2,30,60
+3024,2026-07-14,Smart Watch,Electronics,Asia,Japan,1,90,90
+2545,2026-07-14,Smart Watch,Electronics,North America,United States,1,90,90
+2331,2026-07-14,Sneakers,Clothing,Europe,Germany,3,60,180
+2979,2026-07-14,Charger,Electronics,Asia,India,3,15,45
+2404,2026-07-14,T-Shirt,Clothing,Asia,Japan,3,25,75
+1770,2026-07-15,Smart Watch,Electronics,Asia,Jordan,3,90,270
+3653,2026-07-15,Sneakers,Clothing,North America,United States,3,60,180
+3133,2026-07-15,Smart Watch,Electronics,Europe,Spain,3,90,270
+3303,2026-07-15,Charger,Electronics,North America,United States,3,15,45
+3402,2026-07-15,Charger,Electronics,North America,Mexico,2,15,30
+1474,2026-07-15,T-Shirt,Clothing,Oceania,New Zealand,1,25,25
+2904,2026-07-15,Sunglasses,Accessories,Asia,Japan,1,30,30
+3262,2026-07-15,Smart Watch,Electronics,Asia,Saudi Arabia,3,90,270
+1416,2026-07-15,T-Shirt,Clothing,Europe,United Kingdom,2,25,50
+3129,2026-07-16,Backpack,Accessories,Asia,Japan,1,40,40
+3127,2026-07-16,Sneakers,Clothing,Africa,Morocco,2,60,120
+2742,2026-07-16,Sneakers,Clothing,South America,Brazil,3,60,180
+1540,2026-07-16,Headphones,Electronics,Europe,Spain,3,45,135
+3515,2026-07-16,Charger,Electronics,South America,Brazil,2,15,30
+2857,2026-07-16,Smart Watch,Electronics,Asia,Japan,1,90,90
+3568,2026-07-16,Sneakers,Clothing,Europe,United Kingdom,3,60,180
+3935,2026-07-16,Sneakers,Clothing,Europe,France,2,60,120
+2937,2026-07-17,Sunglasses,Accessories,North America,Mexico,3,30,90
+3895,2026-07-17,Headphones,Electronics,North America,Canada,3,45,135
+2929,2026-07-17,Backpack,Accessories,North America,Mexico,2,40,80
+3927,2026-07-17,Sunglasses,Accessories,Europe,Germany,2,30,60
+3529,2026-07-18,T-Shirt,Clothing,Europe,France,3,25,75
+2419,2026-07-18,T-Shirt,Clothing,Asia,Jordan,3,25,75
+2962,2026-07-18,Sneakers,Clothing,Asia,India,2,60,120
+1847,2026-07-18,Sunglasses,Accessories,Oceania,Australia,3,30,90
+2769,2026-07-18,Charger,Electronics,Asia,Jordan,1,15,15
+1674,2026-07-18,T-Shirt,Clothing,North America,Canada,2,25,50
+1862,2026-07-18,Headphones,Electronics,Asia,Jordan,2,45,90
+3607,2026-07-18,Headphones,Electronics,Asia,Jordan,1,45,45
+1818,2026-07-18,Smart Watch,Electronics,Africa,Nigeria,2,90,180
+3095,2026-07-18,Sunglasses,Accessories,Europe,United Kingdom,2,30,60
+2435,2026-07-18,Headphones,Electronics,Africa,Nigeria,3,45,135
+1878,2026-07-18,Backpack,Accessories,Asia,Saudi Arabia,1,40,40
+1615,2026-07-19,Smart Watch,Electronics,Europe,France,2,90,180
+2903,2026-07-19,T-Shirt,Clothing,North America,United States,2,25,50
+3615,2026-07-19,Sunglasses,Accessories,Europe,Spain,1,30,30
+1309,2026-07-19,Sunglasses,Accessories,North America,Mexico,1,30,30
+3004,2026-07-20,Backpack,Accessories,Europe,Germany,2,40,80
+1820,2026-07-20,Charger,Electronics,Europe,United Kingdom,3,15,45
+2004,2026-07-20,Headphones,Electronics,Europe,United Kingdom,1,45,45
+1460,2026-07-20,Sunglasses,Accessories,South America,Chile,3,30,90
+1772,2026-07-20,Headphones,Electronics,North America,United States,2,45,90
+2801,2026-07-20,T-Shirt,Clothing,Europe,United Kingdom,1,25,25
+1708,2026-07-20,Charger,Electronics,Europe,Spain,3,15,45
+2430,2026-07-21,T-Shirt,Clothing,Asia,Jordan,3,25,75
+2747,2026-07-21,Charger,Electronics,Europe,Spain,3,15,45
+3715,2026-07-21,Smart Watch,Electronics,North America,United States,1,90,90
+1587,2026-07-21,Headphones,Electronics,Oceania,Australia,1,45,45
+3363,2026-07-22,Headphones,Electronics,Europe,France,3,45,135
+1301,2026-07-22,Smart Watch,Electronics,Asia,Japan,2,90,180
+3952,2026-07-22,Sneakers,Clothing,Europe,Spain,2,60,120
+1490,2026-07-22,Charger,Electronics,North America,Mexico,1,15,15
+1013,2026-07-22,Charger,Electronics,Asia,India,3,15,45
+1856,2026-07-22,Sunglasses,Accessories,Africa,Morocco,2,30,60
+1095,2026-07-22,Smart Watch,Electronics,North America,Canada,1,90,90
+2585,2026-07-22,Charger,Electronics,Asia,Japan,3,15,45
+1221,2026-07-22,Backpack,Accessories,Asia,United Arab Emirates,1,40,40
+1725,2026-07-23,Sneakers,Clothing,Europe,Germany,2,60,120
+1510,2026-07-23,Charger,Electronics,Asia,Jordan,3,15,45
+3317,2026-07-23,Charger,Electronics,South America,Brazil,2,15,30
+2600,2026-07-23,Charger,Electronics,North America,Mexico,3,15,45
+3771,2026-07-23,Smart Watch,Electronics,Europe,United Kingdom,1,90,90
+3820,2026-07-23,Charger,Electronics,Europe,Germany,3,15,45
+1359,2026-07-24,T-Shirt,Clothing,Africa,Morocco,2,25,50
+3796,2026-07-24,Headphones,Electronics,Europe,Germany,3,45,135
+3146,2026-07-24,Charger,Electronics,Asia,Japan,2,15,30
+3965,2026-07-24,Headphones,Electronics,Africa,Egypt,2,45,90
+3358,2026-07-24,T-Shirt,Clothing,Oceania,Australia,2,25,50
+2488,2026-07-24,Sneakers,Clothing,Europe,France,3,60,180
+2031,2026-07-24,T-Shirt,Clothing,North America,United States,2,25,50
+3254,2026-07-24,Sunglasses,Accessories,Asia,United Arab Emirates,2,30,60
+2202,2026-07-24,Sneakers,Clothing,Europe,Spain,2,60,120
+2426,2026-07-25,Smart Watch,Electronics,Asia,United Arab Emirates,2,90,180
+1930,2026-07-25,Smart Watch,Electronics,Asia,Saudi Arabia,1,90,90
+1837,2026-07-25,Smart Watch,Electronics,South America,Chile,2,90,180
+1710,2026-07-25,Smart Watch,Electronics,Europe,France,2,90,180
+2285,2026-07-25,T-Shirt,Clothing,Asia,United Arab Emirates,3,25,75
+1058,2026-07-25,Charger,Electronics,Oceania,New Zealand,1,15,15
+1327,2026-07-25,Charger,Electronics,North America,United States,3,15,45
+3251,2026-07-26,T-Shirt,Clothing,North America,United States,2,25,50
+1800,2026-07-26,Headphones,Electronics,Asia,India,3,45,135
+3576,2026-07-26,Sunglasses,Accessories,Europe,Spain,3,30,90
+2690,2026-07-26,Backpack,Accessories,Asia,United Arab Emirates,2,40,80
+2167,2026-07-26,Sneakers,Clothing,Antarctica,Antarctica,2,60,120
+3846,2026-07-26,Charger,Electronics,Asia,Saudi Arabia,2,15,30
+3395,2026-07-26,Sunglasses,Accessories,Asia,Japan,1,30,30
+3521,2026-07-26,Charger,Electronics,Asia,United Arab Emirates,3,15,45
+1629,2026-07-26,Sunglasses,Accessories,South America,Argentina,1,30,30
+2862,2026-07-26,Headphones,Electronics,Asia,Japan,1,45,45
+1130,2026-07-26,Backpack,Accessories,Asia,Saudi Arabia,1,40,40
+3958,2026-07-27,Sneakers,Clothing,South America,Chile,1,60,60
+2135,2026-07-27,T-Shirt,Clothing,Europe,France,3,25,75
+3645,2026-07-27,Sunglasses,Accessories,South America,Brazil,3,30,90
+3009,2026-07-27,T-Shirt,Clothing,Europe,United Kingdom,2,25,50
+2996,2026-07-27,Sneakers,Clothing,North America,Mexico,1,60,60
+3991,2026-07-28,Headphones,Electronics,North America,Mexico,3,45,135
+2440,2026-07-28,Smart Watch,Electronics,North America,United States,2,90,180
+2328,2026-07-28,T-Shirt,Clothing,North America,Mexico,1,25,25
+2955,2026-07-28,T-Shirt,Clothing,Asia,Japan,3,25,75
+1017,2026-07-28,Charger,Electronics,South America,Chile,3,15,45
+3404,2026-07-28,Sunglasses,Accessories,Asia,India,1,30,30
+1346,2026-07-28,Backpack,Accessories,Africa,Egypt,3,40,120
+3465,2026-07-28,T-Shirt,Clothing,Europe,France,2,25,50
+3624,2026-07-28,Backpack,Accessories,Asia,Japan,3,40,120
+3750,2026-07-29,T-Shirt,Clothing,Asia,United Arab Emirates,2,25,50
+1094,2026-07-29,T-Shirt,Clothing,North America,United States,2,25,50
+1000,2026-07-29,Sunglasses,Accessories,Oceania,Australia,3,30,90
+2478,2026-07-29,Charger,Electronics,Asia,Saudi Arabia,3,15,45
+2267,2026-07-29,Smart Watch,Electronics,North America,United States,3,90,270
+1514,2026-07-29,Sunglasses,Accessories,Europe,Spain,3,30,90
+2113,2026-07-29,Charger,Electronics,Europe,United Kingdom,3,15,45
+2050,2026-07-29,Headphones,Electronics,Europe,France,1,45,45
+3778,2026-07-30,T-Shirt,Clothing,North America,Canada,3,25,75
+2339,2026-07-30,Backpack,Accessories,North America,Mexico,1,40,40
+3066,2026-07-30,Headphones,Electronics,North America,United States,3,45,135
+3282,2026-07-30,Sunglasses,Accessories,Europe,France,1,30,30
+3590,2026-07-30,Sneakers,Clothing,Asia,Japan,3,60,180
+2190,2026-07-31,Sneakers,Clothing,Africa,Morocco,2,60,120
+2302,2026-07-31,Charger,Electronics,Africa,Nigeria,1,15,15
+1085,2026-07-31,Charger,Electronics,South America,Argentina,1,15,15
+1424,2026-07-31,Backpack,Accessories,North America,Canada,2,40,80
+3995,2026-07-31,Charger,Electronics,South America,Chile,2,15,30
+2229,2026-07-31,Headphones,Electronics,North America,Canada,2,45,90
+1833,2026-07-31,Smart Watch,Electronics,North America,Mexico,3,90,270
+2369,2026-07-31,Charger,Electronics,Asia,United Arab Emirates,2,15,30
+3143,2026-07-31,Sunglasses,Accessories,Oceania,New Zealand,1,30,30
+3897,2026-07-31,Smart Watch,Electronics,Asia,Jordan,1,90,90
+1241,2026-07-31,Sunglasses,Accessories,Asia,India,1,30,30
+2441,2026-07-31,Smart Watch,Electronics,Asia,Japan,3,90,270
+3789,2026-07-31,Sunglasses,Accessories,South America,Argentina,2,30,60
+3531,2026-08-01,Charger,Electronics,Asia,Japan,1,15,15
+2875,2026-08-01,Sunglasses,Accessories,North America,Mexico,2,30,60
+1965,2026-08-01,Charger,Electronics,Europe,United Kingdom,1,15,15
+2665,2026-08-01,Charger,Electronics,Europe,Spain,2,15,30
+1214,2026-08-01,Sunglasses,Accessories,North America,United States,2,30,60
+3105,2026-08-01,Backpack,Accessories,North America,Canada,1,40,40
+3581,2026-08-02,Smart Watch,Electronics,Asia,India,1,90,90
+3951,2026-08-02,Smart Watch,Electronics,Africa,Morocco,3,90,270
+3441,2026-08-02,Smart Watch,Electronics,South America,Chile,1,90,90
+1812,2026-08-02,Headphones,Electronics,Africa,South Africa,1,45,45
+1100,2026-08-02,Headphones,Electronics,Europe,United Kingdom,2,45,90
+2812,2026-08-02,Headphones,Electronics,Asia,United Arab Emirates,3,45,135
+3200,2026-08-02,T-Shirt,Clothing,North America,Canada,3,25,75
+1748,2026-08-02,Smart Watch,Electronics,Africa,Nigeria,1,90,90
+2352,2026-08-02,Smart Watch,Electronics,Europe,Spain,1,90,90
+2189,2026-08-03,Sunglasses,Accessories,Oceania,Australia,3,30,90
+2228,2026-08-03,Sunglasses,Accessories,Asia,United Arab Emirates,1,30,30
+1766,2026-08-03,Sneakers,Clothing,Asia,Japan,1,60,60
+1484,2026-08-03,Smart Watch,Electronics,North America,United States,1,90,90
+2807,2026-08-04,Headphones,Electronics,Antarctica,Antarctica,3,45,135
+2805,2026-08-04,T-Shirt,Clothing,North America,Mexico,2,25,50
+1069,2026-08-04,T-Shirt,Clothing,North America,Mexico,3,25,75
+1781,2026-08-04,Headphones,Electronics,Oceania,New Zealand,3,45,135
+1518,2026-08-04,Smart Watch,Electronics,North America,United States,1,90,90
+1428,2026-08-04,Sneakers,Clothing,North America,Canada,2,60,120
+1225,2026-08-04,Headphones,Electronics,North America,United States,2,45,90
+1402,2026-08-05,Backpack,Accessories,Asia,Jordan,2,40,80
+1826,2026-08-05,Sneakers,Clothing,Africa,Nigeria,1,60,60
+3264,2026-08-05,Sneakers,Clothing,Asia,Jordan,2,60,120
+1970,2026-08-05,Sneakers,Clothing,North America,United States,2,60,120
+2200,2026-08-05,Backpack,Accessories,South America,Argentina,2,40,80
+3332,2026-08-05,Sunglasses,Accessories,North America,United States,1,30,30
+3005,2026-08-05,Sunglasses,Accessories,Africa,South Africa,3,30,90
+2657,2026-08-05,Headphones,Electronics,Asia,India,3,45,135
+2458,2026-08-05,T-Shirt,Clothing,North America,Mexico,3,25,75
+2487,2026-08-05,Sunglasses,Accessories,North America,United States,1,30,30
+2874,2026-08-05,Headphones,Electronics,Asia,Japan,2,45,90
+3888,2026-08-05,Sneakers,Clothing,Asia,India,1,60,60
+3941,2026-08-05,Backpack,Accessories,Asia,India,1,40,40
+2446,2026-08-05,Headphones,Electronics,Africa,South Africa,1,45,45
+3368,2026-08-06,Sunglasses,Accessories,Europe,France,2,30,60
+1803,2026-08-06,Sunglasses,Accessories,Europe,Germany,1,30,30
+1975,2026-08-06,Sneakers,Clothing,Oceania,Australia,2,60,120
+2230,2026-08-06,Charger,Electronics,Africa,South Africa,2,15,30
+1503,2026-08-06,Backpack,Accessories,South America,Chile,3,40,120
+3726,2026-08-06,Charger,Electronics,North America,Canada,1,15,15
+1052,2026-08-07,Headphones,Electronics,Asia,Jordan,1,45,45
+3267,2026-08-07,Sunglasses,Accessories,South America,Brazil,1,30,30
+1020,2026-08-07,Charger,Electronics,Europe,Spain,2,15,30
+3835,2026-08-07,Smart Watch,Electronics,North America,Canada,1,90,90
+3807,2026-08-07,Charger,Electronics,Asia,India,2,15,30
+3442,2026-08-07,Smart Watch,Electronics,Europe,United Kingdom,2,90,180
+3491,2026-08-07,Sunglasses,Accessories,North America,United States,1,30,30
+3208,2026-08-07,Backpack,Accessories,Asia,United Arab Emirates,3,40,120
+3467,2026-08-07,Sunglasses,Accessories,Asia,United Arab Emirates,3,30,90
+3785,2026-08-08,Smart Watch,Electronics,North America,Canada,3,90,270
+1894,2026-08-08,Headphones,Electronics,Asia,India,2,45,90
+1418,2026-08-08,Smart Watch,Electronics,North America,United States,2,90,180
+3638,2026-08-08,Charger,Electronics,Asia,United Arab Emirates,1,15,15
+1746,2026-08-08,Backpack,Accessories,Europe,Spain,2,40,80
+1517,2026-08-08,Sunglasses,Accessories,North America,United States,3,30,90
+1574,2026-08-08,Charger,Electronics,Oceania,New Zealand,1,15,15
+3766,2026-08-08,Sunglasses,Accessories,Asia,Japan,3,30,90
+3931,2026-08-09,Sunglasses,Accessories,Europe,France,3,30,90
+1481,2026-08-09,Sunglasses,Accessories,North America,Mexico,1,30,30
+2998,2026-08-09,Charger,Electronics,North America,United States,1,15,15
+1173,2026-08-09,Headphones,Electronics,Europe,United Kingdom,3,45,135
+3556,2026-08-09,Backpack,Accessories,Asia,Saudi Arabia,1,40,40
+1345,2026-08-09,Charger,Electronics,Asia,United Arab Emirates,1,15,15
+3023,2026-08-09,Sunglasses,Accessories,Oceania,New Zealand,1,30,30
+2077,2026-08-10,T-Shirt,Clothing,Africa,Egypt,2,25,50
+2454,2026-08-10,T-Shirt,Clothing,North America,United States,2,25,50
+2343,2026-08-10,Charger,Electronics,North America,Mexico,3,15,45
+2048,2026-08-10,Backpack,Accessories,North America,Canada,2,40,80
+2012,2026-08-10,Sneakers,Clothing,Europe,Spain,2,60,120
+3069,2026-08-10,Headphones,Electronics,Europe,Spain,1,45,45
+2297,2026-08-10,Sneakers,Clothing,Asia,Saudi Arabia,1,60,60
+3457,2026-08-10,Backpack,Accessories,Oceania,Australia,3,40,120
+1174,2026-08-10,Headphones,Electronics,Africa,Nigeria,1,45,45
+1040,2026-08-10,Sunglasses,Accessories,South America,Chile,2,30,60
+3582,2026-08-10,Backpack,Accessories,North America,United States,1,40,40
+3108,2026-08-11,T-Shirt,Clothing,Africa,South Africa,3,25,75
+1037,2026-08-11,Smart Watch,Electronics,Asia,India,2,90,180
+2654,2026-08-11,Sunglasses,Accessories,Asia,Jordan,1,30,30
+2348,2026-08-11,Charger,Electronics,North America,Canada,2,15,30
+2311,2026-08-11,T-Shirt,Clothing,Europe,France,1,25,25
+1135,2026-08-11,T-Shirt,Clothing,Europe,United Kingdom,2,25,50
+2568,2026-08-11,Charger,Electronics,North America,Mexico,3,15,45
+1074,2026-08-11,Sneakers,Clothing,Europe,Spain,3,60,180
+2044,2026-08-11,Backpack,Accessories,Asia,India,1,40,40
+2380,2026-08-11,Backpack,Accessories,Europe,United Kingdom,1,40,40
+2819,2026-08-12,T-Shirt,Clothing,South America,Brazil,1,25,25
+1406,2026-08-12,Backpack,Accessories,Africa,Nigeria,3,40,120
+1120,2026-08-12,Charger,Electronics,North America,Mexico,1,15,15
+1949,2026-08-12,T-Shirt,Clothing,Oceania,New Zealand,3,25,75
+3342,2026-08-12,Smart Watch,Electronics,Europe,France,2,90,180
+1794,2026-08-12,Headphones,Electronics,Africa,South Africa,1,45,45
+1486,2026-08-12,Charger,Electronics,Europe,Germany,1,15,15
+1752,2026-08-13,Sneakers,Clothing,Asia,Saudi Arabia,1,60,60
+2234,2026-08-13,Charger,Electronics,Europe,Spain,3,15,45
+2980,2026-08-13,Sunglasses,Accessories,Europe,United Kingdom,3,30,90
+2315,2026-08-13,Sneakers,Clothing,Asia,Japan,2,60,120
+1291,2026-08-13,Backpack,Accessories,North America,Mexico,3,40,120
+3111,2026-08-13,Headphones,Electronics,Oceania,New Zealand,3,45,135
+3153,2026-08-13,Backpack,Accessories,Europe,France,3,40,120
+2611,2026-08-13,Sunglasses,Accessories,Asia,Japan,2,30,60
+3429,2026-08-14,Headphones,Electronics,North America,Mexico,3,45,135
+2552,2026-08-14,Sunglasses,Accessories,North America,Canada,2,30,60
+2154,2026-08-14,T-Shirt,Clothing,South America,Chile,3,25,75
+1851,2026-08-14,Sunglasses,Accessories,Asia,United Arab Emirates,3,30,90
+3312,2026-08-14,Sneakers,Clothing,Europe,France,1,60,60
+3517,2026-08-14,Smart Watch,Electronics,Europe,Germany,1,90,90
+1554,2026-08-14,T-Shirt,Clothing,Africa,Nigeria,3,25,75
+2047,2026-08-15,Sneakers,Clothing,Asia,United Arab Emirates,2,60,120
+2169,2026-08-15,Headphones,Electronics,Europe,Spain,3,45,135
+2407,2026-08-15,Backpack,Accessories,North America,United States,1,40,40
+2401,2026-08-15,Sneakers,Clothing,Europe,Germany,3,60,180
+2256,2026-08-15,Sneakers,Clothing,North America,United States,1,60,60
+1297,2026-08-15,Sunglasses,Accessories,Africa,Morocco,2,30,60
+2242,2026-08-15,Charger,Electronics,North America,Mexico,3,15,45
+1450,2026-08-15,Sunglasses,Accessories,Europe,France,3,30,90
+3644,2026-08-15,Headphones,Electronics,Africa,Morocco,2,45,90
+1181,2026-08-15,Sneakers,Clothing,Asia,United Arab Emirates,2,60,120
+3516,2026-08-16,Charger,Electronics,Europe,Germany,2,15,30
+3056,2026-08-16,Sneakers,Clothing,North America,Canada,1,60,60
+2722,2026-08-16,Backpack,Accessories,Europe,France,3,40,120
+3793,2026-08-16,Backpack,Accessories,North America,United States,2,40,80
+1430,2026-08-16,Smart Watch,Electronics,Asia,India,2,90,180
+3480,2026-08-16,Headphones,Electronics,Africa,Morocco,2,45,90
+1734,2026-08-16,Sunglasses,Accessories,North America,Mexico,1,30,30
+1388,2026-08-16,Smart Watch,Electronics,South America,Argentina,2,90,180
+2097,2026-08-16,Sneakers,Clothing,Europe,France,2,60,120
+2091,2026-08-16,Backpack,Accessories,North America,Canada,2,40,80
+1330,2026-08-16,Backpack,Accessories,Asia,Jordan,2,40,80
+3237,2026-08-16,Headphones,Electronics,Europe,France,1,45,45
+3060,2026-08-16,Sunglasses,Accessories,Europe,Germany,3,30,90
+1259,2026-08-16,Sneakers,Clothing,Oceania,Australia,2,60,120
+2992,2026-08-16,Sunglasses,Accessories,Asia,Jordan,3,30,90
+3318,2026-08-17,Sunglasses,Accessories,Oceania,New Zealand,3,30,90
+1606,2026-08-17,T-Shirt,Clothing,Asia,Japan,3,25,75
+1103,2026-08-17,Charger,Electronics,North America,Canada,2,15,30
+3119,2026-08-17,Sunglasses,Accessories,Asia,Japan,2,30,60
+3978,2026-08-18,Sneakers,Clothing,Europe,Germany,3,60,180
+3010,2026-08-18,Smart Watch,Electronics,Africa,South Africa,2,90,180
+3809,2026-08-18,Sneakers,Clothing,Asia,Japan,3,60,180
+1335,2026-08-18,Charger,Electronics,Europe,France,3,15,45
+1508,2026-08-18,Headphones,Electronics,North America,Mexico,2,45,90
+2765,2026-08-19,Charger,Electronics,North America,United States,1,15,15
+1326,2026-08-19,Headphones,Electronics,North America,United States,3,45,135
+2913,2026-08-19,Sneakers,Clothing,Asia,Jordan,1,60,60
+2800,2026-08-19,Sneakers,Clothing,Oceania,Australia,2,60,120
+2453,2026-08-19,Sneakers,Clothing,North America,Mexico,2,60,120
+3477,2026-08-19,Charger,Electronics,Europe,Germany,2,15,30
+3160,2026-08-19,Sneakers,Clothing,Europe,Germany,1,60,60
+3500,2026-08-19,Sunglasses,Accessories,North America,Canada,2,30,60
+2180,2026-08-19,Headphones,Electronics,North America,Mexico,2,45,90
+3752,2026-08-19,Charger,Electronics,North America,Canada,3,15,45
+3612,2026-08-20,Charger,Electronics,Oceania,New Zealand,3,15,45
+1365,2026-08-20,T-Shirt,Clothing,North America,Mexico,1,25,25
+3475,2026-08-20,Backpack,Accessories,Oceania,New Zealand,3,40,120
+3297,2026-08-20,Smart Watch,Electronics,Asia,United Arab Emirates,3,90,270
+3112,2026-08-20,Sunglasses,Accessories,Europe,United Kingdom,2,30,60
+3713,2026-08-20,Charger,Electronics,Africa,South Africa,3,15,45
+2351,2026-08-20,T-Shirt,Clothing,Europe,Spain,1,25,25
+2703,2026-08-21,Backpack,Accessories,Asia,India,3,40,120
+2625,2026-08-21,Sunglasses,Accessories,Africa,Morocco,2,30,60
+1004,2026-08-21,Sneakers,Clothing,Africa,Nigeria,2,60,120
+2427,2026-08-21,Charger,Electronics,Oceania,New Zealand,2,15,30
+3539,2026-08-21,Headphones,Electronics,Europe,France,3,45,135
+2717,2026-08-21,Sunglasses,Accessories,Europe,Germany,2,30,60
+3640,2026-08-21,T-Shirt,Clothing,North America,Canada,1,25,25
+2274,2026-08-21,Backpack,Accessories,Europe,Spain,1,40,40
+2033,2026-08-22,Backpack,Accessories,Africa,Nigeria,3,40,120
+3203,2026-08-22,T-Shirt,Clothing,Europe,United Kingdom,1,25,25
+3743,2026-08-22,Headphones,Electronics,Europe,Germany,3,45,135
+1328,2026-08-22,T-Shirt,Clothing,Asia,Jordan,3,25,75
+3140,2026-08-22,Smart Watch,Electronics,Asia,India,3,90,270
+1869,2026-08-22,Sunglasses,Accessories,North America,Mexico,3,30,90
+2613,2026-08-23,Charger,Electronics,Africa,Morocco,2,15,30
+3619,2026-08-23,Smart Watch,Electronics,Europe,Germany,1,90,90
+2797,2026-08-23,Sunglasses,Accessories,Europe,France,2,30,60
+1251,2026-08-23,Sneakers,Clothing,Asia,United Arab Emirates,3,60,180
+2195,2026-08-23,Sneakers,Clothing,Asia,Jordan,3,60,180
+3142,2026-08-23,Sneakers,Clothing,Europe,United Kingdom,2,60,120
+3675,2026-08-23,Sunglasses,Accessories,Oceania,Australia,3,30,90
+3716,2026-08-24,Headphones,Electronics,Africa,Egypt,2,45,90
+2525,2026-08-24,Charger,Electronics,Europe,Germany,2,15,30
+3799,2026-08-25,Sunglasses,Accessories,Europe,Germany,1,30,30
+2381,2026-08-25,Sneakers,Clothing,Europe,France,1,60,60
+1853,2026-08-25,Smart Watch,Electronics,South America,Argentina,2,90,180
+3261,2026-08-25,Sunglasses,Accessories,Europe,Germany,1,30,30
+2673,2026-08-25,Smart Watch,Electronics,Europe,United Kingdom,3,90,270
+3311,2026-08-25,Backpack,Accessories,North America,Canada,3,40,120
+3674,2026-08-25,Sneakers,Clothing,North America,United States,1,60,60
+1526,2026-08-25,Headphones,Electronics,Asia,Saudi Arabia,2,45,90
+2364,2026-08-25,T-Shirt,Clothing,North America,United States,1,25,25
+2338,2026-08-25,Charger,Electronics,Africa,Egypt,2,15,30
+1059,2026-08-25,Headphones,Electronics,North America,Mexico,3,45,135
+3171,2026-08-25,Headphones,Electronics,Asia,India,2,45,90
+1266,2026-08-26,T-Shirt,Clothing,Asia,Saudi Arabia,3,25,75
+3167,2026-08-26,Sneakers,Clothing,North America,Canada,1,60,60
+2934,2026-08-26,Charger,Electronics,Europe,Germany,1,15,15
+1485,2026-08-26,Charger,Electronics,Africa,Nigeria,2,15,30
+3255,2026-08-26,Backpack,Accessories,North America,Mexico,3,40,120
+3829,2026-08-27,Sneakers,Clothing,North America,United States,2,60,120
+3886,2026-08-27,Smart Watch,Electronics,North America,United States,2,90,180
+2754,2026-08-27,Sneakers,Clothing,Europe,Germany,2,60,120
+3866,2026-08-27,Headphones,Electronics,Europe,Germany,3,45,135
+3711,2026-08-27,T-Shirt,Clothing,South America,Chile,1,25,25
+1801,2026-08-28,Smart Watch,Electronics,Europe,Spain,3,90,270
+2930,2026-08-28,Sunglasses,Accessories,North America,Canada,2,30,60
+1664,2026-08-28,Headphones,Electronics,Africa,South Africa,1,45,45
+3652,2026-08-29,Backpack,Accessories,Europe,United Kingdom,2,40,80
+1719,2026-08-29,Headphones,Electronics,Oceania,New Zealand,3,45,135
+2634,2026-08-29,T-Shirt,Clothing,Europe,Germany,1,25,25
+1543,2026-08-29,Sunglasses,Accessories,Europe,Germany,3,30,90
+3139,2026-08-29,Backpack,Accessories,Asia,Jordan,2,40,80
+1940,2026-08-29,Charger,Electronics,Asia,Saudi Arabia,1,15,15
+2677,2026-08-29,Backpack,Accessories,Asia,United Arab Emirates,1,40,40
+2201,2026-08-29,Sunglasses,Accessories,Europe,Germany,2,30,60
+2275,2026-08-29,Sunglasses,Accessories,Africa,South Africa,1,30,30
+2300,2026-08-30,Headphones,Electronics,Asia,United Arab Emirates,1,45,45
+1494,2026-08-30,Headphones,Electronics,Oceania,New Zealand,1,45,45
+3362,2026-08-30,Sneakers,Clothing,Asia,India,2,60,120
+1738,2026-08-30,T-Shirt,Clothing,South America,Argentina,2,25,50
+3889,2026-08-30,Charger,Electronics,Asia,Japan,1,15,15
+1663,2026-08-30,Smart Watch,Electronics,Oceania,New Zealand,3,90,270
+1307,2026-08-30,T-Shirt,Clothing,Asia,India,1,25,25
+2277,2026-08-30,Smart Watch,Electronics,Europe,Germany,3,90,270
+2519,2026-08-30,T-Shirt,Clothing,North America,Mexico,3,25,75
+1511,2026-08-31,Sneakers,Clothing,South America,Argentina,2,60,120
+1513,2026-08-31,Headphones,Electronics,Europe,United Kingdom,1,45,45
+3815,2026-08-31,T-Shirt,Clothing,Europe,United Kingdom,1,25,25
+3120,2026-08-31,Smart Watch,Electronics,Asia,Jordan,3,90,270
+2158,2026-08-31,Smart Watch,Electronics,Europe,United Kingdom,1,90,90
+1896,2026-08-31,Charger,Electronics,North America,Canada,3,15,45
+1760,2026-08-31,Sunglasses,Accessories,Asia,Japan,1,30,30
+1690,2026-09-01,Smart Watch,Electronics,Asia,Jordan,3,90,270
+1338,2026-09-01,Sneakers,Clothing,North America,United States,1,60,60
+3053,2026-09-01,Charger,Electronics,South America,Argentina,2,15,30
+3520,2026-09-01,Charger,Electronics,Asia,India,1,15,15
+1243,2026-09-01,Smart Watch,Electronics,Europe,United Kingdom,1,90,90
+1439,2026-09-01,Charger,Electronics,North America,Canada,3,15,45
+2299,2026-09-01,Sneakers,Clothing,Africa,South Africa,3,60,180
+3296,2026-09-01,Headphones,Electronics,Europe,Germany,1,45,45
+1364,2026-09-01,Backpack,Accessories,North America,United States,1,40,40
+2489,2026-09-02,Backpack,Accessories,Europe,France,1,40,40
+2448,2026-09-02,Headphones,Electronics,Asia,United Arab Emirates,2,45,90
+3959,2026-09-02,Smart Watch,Electronics,North America,Canada,3,90,270
+2594,2026-09-02,Smart Watch,Electronics,South America,Chile,2,90,180
+2376,2026-09-02,Charger,Electronics,Europe,Germany,3,15,45
+3630,2026-09-02,Sneakers,Clothing,Asia,Japan,3,60,180
+2798,2026-09-02,Smart Watch,Electronics,North America,United States,1,90,90
+3087,2026-09-02,T-Shirt,Clothing,Europe,France,2,25,50
+3470,2026-09-02,Headphones,Electronics,Africa,Egypt,2,45,90
+3773,2026-09-03,Sneakers,Clothing,Asia,India,2,60,120
+3301,2026-09-03,Backpack,Accessories,Asia,United Arab Emirates,2,40,80
+2710,2026-09-03,Backpack,Accessories,North America,Mexico,3,40,120
+3980,2026-09-04,Smart Watch,Electronics,North America,United States,3,90,270
+1098,2026-09-04,Smart Watch,Electronics,Asia,Japan,1,90,90
+2676,2026-09-04,Charger,Electronics,Europe,United Kingdom,1,15,15
+2541,2026-09-04,Sunglasses,Accessories,North America,Canada,1,30,30
+2858,2026-09-04,Sneakers,Clothing,Europe,United Kingdom,3,60,180
+3593,2026-09-04,Backpack,Accessories,North America,Mexico,1,40,40
+1589,2026-09-04,Sneakers,Clothing,Asia,United Arab Emirates,1,60,60
+2628,2026-09-04,Smart Watch,Electronics,Oceania,Australia,1,90,90
+1190,2026-09-04,Sunglasses,Accessories,Europe,France,1,30,30
+3045,2026-09-05,Headphones,Electronics,Oceania,New Zealand,3,45,135
+1420,2026-09-05,Headphones,Electronics,South America,Argentina,3,45,135
+1254,2026-09-05,Headphones,Electronics,Europe,United Kingdom,3,45,135
+1278,2026-09-05,Sunglasses,Accessories,Europe,United Kingdom,1,30,30
+3994,2026-09-05,Sunglasses,Accessories,Europe,Spain,3,30,90
+1323,2026-09-05,T-Shirt,Clothing,Asia,Japan,3,25,75
+2041,2026-09-05,Charger,Electronics,Europe,France,3,15,45
+2737,2026-09-05,T-Shirt,Clothing,Africa,Egypt,1,25,25
+1779,2026-09-06,Backpack,Accessories,Europe,United Kingdom,2,40,80
+2878,2026-09-06,Sunglasses,Accessories,North America,Canada,2,30,60
+1369,2026-09-06,T-Shirt,Clothing,Oceania,New Zealand,1,25,25
+3137,2026-09-06,Charger,Electronics,Africa,South Africa,2,15,30
+1576,2026-09-06,Headphones,Electronics,Asia,United Arab Emirates,2,45,90
+3343,2026-09-06,T-Shirt,Clothing,Europe,United Kingdom,3,25,75
+1325,2026-09-06,Backpack,Accessories,North America,United States,3,40,120
+3764,2026-09-06,T-Shirt,Clothing,Oceania,New Zealand,1,25,25
+2948,2026-09-06,Sunglasses,Accessories,North America,Mexico,2,30,60
+2736,2026-09-06,Charger,Electronics,Asia,Jordan,1,15,15
+2402,2026-09-06,T-Shirt,Clothing,Africa,Egypt,3,25,75
+2511,2026-09-06,Sneakers,Clothing,Asia,United Arab Emirates,2,60,120
+1901,2026-09-06,Headphones,Electronics,Asia,Japan,2,45,90
+1767,2026-09-07,Sneakers,Clothing,Asia,Japan,3,60,180
+2783,2026-09-07,T-Shirt,Clothing,North America,United States,1,25,25
+3705,2026-09-07,Backpack,Accessories,Africa,Morocco,3,40,120
+1176,2026-09-07,Sunglasses,Accessories,North America,Mexico,2,30,60
+3206,2026-09-07,Sneakers,Clothing,South America,Chile,1,60,60
+2837,2026-09-07,T-Shirt,Clothing,North America,Mexico,3,25,75
+3925,2026-09-07,Headphones,Electronics,Oceania,New Zealand,3,45,135
+2975,2026-09-07,Sunglasses,Accessories,Africa,Morocco,3,30,90
+2282,2026-09-07,Charger,Electronics,Asia,Saudi Arabia,1,15,15
+1304,2026-09-07,Sneakers,Clothing,Europe,United Kingdom,2,60,120
+3390,2026-09-07,Headphones,Electronics,Asia,India,1,45,45
+1354,2026-09-07,Sneakers,Clothing,Asia,United Arab Emirates,3,60,180
+3783,2026-09-07,Charger,Electronics,Europe,Spain,3,15,45
+1339,2026-09-07,Headphones,Electronics,Africa,South Africa,1,45,45
+3553,2026-09-08,T-Shirt,Clothing,South America,Brazil,1,25,25
+2803,2026-09-08,T-Shirt,Clothing,Africa,Egypt,2,25,50
+2573,2026-09-08,Sneakers,Clothing,Asia,Jordan,2,60,120
+3152,2026-09-08,Charger,Electronics,North America,Canada,1,15,15
+3787,2026-09-08,Sneakers,Clothing,Antarctica,Antarctica,1,60,60
+1170,2026-09-08,Headphones,Electronics,Europe,France,2,45,90
+1926,2026-09-08,Headphones,Electronics,North America,Mexico,2,45,90
+2109,2026-09-08,T-Shirt,Clothing,Asia,India,1,25,25
+2661,2026-09-09,Headphones,Electronics,North America,Mexico,2,45,90
+2982,2026-09-09,Sneakers,Clothing,North America,United States,2,60,120
+2188,2026-09-09,Sunglasses,Accessories,Asia,United Arab Emirates,3,30,90
+1185,2026-09-09,Backpack,Accessories,South America,Argentina,1,40,40
+2086,2026-09-09,T-Shirt,Clothing,South America,Brazil,3,25,75
+2723,2026-09-09,Charger,Electronics,North America,United States,2,15,30
+1659,2026-09-10,Sneakers,Clothing,Asia,Jordan,2,60,120
+2925,2026-09-10,Backpack,Accessories,Oceania,Australia,2,40,80
+2333,2026-09-10,Headphones,Electronics,Oceania,Australia,2,45,90
+1989,2026-09-10,Sneakers,Clothing,Asia,Jordan,2,60,120
+1005,2026-09-10,T-Shirt,Clothing,North America,Canada,2,25,50
+3018,2026-09-10,Backpack,Accessories,Asia,Jordan,2,40,80
+3356,2026-09-10,Sneakers,Clothing,Europe,Spain,3,60,180
+1393,2026-09-10,Sneakers,Clothing,South America,Argentina,1,60,60
+2647,2026-09-10,Sunglasses,Accessories,Asia,Jordan,3,30,90
+2393,2026-09-10,Backpack,Accessories,Oceania,New Zealand,2,40,80
+1605,2026-09-10,Headphones,Electronics,South America,Brazil,1,45,45
+3253,2026-09-10,Headphones,Electronics,Africa,Egypt,1,45,45
+2104,2026-09-10,Headphones,Electronics,Asia,India,1,45,45
+3832,2026-09-10,Charger,Electronics,Asia,Japan,2,15,30
+2880,2026-09-11,Sneakers,Clothing,Europe,France,1,60,60
+3627,2026-09-12,Sneakers,Clothing,Europe,United Kingdom,2,60,120
+3661,2026-09-12,Headphones,Electronics,Europe,France,2,45,90
+2379,2026-09-12,Headphones,Electronics,Asia,India,2,45,90
+1248,2026-09-12,Headphones,Electronics,Asia,Jordan,2,45,90
+2485,2026-09-12,Smart Watch,Electronics,South America,Argentina,2,90,180
+1011,2026-09-12,Charger,Electronics,Africa,South Africa,2,15,30
+2203,2026-09-12,Smart Watch,Electronics,North America,United States,2,90,180
+1384,2026-09-12,Charger,Electronics,North America,United States,1,15,15
+3867,2026-09-12,Smart Watch,Electronics,Europe,France,2,90,180
+3070,2026-09-13,Charger,Electronics,North America,United States,2,15,30
+1075,2026-09-13,Headphones,Electronics,North America,Mexico,3,45,135
+3603,2026-09-13,Sunglasses,Accessories,North America,Mexico,2,30,60
+1986,2026-09-13,Sunglasses,Accessories,Europe,Germany,3,30,90
+2581,2026-09-13,Sunglasses,Accessories,Asia,India,3,30,90
+2842,2026-09-14,Headphones,Electronics,North America,Mexico,1,45,45
+3369,2026-09-14,Backpack,Accessories,Europe,United Kingdom,3,40,120
+3781,2026-09-14,Backpack,Accessories,North America,United States,3,40,120
+2558,2026-09-14,T-Shirt,Clothing,North America,Mexico,1,25,25
+2128,2026-09-14,Sneakers,Clothing,Europe,Spain,3,60,180
+3191,2026-09-14,Sunglasses,Accessories,North America,Canada,3,30,90
+3196,2026-09-14,Sneakers,Clothing,Europe,Spain,3,60,180
+3687,2026-09-14,Charger,Electronics,Europe,Germany,1,15,15
+3256,2026-09-15,Backpack,Accessories,South America,Chile,3,40,120
+3741,2026-09-15,Headphones,Electronics,Asia,India,3,45,135
+2620,2026-09-15,Sunglasses,Accessories,North America,Mexico,1,30,30
+1662,2026-09-15,Sunglasses,Accessories,North America,Mexico,1,30,30
+1294,2026-09-15,Backpack,Accessories,Asia,Saudi Arabia,1,40,40
+2121,2026-09-16,Smart Watch,Electronics,Europe,United Kingdom,3,90,270
+2909,2026-09-16,Headphones,Electronics,Asia,Saudi Arabia,2,45,90
+1246,2026-09-16,Smart Watch,Electronics,Africa,Egypt,2,90,180
+1616,2026-09-16,Backpack,Accessories,Oceania,Australia,2,40,80
+1885,2026-09-16,Headphones,Electronics,Europe,Germany,1,45,45
+2445,2026-09-16,Backpack,Accessories,Asia,Japan,3,40,120
+3201,2026-09-16,Charger,Electronics,Europe,United Kingdom,3,15,45
+3388,2026-09-16,T-Shirt,Clothing,North America,United States,1,25,25
+1236,2026-09-16,Headphones,Electronics,Asia,United Arab Emirates,2,45,90
+1932,2026-09-17,Sunglasses,Accessories,Asia,India,1,30,30
+2629,2026-09-17,Sneakers,Clothing,North America,Canada,3,60,180
+1298,2026-09-17,Sunglasses,Accessories,Asia,Japan,1,30,30
+3246,2026-09-17,Sneakers,Clothing,North America,United States,2,60,120
+2373,2026-09-17,Headphones,Electronics,Europe,Spain,3,45,135
+2527,2026-09-18,Sneakers,Clothing,Europe,Germany,3,60,180
+3022,2026-09-18,Charger,Electronics,North America,Mexico,2,15,30
+2906,2026-09-18,Sunglasses,Accessories,Europe,Spain,2,30,60
+2849,2026-09-18,Headphones,Electronics,Asia,United Arab Emirates,2,45,90
+3508,2026-09-18,T-Shirt,Clothing,Asia,Saudi Arabia,1,25,25
+2036,2026-09-18,T-Shirt,Clothing,North America,United States,2,25,50
+3334,2026-09-18,Sunglasses,Accessories,Europe,United Kingdom,2,30,60
+2179,2026-09-18,Backpack,Accessories,South America,Argentina,1,40,40
+2118,2026-09-18,Headphones,Electronics,North America,United States,1,45,45
+2612,2026-09-19,Charger,Electronics,Europe,France,3,15,45
+2037,2026-09-19,Sneakers,Clothing,North America,United States,2,60,120
+1541,2026-09-19,Sunglasses,Accessories,Asia,India,2,30,60
+2496,2026-09-19,T-Shirt,Clothing,North America,Canada,2,25,50
+3118,2026-09-19,T-Shirt,Clothing,Asia,Japan,3,25,75
+3014,2026-09-19,T-Shirt,Clothing,Africa,Nigeria,3,25,75
+2120,2026-09-19,Smart Watch,Electronics,North America,United States,3,90,270
+1271,2026-09-20,T-Shirt,Clothing,North America,Canada,1,25,25
+1234,2026-09-20,Backpack,Accessories,Africa,Nigeria,3,40,120
+2363,2026-09-20,Smart Watch,Electronics,Europe,United Kingdom,1,90,90
+1978,2026-09-20,Backpack,Accessories,North America,Mexico,2,40,80
+1790,2026-09-20,T-Shirt,Clothing,Asia,India,2,25,50
+1362,2026-09-20,Backpack,Accessories,Europe,Germany,2,40,80
+3353,2026-09-20,T-Shirt,Clothing,Asia,Saudi Arabia,3,25,75
+3292,2026-09-21,Sunglasses,Accessories,Antarctica,Antarctica,1,30,30
+2103,2026-09-21,Headphones,Electronics,North America,Mexico,2,45,90
+1114,2026-09-21,Charger,Electronics,Europe,Spain,1,15,15
+1850,2026-09-21,Sunglasses,Accessories,South America,Argentina,1,30,30
+3926,2026-09-21,Charger,Electronics,Oceania,Australia,3,15,45
+2029,2026-09-21,Charger,Electronics,Africa,Nigeria,2,15,30
+1202,2026-09-22,Sneakers,Clothing,North America,United States,1,60,60
+2870,2026-09-22,Headphones,Electronics,Europe,France,1,45,45
+3062,2026-09-22,Headphones,Electronics,Africa,Egypt,3,45,135
+3742,2026-09-22,Sneakers,Clothing,Oceania,Australia,1,60,60
+3635,2026-09-22,Charger,Electronics,North America,United States,1,15,15
+3319,2026-09-22,Charger,Electronics,Africa,Nigeria,2,15,30
+3328,2026-09-22,Sunglasses,Accessories,Europe,France,2,30,60
+2900,2026-09-22,Sneakers,Clothing,North America,United States,1,60,60
+3753,2026-09-22,Headphones,Electronics,Europe,France,2,45,90
+2416,2026-09-22,Charger,Electronics,Asia,India,1,15,15
+1054,2026-09-22,Headphones,Electronics,Europe,Germany,1,45,45
+3168,2026-09-23,Smart Watch,Electronics,North America,Mexico,2,90,180
+1749,2026-09-23,T-Shirt,Clothing,North America,United States,2,25,50
+3426,2026-09-23,Charger,Electronics,Africa,South Africa,2,15,30
+2831,2026-09-23,Sunglasses,Accessories,Asia,Jordan,2,30,60
+3551,2026-09-23,Smart Watch,Electronics,South America,Argentina,3,90,270
+2486,2026-09-23,Sneakers,Clothing,North America,Canada,3,60,180
+1692,2026-09-23,Sneakers,Clothing,North America,Mexico,2,60,120
+2914,2026-09-23,Backpack,Accessories,Europe,United Kingdom,3,40,120
+2701,2026-09-24,Headphones,Electronics,Asia,Saudi Arabia,2,45,90
+3399,2026-09-24,Headphones,Electronics,Europe,Spain,1,45,45
+2018,2026-09-24,Smart Watch,Electronics,Asia,United Arab Emirates,1,90,90
+1247,2026-09-24,T-Shirt,Clothing,South America,Brazil,3,25,75
+2618,2026-09-24,Backpack,Accessories,Europe,Germany,1,40,40
+2700,2026-09-24,Headphones,Electronics,Europe,Spain,1,45,45
+2016,2026-09-24,Smart Watch,Electronics,Europe,Spain,3,90,270
+1848,2026-09-25,Sneakers,Clothing,Europe,Spain,1,60,60
+2359,2026-09-25,T-Shirt,Clothing,South America,Chile,3,25,75
+1010,2026-09-25,Smart Watch,Electronics,Asia,India,3,90,270
+3385,2026-09-25,T-Shirt,Clothing,North America,Mexico,2,25,50
+3417,2026-09-26,Backpack,Accessories,Africa,Nigeria,2,40,80
+1370,2026-09-26,Smart Watch,Electronics,Europe,Spain,3,90,270
+1162,2026-09-26,Headphones,Electronics,Africa,Egypt,2,45,90
+3777,2026-09-26,Smart Watch,Electronics,North America,Canada,2,90,180
+3243,2026-09-26,Headphones,Electronics,Europe,France,3,45,135
+3002,2026-09-26,Smart Watch,Electronics,Asia,Jordan,1,90,90
+3818,2026-09-26,Headphones,Electronics,Asia,Japan,3,45,135
+2709,2026-09-26,Charger,Electronics,North America,Canada,2,15,30
+2098,2026-09-26,Headphones,Electronics,Asia,Saudi Arabia,3,45,135
+2447,2026-09-26,Charger,Electronics,North America,Mexico,2,15,30
+2745,2026-09-26,Sneakers,Clothing,Europe,Spain,1,60,60
+2725,2026-09-27,Charger,Electronics,Asia,Saudi Arabia,3,15,45
+3088,2026-09-27,Sunglasses,Accessories,South America,Brazil,2,30,60
+3211,2026-09-27,Headphones,Electronics,South America,Brazil,3,45,135
+1795,2026-09-27,Charger,Electronics,Europe,United Kingdom,1,15,15
+3340,2026-09-27,Backpack,Accessories,Africa,South Africa,2,40,80
+1921,2026-09-27,Smart Watch,Electronics,North America,United States,1,90,90
+2152,2026-09-27,Charger,Electronics,South America,Brazil,1,15,15
+3755,2026-09-27,Sneakers,Clothing,Africa,Morocco,1,60,60
+1565,2026-09-27,Smart Watch,Electronics,North America,Mexico,3,90,270
+3964,2026-09-28,T-Shirt,Clothing,Africa,Egypt,3,25,75
+1264,2026-09-28,Sneakers,Clothing,North America,Mexico,1,60,60
+1946,2026-09-28,Charger,Electronics,Europe,Spain,3,15,45
+1987,2026-09-28,Smart Watch,Electronics,North America,United States,2,90,180
+2466,2026-09-28,Sunglasses,Accessories,Africa,Morocco,3,30,90
+3177,2026-09-28,Sunglasses,Accessories,Europe,United Kingdom,3,30,90
+1763,2026-09-28,Sneakers,Clothing,Asia,India,2,60,120
+3043,2026-09-28,Headphones,Electronics,Africa,Nigeria,2,45,90
+2848,2026-09-28,Smart Watch,Electronics,North America,United States,1,90,90
+3902,2026-09-28,Sneakers,Clothing,North America,Canada,2,60,120
+1943,2026-09-29,Headphones,Electronics,Africa,Morocco,2,45,90
+3606,2026-09-29,Smart Watch,Electronics,North America,United States,3,90,270
+3225,2026-09-29,T-Shirt,Clothing,Asia,Jordan,1,25,25
+2210,2026-09-29,Smart Watch,Electronics,Europe,Spain,1,90,90
+1244,2026-09-30,Backpack,Accessories,Asia,Jordan,1,40,40
+3238,2026-09-30,Charger,Electronics,North America,Mexico,3,15,45
+2855,2026-09-30,Sneakers,Clothing,South America,Brazil,1,60,60
+1754,2026-09-30,Smart Watch,Electronics,North America,United States,2,90,180
+2490,2026-09-30,Headphones,Electronics,Oceania,Australia,1,45,45
+2493,2026-09-30,Backpack,Accessories,Europe,United Kingdom,2,40,80
+2644,2026-09-30,Backpack,Accessories,Europe,United Kingdom,1,40,40
+1519,2026-09-30,Backpack,Accessories,North America,Mexico,1,40,40
+3982,2026-09-30,Charger,Electronics,Asia,Jordan,3,15,45
+1626,2026-09-30,Headphones,Electronics,Europe,United Kingdom,2,45,90
+2823,2026-10-01,Sunglasses,Accessories,Europe,United Kingdom,1,30,30
+2292,2026-10-01,Backpack,Accessories,South America,Chile,1,40,40
+2640,2026-10-01,Sunglasses,Accessories,Africa,South Africa,3,30,90
+1191,2026-10-01,Backpack,Accessories,Europe,France,2,40,80
+3802,2026-10-01,Charger,Electronics,Africa,Morocco,2,15,30
+3123,2026-10-01,Smart Watch,Electronics,South America,Chile,3,90,270
+2068,2026-10-01,T-Shirt,Clothing,North America,Canada,2,25,50
+3967,2026-10-01,Sneakers,Clothing,Asia,Jordan,2,60,120
+2110,2026-10-02,Sneakers,Clothing,Oceania,New Zealand,1,60,60
+1115,2026-10-02,T-Shirt,Clothing,Asia,United Arab Emirates,3,25,75
+3490,2026-10-02,Backpack,Accessories,Europe,France,3,40,120
+2915,2026-10-02,Headphones,Electronics,South America,Brazil,2,45,90
+2534,2026-10-02,Smart Watch,Electronics,North America,Canada,3,90,270
+3268,2026-10-02,Backpack,Accessories,Asia,Saudi Arabia,2,40,80
+1714,2026-10-02,T-Shirt,Clothing,North America,Canada,3,25,75
+3919,2026-10-02,Sunglasses,Accessories,North America,Mexico,1,30,30
+1681,2026-10-02,T-Shirt,Clothing,Oceania,Australia,2,25,50
+2595,2026-10-02,Headphones,Electronics,North America,Canada,2,45,90
+2956,2026-10-03,T-Shirt,Clothing,Europe,Germany,2,25,50
+3519,2026-10-03,Smart Watch,Electronics,Oceania,New Zealand,3,90,270
+2324,2026-10-03,Headphones,Electronics,Asia,India,1,45,45
+1122,2026-10-03,Charger,Electronics,Asia,India,2,15,30
+3275,2026-10-03,Charger,Electronics,Europe,United Kingdom,2,15,30
+3957,2026-10-03,Charger,Electronics,Asia,United Arab Emirates,3,15,45
+1910,2026-10-03,Backpack,Accessories,Europe,Germany,2,40,80
+3100,2026-10-03,Charger,Electronics,Europe,Germany,3,15,45
+1067,2026-10-04,Sneakers,Clothing,Europe,Germany,2,60,120
+2672,2026-10-04,Charger,Electronics,North America,Mexico,1,15,15
+3079,2026-10-04,Smart Watch,Electronics,Africa,Egypt,2,90,180
+3325,2026-10-04,T-Shirt,Clothing,Asia,United Arab Emirates,1,25,25
+1731,2026-10-04,Headphones,Electronics,Asia,Jordan,2,45,90
+3588,2026-10-04,Sneakers,Clothing,Europe,Germany,2,60,120
+3618,2026-10-04,Sneakers,Clothing,Europe,Spain,3,60,180
+1880,2026-10-04,Sunglasses,Accessories,Europe,Germany,2,30,60
+1189,2026-10-04,Backpack,Accessories,Asia,United Arab Emirates,2,40,80
+2251,2026-10-05,Charger,Electronics,Asia,Japan,3,15,45
+2691,2026-10-05,T-Shirt,Clothing,Europe,France,2,25,50
+2479,2026-10-05,Sneakers,Clothing,North America,United States,2,60,120
+2173,2026-10-05,Headphones,Electronics,Asia,Japan,1,45,45
+2162,2026-10-05,Sneakers,Clothing,Europe,United Kingdom,1,60,60
+1136,2026-10-05,Sunglasses,Accessories,Africa,South Africa,2,30,60
+3691,2026-10-05,Charger,Electronics,Europe,Germany,3,15,45
+3586,2026-10-05,Headphones,Electronics,North America,Canada,2,45,90
+2010,2026-10-05,T-Shirt,Clothing,Asia,Saudi Arabia,2,25,50
+2739,2026-10-05,Backpack,Accessories,North America,United States,1,40,40
+1146,2026-10-05,Sneakers,Clothing,Europe,Spain,1,60,60
+2112,2026-10-05,Sunglasses,Accessories,Europe,France,3,30,90
+3405,2026-10-05,Sunglasses,Accessories,Asia,United Arab Emirates,2,30,60
+3836,2026-10-05,Backpack,Accessories,Asia,India,1,40,40
+2367,2026-10-05,Sneakers,Clothing,South America,Argentina,3,60,180
+3453,2026-10-05,Backpack,Accessories,Africa,Egypt,2,40,80
+1360,2026-10-06,Headphones,Electronics,Europe,Germany,1,45,45
+2183,2026-10-06,Backpack,Accessories,Africa,Egypt,3,40,120
+2872,2026-10-06,Charger,Electronics,South America,Chile,1,15,15
+2145,2026-10-06,Sunglasses,Accessories,North America,Mexico,2,30,60
+1194,2026-10-06,Charger,Electronics,Oceania,Australia,1,15,15
+2520,2026-10-06,Charger,Electronics,Europe,France,3,15,45
+3038,2026-10-07,Charger,Electronics,North America,United States,1,15,15
+2073,2026-10-07,Headphones,Electronics,Africa,Egypt,1,45,45
+2049,2026-10-07,Charger,Electronics,North America,United States,3,15,45
+2721,2026-10-07,Sneakers,Clothing,Europe,Spain,1,60,60
+2550,2026-10-07,Sunglasses,Accessories,Africa,Morocco,3,30,90
+1835,2026-10-07,Charger,Electronics,Europe,France,1,15,15
+1564,2026-10-07,Sneakers,Clothing,Europe,United Kingdom,2,60,120
+2910,2026-10-07,Sneakers,Clothing,North America,Mexico,2,60,120
+1311,2026-10-08,T-Shirt,Clothing,North America,Mexico,1,25,25
+3989,2026-10-08,Sunglasses,Accessories,Europe,Spain,3,30,90
+3770,2026-10-08,Sneakers,Clothing,Oceania,Australia,1,60,60
+1091,2026-10-08,Charger,Electronics,Europe,France,3,15,45
+3828,2026-10-08,Headphones,Electronics,Europe,Spain,3,45,135
+3577,2026-10-08,Headphones,Electronics,Oceania,New Zealand,2,45,90
+2847,2026-10-08,Smart Watch,Electronics,Africa,South Africa,2,90,180
+3229,2026-10-08,Headphones,Electronics,Europe,United Kingdom,1,45,45
+1093,2026-10-08,Backpack,Accessories,Asia,United Arab Emirates,1,40,40
+3574,2026-10-08,Smart Watch,Electronics,Europe,Spain,2,90,180
+2484,2026-10-09,Smart Watch,Electronics,North America,United States,1,90,90
+3696,2026-10-09,Headphones,Electronics,Asia,India,1,45,45
+3833,2026-10-09,Smart Watch,Electronics,Europe,United Kingdom,3,90,270
+2411,2026-10-09,Sunglasses,Accessories,Europe,Spain,3,30,90
+1788,2026-10-09,Headphones,Electronics,Asia,Japan,2,45,90
+2732,2026-10-09,Backpack,Accessories,Europe,United Kingdom,1,40,40
+2362,2026-10-09,Charger,Electronics,North America,United States,2,15,30
+1902,2026-10-09,Headphones,Electronics,Oceania,Australia,1,45,45
+2515,2026-10-09,Sunglasses,Accessories,Europe,Germany,3,30,90
+1828,2026-10-09,Backpack,Accessories,North America,Mexico,3,40,120
+2412,2026-10-10,Sunglasses,Accessories,Africa,Morocco,3,30,90
+1504,2026-10-10,Sneakers,Clothing,Oceania,New Zealand,2,60,120
+3880,2026-10-10,Charger,Electronics,Asia,India,1,15,15
+3894,2026-10-10,T-Shirt,Clothing,Europe,Germany,1,25,25
+2102,2026-10-10,Sneakers,Clothing,Europe,France,2,60,120
+1427,2026-10-10,Sneakers,Clothing,North America,Mexico,3,60,180
+2529,2026-10-10,Charger,Electronics,Asia,India,1,15,15
+3102,2026-10-10,Backpack,Accessories,Europe,United Kingdom,2,40,80
+1399,2026-10-10,Charger,Electronics,Asia,Japan,1,15,15
+1817,2026-10-10,Charger,Electronics,Europe,Spain,3,15,45
+2063,2026-10-11,Sneakers,Clothing,Asia,United Arab Emirates,3,60,180
+3592,2026-10-11,Smart Watch,Electronics,Europe,Germany,2,90,180
+1022,2026-10-11,Sunglasses,Accessories,North America,Canada,3,30,90
+3971,2026-10-11,T-Shirt,Clothing,South America,Argentina,1,25,25
+1469,2026-10-11,Backpack,Accessories,Asia,Japan,1,40,40
+1495,2026-10-11,T-Shirt,Clothing,North America,Canada,2,25,50
+3641,2026-10-11,Charger,Electronics,Asia,Jordan,1,15,15
+2531,2026-10-11,Headphones,Electronics,South America,Brazil,2,45,90
+3758,2026-10-11,Charger,Electronics,Oceania,Australia,3,15,45
+1055,2026-10-12,Smart Watch,Electronics,Asia,United Arab Emirates,3,90,270
+2139,2026-10-12,Charger,Electronics,Asia,India,3,15,45
+2133,2026-10-12,Smart Watch,Electronics,Europe,France,2,90,180
+1150,2026-10-12,Sunglasses,Accessories,Europe,France,3,30,90
+3025,2026-10-12,Headphones,Electronics,North America,Canada,2,45,90
+1012,2026-10-12,Charger,Electronics,Europe,United Kingdom,1,15,15
+1060,2026-10-12,Sunglasses,Accessories,Asia,Japan,1,30,30
+3760,2026-10-12,Charger,Electronics,North America,Mexico,1,15,15
+1203,2026-10-12,Sneakers,Clothing,Europe,France,2,60,120
+1032,2026-10-12,Headphones,Electronics,Asia,India,2,45,90
+3535,2026-10-12,T-Shirt,Clothing,North America,Canada,1,25,25
+2423,2026-10-12,T-Shirt,Clothing,Asia,Saudi Arabia,3,25,75
+3990,2026-10-12,Backpack,Accessories,North America,Canada,1,40,40
+2882,2026-10-13,T-Shirt,Clothing,Asia,United Arab Emirates,2,25,50
+2518,2026-10-13,Headphones,Electronics,North America,Mexico,1,45,45
+2591,2026-10-13,Headphones,Electronics,North America,Canada,2,45,90
+3352,2026-10-13,T-Shirt,Clothing,South America,Argentina,1,25,25
+3078,2026-10-13,Sneakers,Clothing,Asia,Saudi Arabia,1,60,60
+1039,2026-10-14,Backpack,Accessories,Europe,Spain,1,40,40
+3659,2026-10-14,Sneakers,Clothing,Africa,Morocco,2,60,120
+2074,2026-10-14,Sneakers,Clothing,Oceania,Australia,1,60,60
+3850,2026-10-14,T-Shirt,Clothing,Europe,France,1,25,25
+1852,2026-10-15,Charger,Electronics,Europe,Spain,2,15,30
+1959,2026-10-15,Backpack,Accessories,Europe,France,3,40,120
+3298,2026-10-15,Charger,Electronics,Oceania,Australia,2,15,30
+1386,2026-10-15,Sneakers,Clothing,Europe,Spain,3,60,180
+2283,2026-10-15,Smart Watch,Electronics,Africa,Morocco,1,90,90
+2887,2026-10-15,Smart Watch,Electronics,Asia,Jordan,2,90,180
+2873,2026-10-15,Sunglasses,Accessories,Asia,Japan,1,30,30
+3463,2026-10-15,Smart Watch,Electronics,North America,United States,3,90,270
+3383,2026-10-15,Smart Watch,Electronics,Europe,United Kingdom,3,90,270
+2465,2026-10-16,Sneakers,Clothing,Oceania,Australia,3,60,180
+2735,2026-10-16,Smart Watch,Electronics,Asia,India,3,90,270
+1455,2026-10-16,Sunglasses,Accessories,Europe,France,1,30,30
+2318,2026-10-16,Backpack,Accessories,North America,Canada,2,40,80
+1097,2026-10-16,T-Shirt,Clothing,South America,Brazil,3,25,75
+1227,2026-10-16,Smart Watch,Electronics,North America,United States,3,90,270
+1799,2026-10-16,Sneakers,Clothing,North America,United States,2,60,120
+3666,2026-10-16,Backpack,Accessories,Europe,France,3,40,120
+3628,2026-10-17,Backpack,Accessories,Asia,Saudi Arabia,1,40,40
+3431,2026-10-17,Headphones,Electronics,Europe,France,2,45,90
+2269,2026-10-17,Sunglasses,Accessories,Europe,United Kingdom,2,30,60
+1177,2026-10-17,T-Shirt,Clothing,Oceania,New Zealand,1,25,25
+2905,2026-10-17,Smart Watch,Electronics,South America,Argentina,1,90,90
+1524,2026-10-17,Backpack,Accessories,North America,Canada,2,40,80
+1056,2026-10-18,Sunglasses,Accessories,North America,Mexico,3,30,90
+1952,2026-10-18,Charger,Electronics,Europe,Spain,3,15,45
+2536,2026-10-18,Sneakers,Clothing,Europe,France,1,60,60
+2755,2026-10-19,Sneakers,Clothing,Europe,Germany,1,60,60
+3546,2026-10-19,Headphones,Electronics,Asia,Saudi Arabia,1,45,45
+3265,2026-10-19,Headphones,Electronics,North America,Canada,2,45,90
+1723,2026-10-19,Sneakers,Clothing,Asia,Saudi Arabia,1,60,60
+3663,2026-10-19,Smart Watch,Electronics,North America,Mexico,3,90,270
+2405,2026-10-19,Backpack,Accessories,North America,Canada,1,40,40
+3131,2026-10-19,Sneakers,Clothing,Asia,United Arab Emirates,3,60,180
+2064,2026-10-19,Headphones,Electronics,South America,Argentina,2,45,90
+3433,2026-10-19,Backpack,Accessories,Europe,France,3,40,120
+3747,2026-10-20,T-Shirt,Clothing,Asia,Saudi Arabia,3,25,75
+3768,2026-10-20,Sneakers,Clothing,North America,United States,1,60,60
+2771,2026-10-20,T-Shirt,Clothing,North America,Mexico,2,25,50
+3375,2026-10-20,Headphones,Electronics,Oceania,New Zealand,1,45,45
+2099,2026-10-20,Charger,Electronics,North America,Canada,3,15,45
+3310,2026-10-20,Smart Watch,Electronics,North America,Canada,1,90,90
+1552,2026-10-20,Backpack,Accessories,Asia,Saudi Arabia,3,40,120
+2258,2026-10-21,Smart Watch,Electronics,Europe,Germany,2,90,180
+1463,2026-10-21,Sneakers,Clothing,Asia,Jordan,2,60,120
+3406,2026-10-21,Charger,Electronics,North America,Canada,3,15,45
+1863,2026-10-21,Sunglasses,Accessories,North America,United States,3,30,90
+2429,2026-10-21,Charger,Electronics,North America,Canada,3,15,45
+3082,2026-10-21,Backpack,Accessories,North America,Canada,3,40,120
+1897,2026-10-21,T-Shirt,Clothing,South America,Argentina,3,25,75
+2129,2026-10-21,Charger,Electronics,Asia,Jordan,1,15,15
+3660,2026-10-21,Charger,Electronics,North America,Mexico,2,15,30
+3195,2026-10-21,Headphones,Electronics,Africa,South Africa,2,45,90
+3278,2026-10-22,Headphones,Electronics,North America,Mexico,1,45,45
+2043,2026-10-22,Smart Watch,Electronics,Oceania,Australia,2,90,180
+2788,2026-10-22,Backpack,Accessories,North America,Canada,3,40,120
+2358,2026-10-22,Backpack,Accessories,Africa,Morocco,2,40,80
+2143,2026-10-22,Charger,Electronics,North America,Mexico,3,15,45
+2395,2026-10-22,Sunglasses,Accessories,Asia,India,1,30,30
+1237,2026-10-22,Sneakers,Clothing,Europe,Spain,1,60,60
+2392,2026-10-23,Charger,Electronics,Asia,Saudi Arabia,2,15,30
+2938,2026-10-23,Headphones,Electronics,South America,Chile,3,45,135
+1415,2026-10-23,Sneakers,Clothing,South America,Chile,3,60,180
+2853,2026-10-23,Smart Watch,Electronics,Oceania,New Zealand,2,90,180
+2846,2026-10-23,Backpack,Accessories,Oceania,New Zealand,2,40,80
+2193,2026-10-24,Smart Watch,Electronics,Europe,France,2,90,180
+3697,2026-10-24,Smart Watch,Electronics,Asia,Japan,1,90,90
+2560,2026-10-24,Backpack,Accessories,North America,Canada,3,40,120
+3154,2026-10-24,Sneakers,Clothing,Asia,India,3,60,180
+3689,2026-10-25,Backpack,Accessories,Europe,Spain,1,40,40
+3044,2026-10-25,Sneakers,Clothing,Asia,United Arab Emirates,1,60,60
+3449,2026-10-25,Headphones,Electronics,North America,Canada,3,45,135
+2952,2026-10-25,Smart Watch,Electronics,Asia,India,2,90,180
+2840,2026-10-25,Charger,Electronics,Europe,Germany,2,15,30
+1964,2026-10-25,Smart Watch,Electronics,North America,United States,3,90,270
+1031,2026-10-25,Sunglasses,Accessories,Oceania,Australia,3,30,90
+2391,2026-10-25,T-Shirt,Clothing,North America,Canada,1,25,25
+3329,2026-10-25,T-Shirt,Clothing,North America,Mexico,1,25,25
+3827,2026-10-25,Charger,Electronics,Oceania,New Zealand,2,15,30
+1198,2026-10-26,Backpack,Accessories,Asia,India,1,40,40
+1618,2026-10-26,Sunglasses,Accessories,Oceania,Australia,1,30,30
+2306,2026-10-26,Charger,Electronics,Oceania,New Zealand,1,15,15
+1808,2026-10-26,Headphones,Electronics,Europe,France,3,45,135
+1398,2026-10-26,Headphones,Electronics,Asia,Saudi Arabia,3,45,135
+2027,2026-10-27,Charger,Electronics,Africa,South Africa,1,15,15
+2586,2026-10-27,Smart Watch,Electronics,Asia,Japan,2,90,180
+1452,2026-10-27,Sneakers,Clothing,Antarctica,Antarctica,3,60,180
+3502,2026-10-27,Smart Watch,Electronics,North America,Mexico,2,90,180
+1936,2026-10-27,Sneakers,Clothing,Europe,Spain,3,60,180
+3027,2026-10-28,Headphones,Electronics,Europe,United Kingdom,3,45,135
+2965,2026-10-28,Charger,Electronics,North America,Canada,2,15,30
+3158,2026-10-28,Smart Watch,Electronics,Asia,Saudi Arabia,2,90,180
+1773,2026-10-28,Smart Watch,Electronics,North America,Canada,1,90,90
+3166,2026-10-29,Sunglasses,Accessories,Africa,South Africa,2,30,60
+1819,2026-10-29,Smart Watch,Electronics,North America,Mexico,3,90,270
+3220,2026-10-29,Backpack,Accessories,Europe,Spain,3,40,120
+2307,2026-10-29,Sneakers,Clothing,Europe,United Kingdom,2,60,120
+2615,2026-10-29,Headphones,Electronics,South America,Brazil,1,45,45
+2384,2026-10-29,Headphones,Electronics,South America,Brazil,3,45,135
+1684,2026-10-29,T-Shirt,Clothing,Asia,United Arab Emirates,1,25,25
+1149,2026-10-30,T-Shirt,Clothing,North America,United States,2,25,50
+1515,2026-10-30,Sunglasses,Accessories,Oceania,New Zealand,3,30,90
+3194,2026-10-30,Headphones,Electronics,North America,Mexico,2,45,90
+3656,2026-10-30,Backpack,Accessories,North America,Canada,3,40,120
+1727,2026-10-30,Smart Watch,Electronics,South America,Chile,1,90,90
+3115,2026-10-30,Backpack,Accessories,Africa,Morocco,1,40,40
+3972,2026-10-30,Sneakers,Clothing,Asia,India,1,60,60
+2181,2026-10-30,Charger,Electronics,Asia,Jordan,3,15,45
+3460,2026-10-31,Sneakers,Clothing,North America,Canada,2,60,120
+1332,2026-10-31,Headphones,Electronics,Europe,Spain,3,45,135
+2214,2026-10-31,Backpack,Accessories,South America,Chile,1,40,40
+2397,2026-10-31,Backpack,Accessories,Europe,Germany,3,40,120
+3048,2026-10-31,T-Shirt,Clothing,Europe,France,2,25,50
+3393,2026-10-31,T-Shirt,Clothing,Asia,United Arab Emirates,3,25,75
+2155,2026-10-31,Sneakers,Clothing,South America,Brazil,3,60,180
+1072,2026-10-31,Backpack,Accessories,Africa,Nigeria,3,40,120
